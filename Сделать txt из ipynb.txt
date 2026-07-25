@@ -1,0 +1,17 @@
+Через поиск найти командную строку.
+
+Вызвать свойства lecture.ipynb и забрать полный путь к файлу.
+
+Перейти в директорию
+
+Посмотреть, на месте ли файл:
+
+dir
+
+Сделать md из ipynb:
+
+python -m jupyter nbconvert lecture.ipynb --to markdown
+
+Сделать txt из ipynb:
+
+python -m jupyter nbconvert lecture.ipynb --to markdown && ren lecture.md lecture.txt

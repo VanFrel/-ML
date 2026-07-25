@@ -1,0 +1,3001 @@
+customer_id,lifetime,contract_type,monthly_charges,tech_support,satisfaction,churn
+1000,21.0,year,178.37,No,1,No
+1001,5.0,year,236.41,Yes,9,True
+1002,4.0,month,214.73,No,3,Yes
+1003,20.0,half year,78.44,No,good,True
+1004,15.0,year,229.61,No,2,No
+1005,15.0,year,102.1,Yes,0,1
+1006,2.0,year,388.2,No,9,True
+1007,18.0,year,190.86,No,1,Yes
+1008,13.0,year,304.18,No,1,No
+1009,20.0,year,465.02,No,2,No
+1010,16.0,month,326.91,No,1,0
+1011,3.0,month,282.55,Yes,3,No
+1012,5.0,year,490.39,No,6,Yes
+1013,6.0,year,72.9,No,3,False
+1014,14.0,half year,238.58,No,3,No
+1015,11.0,year,179.33,Yes,2,No
+1016,10.0,month,138.39,No,5,No
+1017,3.0,half year,361.85,No,4,No
+1018,15.0,month,269.1,No,7,1
+1019,15.0,year,484.49,0,bed,No
+1020,2.0,month,104.57,1,3,No
+1021,21.0,year,132.12,No,9,Yes
+1022,6.0,half year,347.1,No,9,True
+1023,11.0,year,326.21,Yes,0,True
+1024,7.0,month,379.12,Yes,4,False
+1025,4.0,year,267.53,Yes,9,Yes
+1026,23.0,month,477.71,Yes,5,No
+1027,5.0,month,422.49,Yes,9,True
+1028,4.0,half year,280.4,No,6,No
+1029,17.0,year,471.96,No,0,False
+1030,9.0,year,253.69,No,7,No
+1031,17.0,year,22.76,No,9,No
+1032,8.0,half year,288.61,No,3,Yes
+1033,20.0,half year,363.36,Yes,1,No
+1034,18.0,year,204.73,No,4,No
+1035,4.0,half year,423.4,No,4,Yes
+1036,20.0,half year,67.61,No,4,Yes
+1037,14.0,half year,267.02,0,9,0
+1038,2.0,half year,423.93,No,4,Yes
+1039,12.0,month,19.37,No,8,False
+1040,4.0,year,334.91,Yes,3,Yes
+1041,12.0,month,22.74,No,good,False
+1042,6.0,month,114.68,No,3,Yes
+1043,5.0,month,264.35,0,good,0
+1044,15.0,year,272.39,No,4,0
+1045,21.0,half year,416.66,No,6,True
+1046,2.0,year,226.71,No,7,0
+1047,21.0,year,148.86,No,2,No
+1048,17.0,year,291.11,Yes,8,Yes
+1049,4.0,year,276.65,Yes,8,Yes
+1050,23.0,,51.27,No,5,No
+1051,20.0,half year,329.11,No,3,No
+1052,5.0,half year,58.99,No,6,Yes
+1053,7.0,year,395.35,0,7,Yes
+1054,9.0,month,59.99,No,5,False
+1055,13.0,half year,129.0,No,1,No
+1056,8.0,year,153.2,No,2,No
+1057,,half year,170.37,No,0,0
+1058,5.0,month,183.05,No,5,0
+1059,16.0,month,408.44,Yes,8,1
+1060,2.0,year,219.85,No,1,Yes
+1061,2.0,year,43.94,No,0,Yes
+1062,17.0,year,242.26,No,0,True
+1063,14.0,month,27.19,No,0,No
+1064,13.0,half year,245.9,1,9,0
+1065,2.0,month,199.72,No,0,Yes
+1066,1.0,year,223.33,Yes,0,Yes
+1067,8.0,year,186.12,Yes,8,0
+1068,23.0,half year,58.45,No,1,No
+1069,21.0,month,471.81,0,9,No
+1070,18.0,month,257.48,0,5,True
+1071,12.0,year,296.38,Yes,1,No
+1072,16.0,year,255.3,No,3,Yes
+1073,10.0,year,141.88,No,9,No
+1074,16.0,year,465.41,Yes,5,1
+1075,22.0,month,430.16,No,8,False
+1076,3.0,half year,282.99,Yes,4,0
+1077,4.0,year,281.88,No,5,No
+1078,16.0,year,162.13,No,1,True
+1079,21.0,half year,370.57,No,7,False
+1080,22.0,month,417.86,No,5,Yes
+1081,1.0,month,145.13,Yes,5,False
+1082,18.0,year,358.65,No,8,No
+1083,7.0,year,367.47,Yes,8,0
+1084,12.0,half year,307.27,No,8,No
+1085,7.0,half year,311.88,No,good,No
+1086,10.0,half year,224.12,No,0,No
+1087,6.0,year,241.19,No,7,Yes
+1088,4.0,month,171.28,No,2,No
+1089,1.0,half year,128.27,Yes,good,No
+1090,11.0,month,350.77,No,8,Yes
+1091,4.0,half year,15.98,Yes,5,Yes
+1092,3.0,year,276.54,No,8,No
+1093,2.0,half year,400.07,0,0,No
+1094,7.0,month,279.01,No,7,True
+1095,17.0,year,244.64,No,9,1
+1096,12.0,year,410.86,No,bed,Yes
+1097,5.0,half year,144.14,No,7,Yes
+1098,23.0,half year,239.23,No,0,No
+1099,19.0,month,365.15,No,0,Yes
+1100,20.0,month,408.52,0,3,False
+1101,1.0,half year,321.7,1,9,False
+1102,3.0,month,426.18,1,8,No
+1103,16.0,year,377.51,No,7,Yes
+1104,14.0,month,39.38,No,7,No
+1105,2.0,month,195.84,No,5,Yes
+1106,1.0,half year,173.53,Yes,2,No
+1107,7.0,,423.29,No,4,Yes
+1108,22.0,half year,127.29,Yes,5,Yes
+1109,20.0,half year,276.0,No,1,True
+1110,11.0,year,182.41,No,8,Yes
+1111,,half year,186.06,Yes,4,True
+1112,4.0,year,56.14,Yes,7,No
+1113,16.0,half year,179.92,No,5,No
+1114,17.0,half year,387.21,No,1,False
+1115,1.0,half year,231.83,No,0,No
+1116,12.0,month,182.24,No,6,Yes
+1117,17.0,month,68.47,No,7,1
+1118,16.0,year,472.07,Yes,2,Yes
+1119,4.0,month,358.61,No,7,False
+1120,18.0,half year,373.37,No,3,No
+1121,22.0,month,316.17,Yes,1,No
+1122,16.0,half year,284.19,0,good,No
+1123,22.0,year,43.15,Yes,6,No
+1124,2.0,half year,409.08,0,0,No
+1125,10.0,month,110.51,No,6,False
+1126,14.0,year,193.14,No,4,False
+1127,6.0,half year,106.86,0,1,True
+1128,16.0,half year,64.98,No,5,Yes
+1129,7.0,year,321.97,No,3,Yes
+1130,,year,243.93,No,1,No
+1131,1.0,month,434.15,Yes,3,Yes
+1132,1.0,year,177.35,Yes,8,True
+1133,12.0,month,210.57,0,1,Yes
+1134,2.0,month,77.02,No,6,No
+1135,13.0,month,364.72,No,9,0
+1136,13.0,year,365.04,0,2,Yes
+1137,18.0,month,351.65,1,7,Yes
+1138,20.0,year,426.38,No,0,False
+1139,3.0,month,277.54,Yes,2,True
+1140,1.0,year,178.6,No,3,False
+1141,9.0,month,384.86,Yes,2,Yes
+1142,8.0,year,315.63,No,1,False
+1143,19.0,half year,245.47,0,8,No
+1144,4.0,half year,284.05,Yes,1,0
+1145,5.0,half year,355.3,No,0,False
+1146,17.0,year,238.91,0,7,1
+1147,12.0,half year,422.34,No,5,True
+1148,13.0,half year,49.92,No,2,No
+1149,14.0,year,17.6,No,7,Yes
+1150,17.0,half year,356.65,No,3,Yes
+1151,22.0,half year,321.19,No,7,No
+1152,20.0,month,336.62,No,8,No
+1153,19.0,year,44.03,0,0,Yes
+1154,7.0,month,73.6,No,5,No
+1155,14.0,half year,47.31,Yes,5,No
+1156,,year,151.43,Yes,8,True
+1157,7.0,year,247.13,0,2,Yes
+1158,15.0,month,117.09,No,3,True
+1159,13.0,half year,356.21,No,2,Yes
+1160,5.0,year,404.62,Yes,bed,True
+1161,14.0,year,174.64,No,9,Yes
+1162,3.0,year,213.94,No,6,False
+1163,15.0,year,76.02,No,6,Yes
+1164,1.0,half year,45.5,Yes,8,False
+1165,22.0,month,123.28,No,4,1
+1166,22.0,month,484.18,No,7,True
+1167,8.0,half year,147.14,No,1,Yes
+1168,20.0,month,91.34,Yes,7,Yes
+1169,14.0,year,207.85,0,good,No
+1170,2.0,year,304.14,Yes,8,Yes
+1171,7.0,year,389.63,No,3,Yes
+1172,15.0,month,346.86,0,6,No
+1173,13.0,half year,424.25,No,6,Yes
+1174,19.0,month,80.84,0,1,True
+1175,8.0,year,219.63,No,7,True
+1176,1.0,year,88.01,No,7,No
+1177,15.0,month,46.66,No,1,0
+1178,8.0,month,15.64,No,1,No
+1179,20.0,month,254.73,1,4,False
+1180,14.0,month,190.0,No,3,No
+1181,6.0,half year,123.77,1,3,Yes
+1182,3.0,half year,413.16,No,2,False
+1183,6.0,half year,382.51,No,2,Yes
+1184,1.0,month,436.83,Yes,1,Yes
+1185,17.0,half year,446.54,Yes,1,Yes
+1186,23.0,year,375.39,Yes,3,0
+1187,15.0,year,413.53,0,1,False
+1188,21.0,month,415.04,No,8,0
+1189,20.0,half year,464.81,No,0,No
+1190,18.0,month,283.92,No,1,1
+1191,2.0,year,359.23,Yes,2,1
+1192,5.0,year,355.86,No,3,No
+1193,10.0,year,36.04,No,5,Yes
+1194,8.0,year,124.05,No,4,No
+1195,19.0,month,97.66,No,7,Yes
+1196,1.0,half year,89.6,No,6,Yes
+1197,2.0,year,175.62,0,5,True
+1198,21.0,year,200.35,0,4,No
+1199,15.0,half year,377.85,No,good,False
+1200,23.0,half year,68.31,No,9,No
+1201,11.0,month,401.16,No,4,1
+1202,3.0,year,453.0,Yes,0,Yes
+1203,19.0,half year,146.94,0,4,Yes
+1204,16.0,half year,479.83,No,1,False
+1205,6.0,year,108.8,No,1,True
+1206,,month,459.32,No,1,0
+1207,5.0,month,110.83,Yes,0,False
+1208,13.0,half year,258.07,No,8,No
+1209,20.0,month,420.48,No,2,True
+1210,17.0,half year,444.06,No,good,No
+1211,9.0,half year,199.35,1,0,Yes
+1212,11.0,half year,38.99,1,6,Yes
+1213,4.0,year,261.11,No,3,No
+1214,,year,486.77,No,bed,Yes
+1215,1.0,month,460.22,1,7,Yes
+1216,3.0,year,366.7,No,7,True
+1217,10.0,half year,37.09,No,good,Yes
+1218,16.0,year,39.54,No,0,Yes
+1219,9.0,half year,439.9,No,5,0
+1220,5.0,year,326.98,Yes,6,True
+1221,4.0,year,103.5,Yes,7,Yes
+1222,,month,443.48,Yes,3,0
+1223,14.0,half year,135.92,No,7,False
+1224,16.0,month,170.34,Yes,0,No
+1225,9.0,year,485.4,No,7,Yes
+1226,18.0,month,240.13,No,5,No
+1227,19.0,month,84.48,No,0,1
+1228,11.0,year,408.75,No,7,False
+1229,10.0,half year,294.34,No,bed,Yes
+1230,16.0,year,174.96,No,2,No
+1231,15.0,year,269.35,No,bed,Yes
+1232,8.0,month,302.55,Yes,6,No
+1233,17.0,month,162.79,No,6,No
+1234,10.0,month,120.44,Yes,8,No
+1235,1.0,half year,409.6,No,9,No
+1236,,year,211.2,No,0,Yes
+1237,17.0,month,266.7,No,9,Yes
+1238,7.0,year,29.24,No,bed,True
+1239,8.0,half year,84.51,No,4,1
+1240,21.0,month,121.52,No,4,No
+1241,11.0,month,451.35,Yes,1,No
+1242,15.0,year,158.68,Yes,9,False
+1243,6.0,,421.47,No,9,0
+1244,10.0,year,241.57,Yes,1,1
+1245,,year,191.3,1,3,Yes
+1246,,month,18.39,No,4,No
+1247,4.0,half year,56.66,Yes,bed,Yes
+1248,9.0,year,360.2,No,0,No
+1249,18.0,half year,182.83,0,4,No
+1250,13.0,year,483.48,No,2,Yes
+1251,,month,289.56,0,0,Yes
+1252,16.0,half year,359.11,1,good,0
+1253,20.0,month,459.95,No,4,False
+1254,19.0,half year,401.09,Yes,6,No
+1255,21.0,half year,165.57,Yes,2,0
+1256,8.0,half year,178.24,No,0,True
+1257,4.0,month,82.05,1,3,No
+1258,21.0,year,185.42,Yes,9,Yes
+1259,11.0,year,311.59,No,5,0
+1260,23.0,year,360.33,No,1,No
+1261,1.0,month,337.2,No,0,Yes
+1262,8.0,year,238.04,Yes,0,No
+1263,,half year,157.65,No,4,No
+1264,12.0,year,196.46,0,6,No
+1265,16.0,month,180.92,No,7,False
+1266,20.0,month,94.8,No,5,Yes
+1267,16.0,month,283.65,0,5,No
+1268,9.0,half year,286.18,0,2,Yes
+1269,11.0,month,171.28,No,4,1
+1270,9.0,year,188.61,Yes,good,No
+1271,18.0,month,311.98,0,good,No
+1272,23.0,year,111.14,No,1,Yes
+1273,11.0,half year,317.03,No,5,0
+1274,17.0,month,457.08,No,8,True
+1275,7.0,year,82.34,1,1,True
+1276,16.0,half year,102.03,No,0,Yes
+1277,13.0,year,410.8,No,7,0
+1278,13.0,year,153.52,Yes,6,No
+1279,12.0,half year,414.88,0,6,Yes
+1280,5.0,year,50.14,No,5,No
+1281,3.0,half year,229.85,No,good,False
+1282,17.0,year,176.02,No,5,No
+1283,9.0,half year,281.61,No,3,No
+1284,1.0,year,240.25,No,3,No
+1285,18.0,year,128.42,Yes,8,No
+1286,4.0,month,344.31,No,3,True
+1287,21.0,year,437.13,No,6,Yes
+1288,5.0,month,166.47,No,2,Yes
+1289,9.0,half year,271.24,1,2,True
+1290,20.0,year,286.91,No,1,Yes
+1291,2.0,month,82.38,No,1,Yes
+1292,16.0,year,330.27,Yes,7,True
+1293,2.0,half year,25.51,0,6,1
+1294,20.0,year,188.56,No,8,No
+1295,14.0,month,207.19,Yes,1,No
+1296,13.0,half year,36.68,Yes,5,No
+1297,23.0,month,150.0,No,4,0
+1298,13.0,half year,387.68,No,bed,No
+1299,12.0,half year,311.91,Yes,4,1
+1300,2.0,month,72.76,No,good,True
+1301,14.0,month,466.13,0,bed,No
+1302,5.0,month,432.64,1,3,0
+1303,14.0,half year,25.77,No,1,False
+1304,7.0,month,150.39,No,0,0
+1305,19.0,year,421.87,No,0,Yes
+1306,17.0,month,42.08,No,7,Yes
+1307,4.0,year,354.44,1,7,1
+1308,16.0,half year,300.85,No,5,No
+1309,7.0,half year,338.98,1,3,Yes
+1310,3.0,year,412.44,No,2,Yes
+1311,11.0,month,434.16,1,9,0
+1312,23.0,year,97.08,Yes,3,False
+1313,17.0,month,97.96,0,9,True
+1314,12.0,year,150.27,No,5,Yes
+1315,22.0,month,38.72,No,4,False
+1316,,half year,144.62,No,1,Yes
+1317,21.0,half year,457.68,Yes,1,0
+1318,13.0,half year,225.58,No,1,Yes
+1319,4.0,year,13.27,No,bed,No
+1320,,half year,175.35,Yes,8,Yes
+1321,3.0,month,133.75,1,6,No
+1322,22.0,half year,315.77,0,3,Yes
+1323,14.0,year,275.71,No,1,Yes
+1324,18.0,year,19.88,No,2,No
+1325,2.0,month,123.96,1,1,No
+1326,5.0,half year,105.45,0,7,False
+1327,17.0,year,292.97,0,8,1
+1328,13.0,half year,147.98,No,6,Yes
+1329,6.0,month,363.9,Yes,9,No
+1330,6.0,month,109.3,No,2,Yes
+1331,21.0,half year,282.52,0,7,False
+1332,9.0,year,453.97,No,9,No
+1333,13.0,half year,463.16,1,0,1
+1334,13.0,half year,297.74,No,1,No
+1335,14.0,,202.13,No,7,False
+1336,17.0,year,400.58,No,0,No
+1337,23.0,year,418.84,No,9,0
+1338,4.0,half year,38.28,No,6,True
+1339,12.0,half year,172.15,No,9,True
+1340,13.0,half year,102.9,No,4,No
+1341,6.0,year,250.73,No,0,No
+1342,19.0,year,171.09,1,4,0
+1343,,year,333.29,No,4,No
+1344,20.0,half year,443.36,No,8,Yes
+1345,,year,179.71,No,9,Yes
+1346,4.0,year,442.0,Yes,9,True
+1347,9.0,half year,320.97,1,bed,No
+1348,13.0,half year,302.83,Yes,6,0
+1349,20.0,year,372.42,No,9,No
+1350,11.0,year,209.02,No,5,True
+1351,11.0,half year,303.76,No,6,Yes
+1352,1.0,half year,96.84,0,9,Yes
+1353,10.0,month,68.52,No,7,Yes
+1354,17.0,year,465.13,No,3,Yes
+1355,17.0,year,401.37,No,1,No
+1356,6.0,year,98.94,0,8,Yes
+1357,22.0,year,367.57,0,1,0
+1358,5.0,month,355.18,No,8,Yes
+1359,5.0,year,340.45,No,7,Yes
+1360,18.0,half year,265.74,No,good,1
+1361,13.0,year,39.38,No,2,False
+1362,12.0,half year,50.46,No,5,No
+1363,16.0,year,66.32,No,5,1
+1364,5.0,year,41.27,1,2,True
+1365,18.0,year,163.09,No,4,No
+1366,22.0,month,283.91,No,9,Yes
+1367,7.0,half year,177.15,Yes,6,No
+1368,19.0,half year,444.79,0,7,No
+1369,15.0,year,127.35,No,6,No
+1370,6.0,year,34.33,No,1,No
+1371,13.0,year,108.46,No,bed,False
+1372,5.0,year,300.13,No,3,1
+1373,7.0,half year,482.36,Yes,3,Yes
+1374,13.0,year,387.34,Yes,5,No
+1375,4.0,year,304.85,1,1,No
+1376,23.0,month,47.07,No,9,Yes
+1377,6.0,year,40.12,No,2,Yes
+1378,5.0,month,341.68,1,bed,True
+1379,10.0,half year,276.05,No,8,Yes
+1380,22.0,half year,497.25,No,7,Yes
+1381,9.0,year,242.17,No,9,Yes
+1382,17.0,year,492.97,Yes,4,Yes
+1383,17.0,half year,21.65,No,7,No
+1384,21.0,year,421.81,1,0,Yes
+1385,12.0,half year,289.21,No,bed,True
+1386,2.0,year,220.54,No,1,No
+1387,17.0,month,472.06,No,bed,False
+1388,8.0,half year,223.96,Yes,4,Yes
+1389,6.0,year,199.2,No,8,Yes
+1390,21.0,month,136.34,Yes,6,1
+1391,5.0,year,414.31,No,8,True
+1392,14.0,month,245.99,No,6,Yes
+1393,11.0,,442.95,No,7,1
+1394,5.0,month,478.55,No,1,Yes
+1395,7.0,year,132.78,0,7,Yes
+1396,14.0,month,45.0,No,5,False
+1397,7.0,year,246.78,Yes,2,Yes
+1398,5.0,year,60.02,No,bed,Yes
+1399,22.0,half year,456.99,No,6,No
+1400,19.0,year,388.72,1,good,No
+1401,3.0,year,116.74,No,2,True
+1402,17.0,half year,390.68,0,7,No
+1403,2.0,year,129.21,No,9,No
+1404,16.0,month,403.72,Yes,8,No
+1405,10.0,year,30.18,No,5,True
+1406,1.0,half year,177.84,No,5,Yes
+1407,22.0,month,23.72,No,9,True
+1408,22.0,month,37.48,No,3,No
+1409,10.0,year,185.15,No,0,False
+1410,,year,27.09,1,6,False
+1411,20.0,year,327.4,No,3,No
+1412,8.0,half year,160.49,No,7,False
+1413,19.0,year,386.31,No,6,False
+1414,17.0,year,172.71,No,3,1
+1415,2.0,year,470.01,Yes,8,Yes
+1416,15.0,year,491.41,No,1,0
+1417,10.0,month,163.47,No,7,Yes
+1418,3.0,year,474.19,Yes,good,Yes
+1419,23.0,month,272.01,No,6,Yes
+1420,,month,368.16,No,bed,1
+1421,13.0,year,203.0,0,8,False
+1422,14.0,month,268.85,Yes,8,Yes
+1423,19.0,month,56.86,No,5,No
+1424,9.0,half year,472.42,No,2,No
+1425,20.0,half year,290.58,1,0,No
+1426,13.0,,414.46,Yes,5,No
+1427,19.0,year,196.16,No,3,Yes
+1428,15.0,month,393.68,No,4,No
+1429,9.0,month,369.28,Yes,7,False
+1430,9.0,year,79.09,No,2,False
+1431,1.0,year,288.78,No,0,Yes
+1432,16.0,month,400.33,No,4,Yes
+1433,,half year,34.72,No,0,Yes
+1434,21.0,half year,383.57,No,5,True
+1435,6.0,month,467.16,0,8,Yes
+1436,17.0,half year,481.45,0,0,Yes
+1437,21.0,month,284.28,0,0,0
+1438,,half year,476.98,Yes,5,No
+1439,2.0,half year,267.68,No,0,No
+1440,21.0,month,28.88,No,7,False
+1441,,month,196.67,No,6,1
+1442,5.0,year,122.75,No,2,No
+1443,15.0,half year,180.23,Yes,2,Yes
+1444,20.0,half year,116.65,1,9,Yes
+1445,17.0,month,27.7,0,0,No
+1446,20.0,year,450.18,No,1,No
+1447,13.0,half year,487.04,No,6,No
+1448,7.0,month,113.92,No,bed,1
+1449,,half year,139.18,No,3,No
+1450,7.0,year,333.16,No,bed,0
+1451,14.0,month,468.87,No,3,Yes
+1452,16.0,year,303.94,No,6,Yes
+1453,22.0,year,19.42,No,5,1
+1454,3.0,half year,433.94,Yes,2,Yes
+1455,5.0,year,112.21,Yes,2,Yes
+1456,15.0,year,460.77,No,9,Yes
+1457,15.0,month,442.51,No,4,1
+1458,11.0,half year,319.1,No,0,Yes
+1459,6.0,half year,489.06,No,9,Yes
+1460,1.0,half year,385.92,0,9,1
+1461,14.0,half year,487.36,No,8,1
+1462,4.0,year,418.03,No,4,Yes
+1463,11.0,year,116.11,No,7,No
+1464,13.0,month,73.58,No,2,No
+1465,3.0,year,319.91,No,5,No
+1466,21.0,half year,333.95,Yes,6,Yes
+1467,,month,150.31,Yes,9,1
+1468,11.0,year,396.27,Yes,8,Yes
+1469,6.0,half year,127.04,No,8,1
+1470,11.0,,286.36,No,8,True
+1471,7.0,year,52.45,0,2,False
+1472,4.0,half year,436.65,No,0,Yes
+1473,15.0,month,209.15,Yes,4,False
+1474,23.0,month,102.27,Yes,7,Yes
+1475,,year,179.6,No,2,Yes
+1476,8.0,month,306.44,No,3,No
+1477,10.0,month,17.56,1,6,No
+1478,1.0,month,404.7,No,3,No
+1479,6.0,half year,265.66,No,2,0
+1480,16.0,year,31.09,Yes,6,Yes
+1481,12.0,month,469.68,Yes,5,Yes
+1482,16.0,year,54.01,Yes,4,Yes
+1483,7.0,year,275.74,1,2,True
+1484,11.0,year,15.97,1,0,Yes
+1485,21.0,half year,139.36,No,7,0
+1486,2.0,month,116.41,No,9,No
+1487,21.0,half year,179.31,No,5,No
+1488,12.0,month,183.59,No,5,Yes
+1489,11.0,year,216.72,0,4,No
+1490,6.0,month,281.63,No,7,Yes
+1491,5.0,month,354.79,0,bed,Yes
+1492,12.0,year,475.01,Yes,6,0
+1493,3.0,year,159.96,No,9,Yes
+1494,5.0,half year,417.11,1,1,No
+1495,6.0,month,126.06,No,8,Yes
+1496,6.0,year,354.52,Yes,4,No
+1497,1.0,half year,37.75,No,3,Yes
+1498,14.0,year,290.28,Yes,5,Yes
+1499,12.0,month,282.82,No,2,0
+1500,2.0,half year,54.36,Yes,0,1
+1501,6.0,year,431.9,No,6,Yes
+1502,5.0,month,34.01,No,3,No
+1503,13.0,year,360.93,Yes,6,No
+1504,23.0,month,476.95,No,0,No
+1505,23.0,year,169.31,1,2,Yes
+1506,11.0,half year,321.28,1,0,Yes
+1507,5.0,half year,328.49,1,9,0
+1508,11.0,year,87.67,No,9,No
+1509,12.0,month,81.89,No,8,False
+1510,7.0,half year,244.02,Yes,0,Yes
+1511,15.0,year,31.1,No,5,1
+1512,21.0,year,121.22,Yes,0,No
+1513,11.0,year,169.94,Yes,0,False
+1514,10.0,year,446.91,No,6,True
+1515,6.0,month,35.9,No,2,Yes
+1516,8.0,half year,411.78,Yes,0,1
+1517,23.0,half year,105.62,0,6,Yes
+1518,23.0,year,170.68,1,3,0
+1519,20.0,half year,120.23,No,7,Yes
+1520,8.0,year,470.38,Yes,1,Yes
+1521,9.0,month,18.18,Yes,2,Yes
+1522,15.0,half year,476.75,No,1,No
+1523,,month,137.06,No,0,1
+1524,16.0,half year,171.57,No,9,0
+1525,9.0,year,302.91,0,9,No
+1526,11.0,year,441.96,1,3,No
+1527,12.0,year,31.63,No,4,Yes
+1528,5.0,half year,217.49,No,good,No
+1529,,month,121.86,Yes,7,No
+1530,10.0,year,488.69,1,4,1
+1531,22.0,half year,271.09,No,good,True
+1532,3.0,half year,251.16,No,8,0
+1533,20.0,month,157.66,No,0,Yes
+1534,15.0,month,380.3,No,1,Yes
+1535,13.0,month,220.91,Yes,2,0
+1536,5.0,month,101.68,No,2,No
+1537,17.0,month,192.6,Yes,3,No
+1538,6.0,month,329.69,Yes,bed,True
+1539,4.0,half year,401.29,Yes,2,No
+1540,,year,464.81,Yes,3,False
+1541,2.0,half year,264.34,No,0,Yes
+1542,3.0,month,281.9,0,8,False
+1543,6.0,month,189.86,Yes,3,True
+1544,15.0,month,34.22,No,bed,False
+1545,23.0,half year,140.5,0,2,0
+1546,21.0,half year,468.1,No,3,False
+1547,18.0,month,489.98,No,8,Yes
+1548,1.0,,175.98,No,8,Yes
+1549,10.0,month,79.92,1,4,No
+1550,23.0,month,498.67,No,4,True
+1551,16.0,month,429.08,No,0,True
+1552,9.0,year,316.4,No,3,0
+1553,17.0,half year,444.8,Yes,good,No
+1554,9.0,half year,188.78,No,7,No
+1555,14.0,half year,235.19,No,1,No
+1556,16.0,month,109.09,Yes,9,Yes
+1557,17.0,half year,432.03,No,5,No
+1558,15.0,half year,17.39,No,9,1
+1559,13.0,half year,137.94,No,6,1
+1560,8.0,half year,185.74,0,1,1
+1561,3.0,half year,413.17,No,7,0
+1562,16.0,half year,253.93,No,1,False
+1563,14.0,month,477.62,Yes,6,1
+1564,22.0,,140.57,Yes,3,Yes
+1565,16.0,half year,142.75,1,2,False
+1566,18.0,month,56.07,Yes,9,Yes
+1567,6.0,year,287.83,No,8,True
+1568,5.0,year,440.83,No,1,No
+1569,,year,139.03,No,9,No
+1570,20.0,year,122.8,No,8,No
+1571,3.0,month,154.25,No,9,True
+1572,23.0,year,229.59,No,good,Yes
+1573,6.0,half year,288.93,No,3,Yes
+1574,5.0,year,397.05,No,5,1
+1575,3.0,month,411.52,No,7,1
+1576,15.0,year,10.74,1,4,0
+1577,8.0,year,360.38,Yes,0,No
+1578,6.0,half year,93.25,No,9,True
+1579,,year,457.5,No,7,Yes
+1580,20.0,month,372.34,No,5,False
+1581,,year,335.96,No,1,Yes
+1582,3.0,year,430.81,1,good,No
+1583,16.0,month,188.09,Yes,2,Yes
+1584,4.0,half year,273.5,1,7,Yes
+1585,14.0,year,229.63,No,0,Yes
+1586,2.0,half year,259.42,0,bed,No
+1587,20.0,year,35.5,Yes,2,Yes
+1588,19.0,month,111.04,Yes,2,No
+1589,2.0,month,324.61,No,2,1
+1590,13.0,half year,453.78,Yes,1,No
+1591,22.0,year,448.17,No,bed,Yes
+1592,8.0,half year,378.71,Yes,5,No
+1593,5.0,year,398.83,No,6,Yes
+1594,14.0,year,184.8,1,bed,0
+1595,6.0,month,39.88,Yes,1,Yes
+1596,16.0,year,421.8,No,1,No
+1597,,year,435.66,No,0,0
+1598,10.0,year,298.09,No,8,No
+1599,21.0,half year,89.8,1,2,Yes
+1600,16.0,half year,428.58,No,6,No
+1601,19.0,year,187.09,Yes,4,1
+1602,18.0,half year,173.17,Yes,9,1
+1603,19.0,month,405.83,0,1,Yes
+1604,20.0,month,395.5,No,1,No
+1605,12.0,month,406.39,No,0,0
+1606,11.0,half year,345.12,No,6,Yes
+1607,16.0,half year,253.34,No,1,True
+1608,3.0,half year,485.49,No,6,True
+1609,7.0,year,279.14,No,2,1
+1610,18.0,half year,440.03,0,5,0
+1611,23.0,half year,377.96,No,0,Yes
+1612,5.0,year,70.06,No,0,No
+1613,7.0,year,495.64,1,8,1
+1614,,month,463.95,0,good,Yes
+1615,22.0,year,285.34,1,3,True
+1616,4.0,half year,457.01,No,4,Yes
+1617,10.0,month,163.75,Yes,6,True
+1618,22.0,year,347.65,0,3,No
+1619,17.0,month,225.03,0,5,Yes
+1620,10.0,half year,376.56,No,good,Yes
+1621,21.0,year,206.91,Yes,4,Yes
+1622,17.0,year,40.44,Yes,1,No
+1623,11.0,,24.46,Yes,4,False
+1624,12.0,year,448.95,No,7,No
+1625,8.0,year,52.65,No,3,False
+1626,6.0,year,129.13,No,3,False
+1627,13.0,year,93.0,Yes,0,Yes
+1628,8.0,month,224.79,No,3,Yes
+1629,8.0,month,445.96,0,9,Yes
+1630,18.0,year,143.94,No,6,False
+1631,17.0,month,227.82,No,2,No
+1632,20.0,half year,485.88,No,1,Yes
+1633,,month,221.26,Yes,6,1
+1634,21.0,half year,363.84,No,1,No
+1635,20.0,year,130.35,Yes,7,No
+1636,,half year,353.63,No,0,Yes
+1637,11.0,half year,128.13,No,5,No
+1638,7.0,month,490.26,No,0,True
+1639,23.0,year,158.66,1,5,No
+1640,15.0,half year,262.94,No,1,No
+1641,7.0,year,196.87,No,1,No
+1642,7.0,year,41.62,No,good,Yes
+1643,9.0,half year,457.37,1,9,True
+1644,5.0,half year,339.52,0,0,1
+1645,5.0,month,438.91,Yes,4,No
+1646,17.0,month,225.43,0,7,Yes
+1647,19.0,month,461.42,No,2,Yes
+1648,19.0,month,402.91,No,1,0
+1649,3.0,month,361.81,No,good,Yes
+1650,5.0,month,149.9,No,1,No
+1651,5.0,year,257.79,0,5,1
+1652,12.0,month,297.14,Yes,0,No
+1653,14.0,half year,81.66,No,1,True
+1654,18.0,half year,381.66,No,8,No
+1655,14.0,month,28.09,No,5,1
+1656,11.0,year,168.53,No,6,1
+1657,19.0,half year,345.4,No,3,True
+1658,4.0,year,406.68,Yes,3,False
+1659,,half year,65.53,No,2,No
+1660,15.0,month,23.05,No,1,Yes
+1661,16.0,year,338.48,No,8,1
+1662,10.0,year,252.3,No,good,False
+1663,10.0,year,333.76,No,8,Yes
+1664,12.0,year,325.0,No,6,No
+1665,17.0,year,499.44,No,4,False
+1666,7.0,half year,329.4,No,6,No
+1667,13.0,month,312.11,No,2,No
+1668,18.0,month,320.62,Yes,3,No
+1669,5.0,year,337.3,No,6,False
+1670,15.0,year,213.7,No,5,1
+1671,6.0,month,484.79,0,7,Yes
+1672,12.0,half year,477.27,No,9,Yes
+1673,1.0,half year,66.31,1,2,0
+1674,7.0,month,418.31,Yes,2,False
+1675,6.0,half year,470.84,Yes,6,Yes
+1676,11.0,month,146.74,No,5,No
+1677,3.0,month,145.46,No,9,1
+1678,20.0,half year,12.53,No,2,No
+1679,6.0,year,44.33,No,bed,Yes
+1680,1.0,year,111.77,0,6,No
+1681,17.0,month,381.39,0,7,False
+1682,9.0,year,311.21,No,4,True
+1683,6.0,month,351.69,No,9,No
+1684,3.0,month,195.64,No,4,1
+1685,7.0,year,390.03,Yes,9,No
+1686,23.0,year,88.84,No,1,False
+1687,6.0,year,42.96,No,7,No
+1688,15.0,year,447.89,Yes,5,False
+1689,11.0,half year,239.15,Yes,1,Yes
+1690,23.0,half year,186.95,No,0,Yes
+1691,1.0,month,297.77,Yes,7,1
+1692,22.0,month,297.47,No,5,No
+1693,10.0,month,208.39,No,5,No
+1694,11.0,year,129.68,No,9,Yes
+1695,9.0,year,133.15,Yes,2,Yes
+1696,18.0,half year,209.34,No,5,No
+1697,1.0,year,435.22,No,2,No
+1698,9.0,year,478.1,No,8,No
+1699,2.0,half year,385.3,1,0,Yes
+1700,,half year,356.91,Yes,9,0
+1701,2.0,year,456.1,No,6,1
+1702,,year,56.9,1,1,False
+1703,17.0,month,306.07,No,1,No
+1704,5.0,month,94.07,No,8,0
+1705,7.0,year,252.2,Yes,8,1
+1706,7.0,half year,151.59,No,6,Yes
+1707,14.0,month,78.08,No,8,Yes
+1708,8.0,month,453.92,No,2,Yes
+1709,20.0,year,113.87,No,3,True
+1710,9.0,month,490.22,Yes,0,No
+1711,13.0,month,18.03,No,good,False
+1712,20.0,year,428.19,1,6,No
+1713,3.0,year,474.23,1,2,Yes
+1714,17.0,year,239.9,Yes,2,Yes
+1715,2.0,year,393.28,No,0,Yes
+1716,22.0,year,84.78,No,7,True
+1717,8.0,half year,375.61,Yes,3,Yes
+1718,11.0,month,42.93,No,6,Yes
+1719,20.0,year,456.52,No,0,Yes
+1720,17.0,month,408.18,No,8,Yes
+1721,4.0,half year,447.14,No,4,Yes
+1722,12.0,month,254.97,Yes,3,False
+1723,18.0,month,381.56,No,9,0
+1724,,month,485.71,No,9,0
+1725,20.0,year,432.94,No,6,0
+1726,14.0,month,161.06,No,bed,Yes
+1727,16.0,year,292.89,Yes,0,1
+1728,17.0,half year,200.24,No,bed,Yes
+1729,4.0,year,410.45,Yes,9,Yes
+1730,8.0,year,491.4,Yes,4,1
+1731,6.0,half year,486.0,No,2,1
+1732,22.0,month,306.04,No,0,1
+1733,14.0,half year,128.35,No,good,True
+1734,,year,57.28,Yes,0,True
+1735,17.0,month,464.5,No,9,Yes
+1736,23.0,month,270.09,No,8,Yes
+1737,,half year,468.92,1,3,No
+1738,23.0,year,467.11,Yes,0,True
+1739,7.0,year,247.82,No,0,False
+1740,5.0,half year,206.78,No,bed,No
+1741,20.0,month,461.34,Yes,9,1
+1742,17.0,year,155.63,No,2,Yes
+1743,,month,197.97,No,9,False
+1744,19.0,month,415.01,Yes,7,Yes
+1745,21.0,month,204.43,No,7,No
+1746,22.0,half year,124.75,No,5,No
+1747,23.0,year,72.52,Yes,8,No
+1748,19.0,month,157.21,No,8,Yes
+1749,7.0,year,188.82,Yes,3,0
+1750,17.0,half year,107.83,No,2,0
+1751,13.0,month,222.2,No,1,No
+1752,6.0,year,217.14,Yes,3,Yes
+1753,23.0,month,140.53,Yes,4,1
+1754,20.0,year,264.29,No,6,No
+1755,15.0,half year,162.75,No,9,1
+1756,3.0,month,470.06,No,4,Yes
+1757,23.0,year,366.6,No,6,Yes
+1758,,month,23.45,No,3,No
+1759,21.0,half year,489.81,No,7,True
+1760,18.0,year,337.27,No,7,No
+1761,2.0,year,266.91,No,6,False
+1762,15.0,half year,65.69,0,5,No
+1763,14.0,year,289.21,No,8,No
+1764,6.0,year,296.61,No,bed,No
+1765,8.0,year,64.29,Yes,8,1
+1766,18.0,year,195.3,No,5,Yes
+1767,7.0,half year,492.51,Yes,bed,No
+1768,11.0,half year,209.01,No,4,False
+1769,17.0,month,213.81,No,2,No
+1770,12.0,month,402.37,Yes,7,Yes
+1771,3.0,month,354.5,Yes,7,Yes
+1772,18.0,month,284.66,No,7,0
+1773,16.0,month,485.92,No,1,False
+1774,6.0,half year,132.14,Yes,9,No
+1775,10.0,year,155.68,Yes,1,False
+1776,2.0,month,62.59,0,4,Yes
+1777,1.0,month,106.26,No,0,No
+1778,4.0,year,322.09,0,1,Yes
+1779,8.0,month,60.74,No,6,1
+1780,23.0,year,228.33,No,1,False
+1781,15.0,month,71.98,No,0,0
+1782,11.0,month,358.31,No,3,False
+1783,18.0,month,93.69,No,bed,1
+1784,17.0,year,219.56,No,4,Yes
+1785,3.0,year,365.2,No,3,Yes
+1786,3.0,half year,46.9,No,1,No
+1787,6.0,year,393.21,No,0,No
+1788,2.0,half year,334.0,No,2,True
+1789,7.0,half year,234.79,No,6,0
+1790,8.0,half year,67.6,No,good,Yes
+1791,22.0,year,159.99,1,1,1
+1792,11.0,half year,424.37,Yes,2,No
+1793,10.0,half year,44.49,1,good,No
+1794,10.0,year,470.91,No,2,Yes
+1795,23.0,half year,21.73,No,2,Yes
+1796,4.0,half year,120.72,Yes,6,0
+1797,7.0,month,110.1,No,2,Yes
+1798,20.0,year,15.0,Yes,2,No
+1799,15.0,half year,461.69,No,9,No
+1800,1.0,month,193.11,Yes,6,No
+1801,16.0,month,418.04,No,4,No
+1802,15.0,month,467.27,No,9,False
+1803,18.0,half year,349.35,No,7,No
+1804,11.0,year,163.77,No,2,No
+1805,3.0,month,109.53,No,7,Yes
+1806,,month,112.38,No,bed,Yes
+1807,16.0,half year,222.77,Yes,bed,No
+1808,17.0,month,430.29,No,8,Yes
+1809,19.0,month,334.99,No,good,0
+1810,23.0,year,374.45,1,6,Yes
+1811,,half year,498.57,No,5,No
+1812,,year,251.08,Yes,1,Yes
+1813,17.0,month,210.23,No,2,Yes
+1814,1.0,year,334.53,1,9,True
+1815,1.0,year,240.04,No,2,Yes
+1816,10.0,month,405.32,No,0,1
+1817,6.0,month,39.11,0,bed,No
+1818,10.0,half year,420.78,No,3,0
+1819,23.0,half year,241.16,No,8,1
+1820,4.0,half year,354.93,1,7,No
+1821,18.0,half year,97.15,No,4,0
+1822,12.0,year,338.01,Yes,1,0
+1823,8.0,half year,44.03,No,7,No
+1824,17.0,year,13.49,No,3,No
+1825,13.0,half year,288.66,No,5,Yes
+1826,3.0,half year,331.17,No,4,1
+1827,12.0,half year,338.17,No,good,0
+1828,4.0,half year,331.16,1,0,No
+1829,19.0,month,103.18,Yes,5,Yes
+1830,3.0,half year,220.79,0,0,1
+1831,17.0,month,378.39,No,9,Yes
+1832,7.0,year,451.75,No,3,Yes
+1833,19.0,month,173.79,No,1,0
+1834,8.0,half year,221.73,No,4,True
+1835,12.0,half year,21.91,No,good,No
+1836,2.0,half year,334.39,No,0,0
+1837,1.0,half year,132.87,No,2,Yes
+1838,,half year,359.11,No,5,False
+1839,17.0,year,467.83,No,0,No
+1840,9.0,year,57.03,Yes,2,True
+1841,11.0,month,317.84,1,6,Yes
+1842,10.0,year,262.82,Yes,1,No
+1843,10.0,year,393.05,Yes,8,1
+1844,23.0,year,51.64,No,7,0
+1845,5.0,month,499.34,No,9,Yes
+1846,6.0,month,231.95,No,7,0
+1847,6.0,month,137.41,No,5,No
+1848,15.0,year,229.43,Yes,4,False
+1849,23.0,half year,118.07,No,good,True
+1850,5.0,half year,334.91,Yes,5,Yes
+1851,22.0,year,405.58,No,good,No
+1852,13.0,,92.51,0,4,No
+1853,14.0,year,114.58,No,7,No
+1854,3.0,half year,39.15,No,3,Yes
+1855,23.0,year,228.4,No,3,1
+1856,5.0,half year,58.01,No,6,Yes
+1857,16.0,month,499.23,0,bed,False
+1858,23.0,month,454.18,No,4,Yes
+1859,,half year,277.56,No,9,Yes
+1860,8.0,half year,104.54,Yes,0,1
+1861,6.0,year,76.29,1,1,0
+1862,17.0,year,310.96,No,7,No
+1863,23.0,half year,300.19,No,bed,1
+1864,12.0,month,152.9,Yes,6,1
+1865,16.0,year,445.12,Yes,9,True
+1866,13.0,year,356.44,1,9,No
+1867,18.0,month,85.02,1,bed,False
+1868,9.0,half year,57.81,Yes,bed,0
+1869,20.0,year,306.83,No,9,Yes
+1870,8.0,year,436.26,No,9,No
+1871,23.0,year,199.33,No,8,False
+1872,6.0,year,488.04,No,9,Yes
+1873,13.0,month,13.8,No,7,No
+1874,13.0,half year,113.36,No,5,No
+1875,6.0,year,356.97,1,8,No
+1876,11.0,year,447.8,No,2,1
+1877,18.0,half year,333.66,No,7,No
+1878,12.0,year,122.3,No,6,Yes
+1879,23.0,month,73.27,0,1,0
+1880,14.0,month,442.67,No,2,False
+1881,18.0,year,133.24,No,4,False
+1882,4.0,half year,449.78,No,6,Yes
+1883,6.0,month,396.13,No,6,No
+1884,3.0,month,453.99,No,9,No
+1885,2.0,year,157.0,Yes,1,0
+1886,22.0,half year,168.12,No,7,Yes
+1887,19.0,year,138.09,Yes,0,No
+1888,8.0,year,100.2,No,5,False
+1889,8.0,year,119.16,No,8,True
+1890,7.0,half year,362.28,No,good,No
+1891,3.0,half year,318.84,0,6,No
+1892,23.0,year,285.27,No,7,Yes
+1893,10.0,year,355.62,1,8,No
+1894,3.0,month,360.84,No,good,False
+1895,20.0,half year,286.04,Yes,6,0
+1896,16.0,month,292.78,No,5,1
+1897,9.0,year,400.59,No,5,No
+1898,13.0,year,258.39,Yes,4,No
+1899,22.0,month,123.67,1,8,Yes
+1900,7.0,half year,455.55,No,1,1
+1901,12.0,year,234.89,No,8,1
+1902,23.0,month,385.45,No,good,No
+1903,8.0,half year,17.64,1,0,False
+1904,16.0,year,206.16,No,5,1
+1905,9.0,half year,184.95,No,bed,True
+1906,3.0,year,91.32,0,5,No
+1907,23.0,year,181.66,No,6,Yes
+1908,17.0,half year,475.06,No,bed,True
+1909,21.0,year,483.46,No,3,Yes
+1910,,year,473.02,No,7,Yes
+1911,3.0,half year,480.13,Yes,3,Yes
+1912,12.0,half year,409.83,No,5,No
+1913,14.0,year,188.13,Yes,bed,Yes
+1914,17.0,half year,255.57,No,4,No
+1915,4.0,year,322.59,No,1,Yes
+1916,14.0,half year,244.48,No,5,False
+1917,1.0,half year,218.15,1,3,Yes
+1918,6.0,half year,407.83,No,8,False
+1919,,half year,95.68,Yes,good,No
+1920,11.0,month,202.65,No,4,0
+1921,5.0,year,307.68,No,6,0
+1922,18.0,month,358.09,No,3,Yes
+1923,13.0,half year,35.77,Yes,0,0
+1924,17.0,half year,84.27,Yes,9,False
+1925,23.0,year,137.64,No,3,No
+1926,13.0,year,184.23,No,8,Yes
+1927,20.0,half year,205.13,No,2,0
+1928,23.0,year,79.32,No,5,No
+1929,14.0,year,375.93,No,6,Yes
+1930,,year,76.3,No,6,No
+1931,19.0,year,172.59,No,7,Yes
+1932,23.0,year,179.31,No,0,1
+1933,10.0,year,191.77,No,7,0
+1934,23.0,half year,157.9,No,9,False
+1935,16.0,half year,52.74,1,9,No
+1936,21.0,month,180.88,No,2,Yes
+1937,8.0,year,377.37,No,2,True
+1938,4.0,year,406.78,Yes,8,No
+1939,22.0,year,335.27,No,2,False
+1940,21.0,half year,477.46,No,3,No
+1941,6.0,half year,306.3,No,bed,True
+1942,,year,100.09,1,6,No
+1943,3.0,half year,382.94,No,7,Yes
+1944,4.0,month,13.25,Yes,8,Yes
+1945,12.0,half year,263.76,1,1,True
+1946,7.0,half year,422.95,No,good,No
+1947,14.0,year,72.28,Yes,7,Yes
+1948,,month,313.47,No,3,0
+1949,20.0,month,267.36,No,bed,No
+1950,22.0,month,252.22,Yes,6,No
+1951,,month,322.2,No,7,No
+1952,2.0,month,220.11,No,6,Yes
+1953,22.0,half year,157.04,Yes,1,No
+1954,22.0,year,389.49,0,6,No
+1955,8.0,half year,220.6,No,1,No
+1956,14.0,half year,252.5,No,3,No
+1957,11.0,year,137.91,No,2,No
+1958,21.0,half year,142.54,No,2,1
+1959,6.0,half year,357.32,Yes,9,No
+1960,14.0,month,157.36,No,9,Yes
+1961,21.0,year,484.49,Yes,9,False
+1962,21.0,month,79.91,No,3,Yes
+1963,7.0,month,294.42,No,bed,0
+1964,16.0,month,398.03,No,good,Yes
+1965,20.0,year,293.53,No,0,No
+1966,9.0,half year,47.52,Yes,4,1
+1967,5.0,month,300.35,No,4,0
+1968,8.0,month,58.4,0,6,No
+1969,10.0,half year,235.37,No,0,True
+1970,23.0,month,379.76,0,8,Yes
+1971,16.0,month,239.76,No,bed,No
+1972,13.0,month,433.19,No,6,No
+1973,2.0,,166.15,No,1,No
+1974,3.0,year,357.71,Yes,7,False
+1975,9.0,half year,80.66,0,6,No
+1976,5.0,month,437.15,No,5,True
+1977,13.0,half year,438.75,Yes,3,No
+1978,8.0,month,25.77,Yes,0,Yes
+1979,8.0,month,315.38,No,5,No
+1980,7.0,year,186.56,No,9,No
+1981,1.0,half year,134.47,No,good,No
+1982,13.0,year,25.49,No,good,True
+1983,17.0,year,55.16,No,0,No
+1984,10.0,year,212.68,No,1,No
+1985,14.0,year,237.35,1,3,Yes
+1986,10.0,year,388.49,Yes,0,Yes
+1987,7.0,half year,228.46,No,4,Yes
+1988,8.0,year,289.43,No,bed,0
+1989,,month,50.0,No,0,0
+1990,23.0,month,201.84,No,8,No
+1991,19.0,half year,281.72,No,5,Yes
+1992,14.0,year,395.77,No,6,1
+1993,19.0,year,88.84,No,6,No
+1994,23.0,month,335.49,No,2,No
+1995,18.0,month,201.37,0,0,Yes
+1996,12.0,month,472.68,1,bed,No
+1997,10.0,year,291.01,No,1,Yes
+1998,12.0,year,18.99,No,0,No
+1999,2.0,year,236.38,No,1,No
+2000,19.0,year,223.76,Yes,8,No
+2001,2.0,half year,41.01,Yes,3,Yes
+2002,17.0,month,106.66,No,5,False
+2003,10.0,half year,481.73,No,3,1
+2004,23.0,half year,200.38,No,4,No
+2005,,year,265.23,No,6,Yes
+2006,,month,232.22,No,9,0
+2007,14.0,half year,156.5,No,2,No
+2008,10.0,year,245.65,No,good,True
+2009,2.0,year,496.08,No,2,Yes
+2010,4.0,half year,490.31,No,1,False
+2011,10.0,,446.08,Yes,9,Yes
+2012,21.0,year,48.74,No,9,True
+2013,4.0,half year,15.28,No,4,Yes
+2014,22.0,month,78.44,1,7,Yes
+2015,19.0,year,337.67,0,3,0
+2016,2.0,year,369.98,No,8,Yes
+2017,19.0,half year,49.15,Yes,6,1
+2018,22.0,year,304.25,Yes,0,Yes
+2019,10.0,year,248.25,No,1,1
+2020,23.0,half year,317.65,No,7,Yes
+2021,10.0,year,54.84,No,7,No
+2022,23.0,year,342.16,No,8,False
+2023,10.0,half year,367.43,No,4,No
+2024,13.0,year,93.8,No,1,No
+2025,8.0,year,421.98,Yes,2,1
+2026,14.0,year,41.24,No,3,No
+2027,5.0,month,12.57,No,1,Yes
+2028,19.0,half year,399.72,No,4,No
+2029,4.0,half year,265.7,Yes,good,Yes
+2030,23.0,year,161.57,No,1,Yes
+2031,5.0,half year,86.45,No,9,Yes
+2032,11.0,year,462.16,No,9,Yes
+2033,20.0,year,224.99,No,7,1
+2034,22.0,,182.49,No,0,True
+2035,21.0,year,23.17,No,3,False
+2036,1.0,month,258.47,Yes,7,0
+2037,5.0,year,33.78,No,0,Yes
+2038,13.0,half year,296.93,No,4,False
+2039,23.0,month,282.32,No,1,0
+2040,2.0,month,167.06,No,4,No
+2041,14.0,,205.96,No,bed,False
+2042,9.0,year,270.37,No,6,No
+2043,18.0,half year,224.88,Yes,6,True
+2044,5.0,half year,235.12,No,9,No
+2045,13.0,year,277.77,1,3,Yes
+2046,9.0,month,448.46,0,bed,Yes
+2047,21.0,half year,118.14,No,1,0
+2048,5.0,half year,490.0,No,8,No
+2049,18.0,half year,44.28,No,2,No
+2050,22.0,half year,437.38,No,2,True
+2051,21.0,year,224.59,1,8,0
+2052,20.0,month,143.52,No,0,Yes
+2053,3.0,half year,318.86,No,7,0
+2054,12.0,year,307.13,0,4,Yes
+2055,14.0,year,435.34,No,0,No
+2056,2.0,month,19.1,No,5,No
+2057,22.0,month,305.16,1,2,Yes
+2058,17.0,,388.8,Yes,3,Yes
+2059,18.0,year,426.84,No,good,Yes
+2060,6.0,month,360.27,No,good,Yes
+2061,1.0,year,129.96,No,2,0
+2062,9.0,month,315.54,No,9,Yes
+2063,17.0,year,236.58,Yes,2,False
+2064,18.0,half year,290.22,No,9,No
+2065,1.0,half year,121.36,No,9,Yes
+2066,20.0,month,53.83,No,7,0
+2067,15.0,month,219.17,No,7,No
+2068,,month,245.0,Yes,2,0
+2069,22.0,year,15.36,No,6,0
+2070,9.0,month,60.82,No,4,True
+2071,4.0,year,487.43,Yes,bed,0
+2072,8.0,year,288.94,0,8,No
+2073,8.0,month,454.21,1,2,No
+2074,19.0,month,249.2,No,4,Yes
+2075,8.0,half year,377.21,No,7,True
+2076,19.0,half year,102.44,No,8,Yes
+2077,22.0,month,306.98,No,8,Yes
+2078,17.0,half year,353.41,No,4,No
+2079,20.0,year,171.95,No,8,Yes
+2080,23.0,month,288.48,Yes,0,No
+2081,,year,311.53,1,4,False
+2082,21.0,month,261.1,No,5,No
+2083,1.0,year,478.54,No,2,True
+2084,22.0,half year,324.82,No,bed,Yes
+2085,16.0,month,53.11,No,good,No
+2086,3.0,year,432.71,Yes,8,Yes
+2087,2.0,year,138.92,No,8,Yes
+2088,8.0,year,191.65,No,4,No
+2089,3.0,month,376.13,Yes,4,No
+2090,7.0,month,370.4,No,3,Yes
+2091,13.0,month,281.83,Yes,0,False
+2092,14.0,,18.65,Yes,9,False
+2093,22.0,half year,111.86,No,5,Yes
+2094,1.0,month,385.37,0,6,0
+2095,4.0,year,150.18,No,2,No
+2096,5.0,month,364.67,No,8,Yes
+2097,,half year,45.6,No,2,No
+2098,19.0,year,485.85,No,0,0
+2099,16.0,half year,257.05,No,bed,No
+2100,23.0,month,347.73,No,good,No
+2101,20.0,year,342.78,0,7,Yes
+2102,5.0,half year,476.56,1,6,True
+2103,1.0,year,220.31,0,8,Yes
+2104,1.0,half year,61.24,No,8,Yes
+2105,1.0,month,34.93,No,2,0
+2106,5.0,month,351.3,No,1,False
+2107,23.0,year,353.84,Yes,6,No
+2108,21.0,half year,71.26,No,0,Yes
+2109,8.0,year,231.23,No,8,Yes
+2110,7.0,half year,76.58,1,8,No
+2111,12.0,year,394.53,Yes,8,True
+2112,4.0,month,170.88,Yes,8,No
+2113,13.0,year,406.8,No,6,No
+2114,17.0,half year,382.9,No,3,True
+2115,5.0,month,436.87,No,2,False
+2116,18.0,month,172.11,No,6,Yes
+2117,13.0,month,492.61,0,2,True
+2118,1.0,year,247.8,Yes,8,0
+2119,11.0,month,103.47,Yes,bed,False
+2120,5.0,month,21.87,No,bed,False
+2121,3.0,,83.25,Yes,1,Yes
+2122,15.0,half year,266.15,0,7,False
+2123,21.0,month,64.57,No,good,No
+2124,9.0,month,266.05,No,3,No
+2125,18.0,year,199.35,No,3,1
+2126,10.0,half year,287.4,No,5,Yes
+2127,20.0,half year,392.61,No,8,Yes
+2128,22.0,month,301.53,No,6,0
+2129,11.0,year,372.59,No,8,No
+2130,20.0,half year,276.9,Yes,2,Yes
+2131,17.0,half year,487.04,0,3,No
+2132,10.0,month,174.64,0,1,Yes
+2133,7.0,year,237.22,0,6,Yes
+2134,3.0,half year,213.49,No,6,No
+2135,,half year,492.05,No,0,False
+2136,17.0,year,394.31,Yes,8,No
+2137,2.0,half year,134.32,Yes,3,Yes
+2138,11.0,year,114.55,No,0,Yes
+2139,14.0,year,436.98,Yes,2,0
+2140,15.0,year,248.44,No,0,True
+2141,1.0,half year,65.73,No,9,1
+2142,8.0,half year,70.27,No,8,Yes
+2143,15.0,half year,238.57,No,2,No
+2144,4.0,month,283.18,Yes,bed,Yes
+2145,18.0,half year,177.18,Yes,9,Yes
+2146,2.0,year,377.05,No,7,1
+2147,12.0,month,168.46,No,9,0
+2148,,half year,198.21,No,good,No
+2149,19.0,month,17.48,No,2,False
+2150,22.0,year,222.36,No,8,True
+2151,19.0,half year,28.28,Yes,8,No
+2152,20.0,month,376.08,Yes,0,1
+2153,18.0,year,199.1,No,0,No
+2154,3.0,year,155.09,No,2,No
+2155,,half year,61.15,No,8,True
+2156,20.0,half year,94.33,No,7,No
+2157,20.0,year,408.64,No,2,Yes
+2158,2.0,month,350.49,Yes,8,True
+2159,18.0,month,156.46,1,9,Yes
+2160,5.0,year,202.71,Yes,4,Yes
+2161,20.0,month,172.7,Yes,7,No
+2162,16.0,month,28.45,No,8,No
+2163,20.0,year,32.91,No,7,No
+2164,,year,336.15,0,4,1
+2165,,year,426.14,No,3,True
+2166,5.0,month,415.18,0,good,True
+2167,19.0,half year,17.55,No,8,1
+2168,18.0,month,226.19,0,5,Yes
+2169,16.0,year,354.02,Yes,6,True
+2170,4.0,half year,111.93,0,good,No
+2171,18.0,month,172.21,No,9,False
+2172,9.0,year,434.15,No,8,1
+2173,,,420.68,No,5,False
+2174,8.0,half year,468.8,1,0,No
+2175,9.0,month,94.86,0,2,Yes
+2176,3.0,half year,236.67,No,good,1
+2177,15.0,half year,493.82,No,good,1
+2178,2.0,month,324.17,1,8,True
+2179,12.0,year,366.39,No,bed,No
+2180,17.0,half year,258.88,No,5,Yes
+2181,13.0,year,376.53,No,4,Yes
+2182,21.0,month,13.09,No,4,0
+2183,4.0,year,447.93,Yes,6,Yes
+2184,12.0,half year,317.91,Yes,1,Yes
+2185,17.0,year,364.09,Yes,1,Yes
+2186,,year,454.73,No,3,0
+2187,8.0,month,291.37,No,0,No
+2188,18.0,year,71.33,0,1,True
+2189,5.0,year,240.84,0,0,Yes
+2190,4.0,half year,403.69,0,2,No
+2191,11.0,month,414.08,Yes,bed,No
+2192,12.0,half year,332.24,1,3,1
+2193,13.0,year,118.85,1,4,Yes
+2194,8.0,year,370.8,Yes,5,Yes
+2195,19.0,year,322.51,No,3,0
+2196,,month,25.07,1,0,No
+2197,11.0,year,229.26,Yes,0,1
+2198,18.0,month,296.04,Yes,8,True
+2199,19.0,year,335.54,1,0,Yes
+2200,15.0,year,285.55,1,4,Yes
+2201,14.0,,98.59,Yes,good,1
+2202,2.0,half year,21.91,No,5,0
+2203,9.0,month,213.52,1,2,No
+2204,20.0,year,433.27,Yes,2,Yes
+2205,9.0,year,254.73,No,8,No
+2206,6.0,year,456.49,No,9,True
+2207,8.0,year,414.6,0,7,0
+2208,12.0,month,322.65,No,3,Yes
+2209,8.0,year,215.75,0,1,Yes
+2210,5.0,year,429.77,No,9,False
+2211,,month,215.74,No,2,No
+2212,14.0,year,436.87,0,7,No
+2213,8.0,year,498.75,No,7,Yes
+2214,21.0,month,363.63,No,5,True
+2215,10.0,month,96.65,1,1,No
+2216,19.0,year,251.32,No,9,No
+2217,23.0,month,89.54,Yes,bed,Yes
+2218,7.0,month,387.42,Yes,bed,False
+2219,2.0,half year,274.66,No,2,Yes
+2220,22.0,half year,160.96,No,1,Yes
+2221,12.0,month,23.63,1,3,False
+2222,1.0,month,101.88,0,7,No
+2223,1.0,half year,149.3,No,3,True
+2224,23.0,month,305.96,1,4,0
+2225,23.0,half year,388.18,No,8,Yes
+2226,17.0,month,107.18,Yes,good,No
+2227,21.0,year,24.56,No,9,1
+2228,20.0,half year,13.74,No,4,No
+2229,21.0,year,120.34,No,4,0
+2230,3.0,year,129.11,Yes,3,True
+2231,20.0,month,491.6,No,7,Yes
+2232,15.0,year,255.67,Yes,3,True
+2233,23.0,year,498.56,0,4,No
+2234,12.0,half year,228.57,Yes,good,No
+2235,,half year,471.09,No,9,Yes
+2236,9.0,year,119.16,No,good,0
+2237,12.0,month,119.94,No,2,1
+2238,19.0,half year,445.59,No,7,False
+2239,2.0,half year,472.82,No,8,False
+2240,16.0,half year,430.75,1,0,Yes
+2241,8.0,year,323.62,Yes,0,No
+2242,6.0,year,457.69,No,5,1
+2243,21.0,year,87.39,No,5,0
+2244,7.0,half year,227.05,Yes,7,No
+2245,2.0,year,483.56,Yes,5,Yes
+2246,,half year,163.44,No,0,No
+2247,23.0,year,337.02,Yes,1,No
+2248,19.0,month,113.96,1,good,No
+2249,2.0,half year,110.49,No,3,False
+2250,8.0,month,17.09,Yes,2,1
+2251,8.0,half year,458.78,Yes,3,Yes
+2252,10.0,year,293.83,No,8,True
+2253,8.0,month,29.89,1,8,No
+2254,21.0,year,250.83,Yes,8,Yes
+2255,11.0,month,158.59,0,5,False
+2256,3.0,month,459.26,No,5,No
+2257,3.0,year,250.33,Yes,4,False
+2258,12.0,,419.41,No,0,Yes
+2259,9.0,half year,10.64,0,good,Yes
+2260,17.0,month,227.76,No,7,No
+2261,5.0,month,301.69,No,6,Yes
+2262,1.0,month,219.74,Yes,4,No
+2263,8.0,half year,303.1,1,0,Yes
+2264,16.0,month,315.23,No,1,1
+2265,15.0,year,53.59,No,bed,1
+2266,12.0,month,472.57,No,bed,Yes
+2267,20.0,half year,177.37,1,1,No
+2268,3.0,half year,386.34,No,9,Yes
+2269,7.0,half year,313.28,Yes,5,Yes
+2270,23.0,year,208.95,No,0,No
+2271,1.0,year,273.21,Yes,3,Yes
+2272,15.0,year,124.57,No,5,Yes
+2273,14.0,half year,437.67,No,1,0
+2274,17.0,half year,444.58,No,bed,No
+2275,9.0,half year,483.94,Yes,6,Yes
+2276,13.0,year,23.78,No,3,True
+2277,20.0,year,414.06,No,3,0
+2278,5.0,year,484.1,No,1,0
+2279,,half year,190.57,1,8,True
+2280,16.0,,103.38,0,1,Yes
+2281,16.0,month,367.16,No,9,No
+2282,10.0,half year,287.4,1,9,True
+2283,8.0,year,306.87,No,6,0
+2284,7.0,half year,472.13,No,5,1
+2285,17.0,month,386.33,Yes,5,True
+2286,21.0,year,464.57,Yes,6,No
+2287,22.0,half year,242.79,No,2,Yes
+2288,6.0,year,91.27,0,0,No
+2289,20.0,half year,318.21,No,4,Yes
+2290,1.0,half year,253.77,Yes,9,Yes
+2291,17.0,year,62.19,0,9,False
+2292,16.0,year,206.28,No,6,False
+2293,19.0,month,118.4,Yes,5,False
+2294,,month,305.39,No,bed,Yes
+2295,18.0,year,242.05,No,3,No
+2296,1.0,year,52.62,No,8,No
+2297,1.0,year,159.08,0,5,Yes
+2298,15.0,year,346.98,No,7,True
+2299,11.0,year,212.91,No,8,Yes
+2300,16.0,half year,362.05,No,0,Yes
+2301,19.0,year,205.48,No,3,0
+2302,18.0,month,414.21,No,2,0
+2303,8.0,month,164.96,No,5,Yes
+2304,14.0,year,472.4,1,5,Yes
+2305,2.0,half year,211.18,Yes,7,Yes
+2306,,year,183.93,1,5,No
+2307,9.0,year,477.78,Yes,2,1
+2308,7.0,half year,268.53,0,6,No
+2309,19.0,month,481.28,No,2,No
+2310,11.0,year,191.99,0,7,Yes
+2311,19.0,month,113.21,No,3,No
+2312,23.0,half year,148.55,No,2,True
+2313,21.0,year,176.77,No,2,False
+2314,23.0,month,293.74,No,4,False
+2315,,year,344.04,No,7,No
+2316,14.0,,357.7,No,0,True
+2317,8.0,month,182.45,1,1,1
+2318,15.0,month,476.23,No,5,Yes
+2319,4.0,year,198.51,Yes,4,1
+2320,19.0,year,303.58,Yes,bed,Yes
+2321,3.0,year,335.11,No,7,Yes
+2322,5.0,half year,379.24,Yes,5,Yes
+2323,22.0,half year,332.75,No,0,Yes
+2324,10.0,half year,343.23,Yes,4,False
+2325,17.0,month,477.06,No,5,True
+2326,13.0,half year,358.97,No,4,False
+2327,8.0,half year,436.02,No,4,False
+2328,15.0,half year,221.85,No,3,True
+2329,19.0,month,42.89,No,2,Yes
+2330,2.0,half year,98.25,No,2,No
+2331,10.0,half year,109.57,0,7,No
+2332,15.0,month,133.98,No,1,Yes
+2333,11.0,year,55.89,1,bed,Yes
+2334,15.0,half year,417.7,0,4,No
+2335,8.0,half year,24.41,No,1,No
+2336,9.0,,429.35,No,8,0
+2337,16.0,year,178.72,1,8,Yes
+2338,4.0,year,63.18,1,9,False
+2339,7.0,half year,275.21,Yes,1,No
+2340,9.0,month,46.47,0,good,No
+2341,16.0,year,228.57,No,2,No
+2342,5.0,year,41.88,No,2,0
+2343,8.0,year,498.16,No,good,No
+2344,23.0,year,302.81,No,bed,No
+2345,3.0,year,331.22,Yes,7,No
+2346,21.0,year,131.07,Yes,8,Yes
+2347,15.0,year,459.54,No,3,Yes
+2348,8.0,year,405.73,No,0,No
+2349,13.0,half year,304.55,0,3,0
+2350,11.0,year,481.76,No,3,No
+2351,23.0,half year,120.58,No,2,True
+2352,10.0,year,469.43,No,2,No
+2353,22.0,year,410.25,Yes,2,No
+2354,18.0,month,323.58,No,4,No
+2355,19.0,year,279.5,No,4,0
+2356,5.0,month,68.54,Yes,1,No
+2357,19.0,month,138.58,No,8,Yes
+2358,15.0,year,229.56,No,9,1
+2359,12.0,year,102.68,No,6,1
+2360,4.0,half year,94.37,No,3,Yes
+2361,4.0,,207.44,No,5,0
+2362,14.0,year,170.96,0,4,0
+2363,19.0,half year,137.38,No,5,Yes
+2364,7.0,month,250.83,Yes,0,Yes
+2365,16.0,,106.18,No,1,0
+2366,14.0,year,255.4,No,7,False
+2367,5.0,year,157.14,No,7,False
+2368,18.0,month,124.44,Yes,4,Yes
+2369,21.0,year,358.75,No,8,No
+2370,1.0,half year,28.3,No,5,True
+2371,9.0,year,427.93,Yes,1,0
+2372,11.0,month,160.35,No,2,0
+2373,,half year,311.83,No,9,Yes
+2374,17.0,half year,22.37,No,1,1
+2375,16.0,half year,365.04,Yes,4,Yes
+2376,8.0,year,350.53,No,7,Yes
+2377,16.0,year,233.32,No,6,False
+2378,11.0,year,238.66,No,0,False
+2379,9.0,month,157.36,No,9,No
+2380,,month,304.57,Yes,9,Yes
+2381,7.0,month,365.13,No,2,No
+2382,6.0,year,10.41,1,8,0
+2383,17.0,half year,499.98,No,0,No
+2384,,month,258.41,No,8,Yes
+2385,12.0,year,347.44,1,5,True
+2386,23.0,month,119.82,1,7,0
+2387,,month,389.08,0,3,0
+2388,6.0,half year,383.57,Yes,5,No
+2389,15.0,month,389.53,Yes,0,0
+2390,10.0,half year,412.38,0,2,Yes
+2391,16.0,year,328.32,No,5,Yes
+2392,23.0,half year,378.23,0,0,Yes
+2393,,year,128.65,No,9,0
+2394,17.0,half year,339.18,No,7,0
+2395,5.0,half year,279.92,No,1,Yes
+2396,3.0,year,221.23,No,2,No
+2397,10.0,month,62.19,0,4,No
+2398,10.0,year,215.06,No,5,0
+2399,9.0,year,245.14,No,bed,No
+2400,3.0,half year,143.41,Yes,5,False
+2401,3.0,half year,371.3,No,4,Yes
+2402,5.0,month,10.05,No,0,0
+2403,3.0,year,349.27,No,6,No
+2404,5.0,month,326.58,No,7,No
+2405,2.0,month,388.42,0,3,True
+2406,5.0,half year,404.81,No,9,Yes
+2407,8.0,half year,494.56,Yes,7,No
+2408,1.0,year,433.34,No,0,True
+2409,,half year,460.4,No,5,No
+2410,6.0,year,301.88,No,0,No
+2411,10.0,half year,395.91,No,bed,False
+2412,2.0,year,440.4,No,5,0
+2413,16.0,year,54.62,No,5,0
+2414,9.0,year,125.5,No,4,False
+2415,2.0,month,82.32,0,1,No
+2416,17.0,half year,122.16,No,8,No
+2417,10.0,year,302.85,No,8,No
+2418,9.0,year,360.72,No,2,Yes
+2419,7.0,half year,350.82,No,3,Yes
+2420,15.0,year,362.78,No,6,True
+2421,10.0,half year,400.02,No,0,False
+2422,14.0,half year,289.67,Yes,6,No
+2423,12.0,year,493.4,1,5,True
+2424,2.0,year,297.67,Yes,8,1
+2425,4.0,month,166.83,No,good,No
+2426,,month,170.53,No,2,0
+2427,3.0,half year,146.42,No,7,Yes
+2428,21.0,half year,479.93,0,3,Yes
+2429,18.0,year,42.61,Yes,bed,True
+2430,2.0,month,217.79,No,3,True
+2431,11.0,half year,424.47,No,4,No
+2432,2.0,half year,314.45,No,4,Yes
+2433,9.0,,398.54,No,bed,0
+2434,23.0,year,103.31,No,7,True
+2435,2.0,half year,162.61,No,1,1
+2436,11.0,month,96.93,No,5,False
+2437,22.0,month,303.76,No,1,Yes
+2438,3.0,year,70.41,No,4,1
+2439,1.0,month,364.21,Yes,0,Yes
+2440,1.0,year,421.8,1,4,0
+2441,13.0,half year,114.75,No,8,0
+2442,23.0,year,399.68,1,3,No
+2443,9.0,month,152.84,Yes,1,No
+2444,17.0,half year,95.39,No,4,0
+2445,20.0,half year,481.75,No,7,Yes
+2446,23.0,month,67.66,No,8,No
+2447,16.0,year,205.8,No,3,Yes
+2448,13.0,half year,216.8,No,9,0
+2449,7.0,month,239.72,No,2,1
+2450,8.0,month,390.21,No,5,1
+2451,,year,211.23,No,3,1
+2452,20.0,half year,272.35,No,8,0
+2453,9.0,year,19.56,Yes,6,0
+2454,8.0,half year,230.81,No,good,No
+2455,21.0,half year,389.1,No,1,No
+2456,13.0,month,375.12,No,3,True
+2457,3.0,year,386.72,1,0,No
+2458,2.0,half year,153.21,No,7,Yes
+2459,16.0,year,420.44,No,9,False
+2460,9.0,half year,383.32,No,1,True
+2461,6.0,year,377.51,No,5,Yes
+2462,17.0,month,202.3,No,0,1
+2463,8.0,year,173.58,No,9,No
+2464,8.0,month,223.96,1,0,1
+2465,18.0,half year,132.32,No,3,Yes
+2466,4.0,month,186.99,No,4,1
+2467,9.0,year,353.1,Yes,good,False
+2468,11.0,month,403.96,No,4,False
+2469,17.0,year,60.89,0,1,No
+2470,20.0,half year,17.1,No,7,No
+2471,13.0,half year,121.26,0,8,No
+2472,7.0,half year,177.37,No,2,No
+2473,1.0,year,259.48,No,4,No
+2474,5.0,half year,358.42,No,7,Yes
+2475,9.0,year,348.24,1,5,No
+2476,12.0,half year,444.0,Yes,3,Yes
+2477,2.0,year,335.17,No,2,Yes
+2478,23.0,year,255.15,No,0,1
+2479,20.0,half year,81.87,Yes,4,No
+2480,16.0,month,148.48,0,8,Yes
+2481,17.0,month,329.33,No,0,Yes
+2482,19.0,month,136.8,No,7,No
+2483,8.0,month,397.88,0,9,1
+2484,11.0,year,115.54,No,3,False
+2485,7.0,month,373.64,No,2,False
+2486,21.0,year,21.18,No,9,Yes
+2487,21.0,year,142.57,No,0,Yes
+2488,21.0,half year,114.17,0,1,No
+2489,6.0,month,472.94,No,2,Yes
+2490,5.0,year,297.38,No,4,Yes
+2491,1.0,month,184.4,0,9,True
+2492,,half year,271.48,No,4,Yes
+2493,,year,499.66,No,3,True
+2494,12.0,half year,186.3,No,8,No
+2495,4.0,month,113.45,No,7,True
+2496,4.0,year,66.66,Yes,4,Yes
+2497,16.0,month,192.68,No,0,False
+2498,3.0,month,475.18,Yes,9,Yes
+2499,10.0,month,86.27,No,9,No
+2500,9.0,month,308.83,0,bed,No
+2501,14.0,month,268.56,0,2,No
+2502,,year,492.08,No,9,Yes
+2503,6.0,half year,24.2,No,5,True
+2504,4.0,month,315.38,No,2,No
+2505,22.0,month,95.38,1,9,0
+2506,21.0,half year,123.62,No,3,No
+2507,9.0,year,450.85,No,4,1
+2508,5.0,year,257.96,No,5,1
+2509,3.0,year,466.95,No,7,True
+2510,10.0,month,82.76,Yes,3,True
+2511,5.0,year,55.27,No,8,Yes
+2512,23.0,year,166.74,No,9,Yes
+2513,16.0,year,355.21,Yes,8,Yes
+2514,11.0,year,272.47,No,7,No
+2515,10.0,year,258.87,Yes,2,Yes
+2516,1.0,year,236.72,1,1,No
+2517,1.0,month,367.57,1,6,1
+2518,23.0,month,101.0,No,8,1
+2519,,half year,195.24,No,2,Yes
+2520,17.0,month,219.66,Yes,7,No
+2521,21.0,year,201.96,Yes,4,True
+2522,3.0,year,119.58,Yes,good,1
+2523,15.0,half year,56.71,No,1,No
+2524,22.0,year,29.08,No,7,True
+2525,14.0,month,456.41,No,4,Yes
+2526,4.0,year,388.94,No,bed,0
+2527,13.0,month,375.21,No,2,No
+2528,21.0,half year,353.61,No,bed,Yes
+2529,7.0,month,138.41,Yes,1,Yes
+2530,13.0,year,13.11,No,6,Yes
+2531,13.0,month,125.73,No,2,Yes
+2532,9.0,year,287.27,No,0,False
+2533,6.0,month,32.75,No,6,True
+2534,6.0,half year,416.66,No,2,1
+2535,6.0,half year,370.81,No,9,Yes
+2536,13.0,half year,416.87,No,4,No
+2537,1.0,year,22.56,1,7,True
+2538,2.0,month,225.26,No,5,No
+2539,13.0,year,239.22,1,9,False
+2540,20.0,year,353.31,No,0,No
+2541,16.0,half year,452.56,1,2,Yes
+2542,21.0,year,298.15,Yes,6,True
+2543,,year,266.94,No,9,Yes
+2544,23.0,year,82.12,No,5,True
+2545,2.0,half year,144.94,0,7,True
+2546,21.0,year,141.01,No,bed,Yes
+2547,17.0,month,347.41,1,5,No
+2548,20.0,year,234.78,No,1,False
+2549,12.0,year,441.22,1,6,False
+2550,5.0,half year,271.52,No,0,Yes
+2551,12.0,half year,89.98,Yes,8,0
+2552,16.0,half year,422.22,Yes,5,0
+2553,13.0,half year,87.45,No,4,No
+2554,15.0,half year,119.23,No,6,No
+2555,15.0,month,93.05,No,1,No
+2556,9.0,month,144.79,No,4,No
+2557,8.0,year,235.01,No,4,Yes
+2558,3.0,year,485.35,0,7,Yes
+2559,18.0,year,11.01,No,2,No
+2560,16.0,year,300.29,1,good,Yes
+2561,7.0,month,45.24,Yes,8,True
+2562,9.0,year,445.87,No,7,No
+2563,4.0,year,205.16,Yes,0,Yes
+2564,1.0,year,367.03,1,3,No
+2565,17.0,month,487.21,No,4,0
+2566,12.0,half year,201.07,No,1,No
+2567,4.0,month,230.48,0,2,No
+2568,9.0,half year,135.34,No,2,False
+2569,22.0,half year,169.4,Yes,6,1
+2570,3.0,half year,264.89,No,9,Yes
+2571,,month,344.16,Yes,0,No
+2572,6.0,year,386.95,No,4,Yes
+2573,18.0,month,127.18,Yes,5,True
+2574,19.0,year,220.81,No,0,Yes
+2575,,year,158.18,Yes,1,1
+2576,10.0,year,373.48,0,6,No
+2577,14.0,month,483.92,0,2,True
+2578,22.0,month,381.58,No,0,0
+2579,4.0,month,189.08,No,5,False
+2580,7.0,half year,45.13,0,7,No
+2581,3.0,half year,97.4,1,4,Yes
+2582,18.0,month,249.64,0,2,No
+2583,12.0,half year,123.58,0,1,No
+2584,22.0,month,25.31,1,2,Yes
+2585,6.0,month,264.2,No,9,No
+2586,6.0,year,196.68,No,9,1
+2587,14.0,half year,354.62,No,0,1
+2588,13.0,month,309.43,No,9,Yes
+2589,13.0,month,415.03,No,bed,1
+2590,15.0,half year,231.88,No,8,False
+2591,6.0,month,330.91,No,2,No
+2592,11.0,month,250.21,Yes,9,1
+2593,20.0,year,23.85,1,1,Yes
+2594,15.0,year,217.04,1,7,False
+2595,20.0,year,66.76,No,bed,True
+2596,14.0,year,82.4,No,0,True
+2597,10.0,month,320.64,No,0,No
+2598,5.0,half year,58.63,No,6,No
+2599,6.0,month,203.95,No,1,True
+2600,21.0,month,49.25,1,bed,Yes
+2601,22.0,half year,422.92,1,4,No
+2602,15.0,half year,103.09,No,7,True
+2603,9.0,year,211.35,No,6,True
+2604,14.0,month,314.31,0,7,1
+2605,5.0,month,86.53,No,4,No
+2606,14.0,half year,342.53,No,9,True
+2607,20.0,year,343.26,1,0,Yes
+2608,15.0,month,209.98,0,4,True
+2609,,month,427.62,Yes,3,False
+2610,8.0,month,98.08,No,1,Yes
+2611,23.0,year,197.64,No,8,Yes
+2612,21.0,half year,177.03,Yes,5,0
+2613,22.0,,315.28,Yes,5,1
+2614,20.0,half year,329.23,Yes,4,No
+2615,15.0,year,389.49,No,9,No
+2616,2.0,month,431.18,No,6,No
+2617,2.0,month,38.2,No,2,No
+2618,4.0,month,272.82,No,good,False
+2619,4.0,month,389.2,Yes,bed,No
+2620,5.0,year,180.79,No,2,No
+2621,10.0,,81.33,No,7,No
+2622,20.0,half year,459.53,No,bed,No
+2623,14.0,year,50.11,No,3,Yes
+2624,16.0,month,492.18,No,bed,False
+2625,5.0,half year,98.67,No,9,Yes
+2626,10.0,half year,133.88,1,7,0
+2627,18.0,month,189.6,No,2,False
+2628,7.0,month,11.43,1,8,Yes
+2629,20.0,half year,331.54,Yes,2,Yes
+2630,12.0,month,75.94,0,9,True
+2631,7.0,year,282.55,No,5,Yes
+2632,21.0,half year,80.58,1,bed,No
+2633,16.0,year,140.96,No,6,1
+2634,,half year,75.33,No,0,No
+2635,3.0,half year,321.66,Yes,8,No
+2636,9.0,half year,444.65,No,3,No
+2637,7.0,month,43.17,No,2,0
+2638,19.0,year,230.26,No,bed,False
+2639,13.0,year,331.79,Yes,1,Yes
+2640,9.0,year,157.13,No,2,1
+2641,21.0,year,231.17,No,2,False
+2642,6.0,half year,466.03,Yes,7,Yes
+2643,17.0,half year,309.41,No,2,No
+2644,17.0,month,380.48,No,5,True
+2645,13.0,half year,360.79,1,1,No
+2646,17.0,year,206.06,Yes,3,1
+2647,7.0,half year,269.85,Yes,5,Yes
+2648,18.0,year,425.69,Yes,bed,Yes
+2649,6.0,year,166.68,No,bed,False
+2650,13.0,year,118.41,Yes,5,False
+2651,10.0,month,33.36,No,5,No
+2652,19.0,month,29.8,No,7,True
+2653,21.0,month,206.34,No,3,No
+2654,,year,218.75,No,4,1
+2655,,year,317.91,Yes,9,True
+2656,22.0,year,235.54,1,2,Yes
+2657,9.0,year,136.47,0,1,1
+2658,19.0,month,157.67,No,1,True
+2659,4.0,year,387.3,Yes,0,0
+2660,3.0,month,286.83,0,6,No
+2661,1.0,half year,227.65,Yes,0,No
+2662,7.0,month,302.28,0,good,False
+2663,12.0,half year,371.59,No,6,False
+2664,11.0,half year,248.17,No,8,No
+2665,21.0,year,70.88,1,8,Yes
+2666,10.0,half year,228.05,0,1,No
+2667,12.0,year,336.15,No,9,Yes
+2668,9.0,month,421.43,No,2,Yes
+2669,21.0,year,432.54,No,0,0
+2670,5.0,half year,250.93,0,1,Yes
+2671,23.0,half year,386.04,No,1,1
+2672,3.0,month,260.19,No,1,False
+2673,14.0,year,138.15,No,8,No
+2674,22.0,year,397.69,1,1,No
+2675,12.0,year,124.14,1,3,False
+2676,10.0,half year,272.85,Yes,2,False
+2677,2.0,month,147.63,No,3,Yes
+2678,21.0,month,111.43,No,4,0
+2679,6.0,month,107.38,No,2,Yes
+2680,6.0,year,311.97,No,good,Yes
+2681,19.0,month,168.06,Yes,9,0
+2682,19.0,year,461.23,0,3,No
+2683,18.0,year,315.72,0,0,Yes
+2684,13.0,half year,379.48,No,6,1
+2685,6.0,month,196.19,No,7,False
+2686,21.0,year,302.62,No,6,No
+2687,21.0,month,128.63,No,9,Yes
+2688,6.0,month,360.0,0,4,No
+2689,6.0,year,330.78,0,5,1
+2690,5.0,year,51.45,1,5,No
+2691,23.0,month,268.27,Yes,8,Yes
+2692,20.0,month,352.6,No,8,No
+2693,15.0,year,457.39,No,5,Yes
+2694,6.0,month,397.42,No,5,False
+2695,5.0,year,132.47,No,9,No
+2696,19.0,month,302.94,Yes,1,False
+2697,17.0,year,65.47,No,5,1
+2698,23.0,year,416.51,No,good,Yes
+2699,11.0,month,186.78,0,1,No
+2700,1.0,half year,313.24,No,4,0
+2701,16.0,month,105.38,No,5,No
+2702,16.0,month,440.62,No,6,False
+2703,18.0,year,306.05,Yes,good,False
+2704,22.0,half year,155.24,No,4,False
+2705,6.0,half year,327.15,No,4,Yes
+2706,3.0,month,339.99,0,1,1
+2707,10.0,year,77.37,No,9,No
+2708,19.0,month,78.79,No,3,0
+2709,20.0,,386.48,No,5,No
+2710,14.0,year,113.35,Yes,8,Yes
+2711,14.0,year,437.47,0,7,1
+2712,14.0,month,372.73,No,4,0
+2713,23.0,month,203.14,Yes,2,Yes
+2714,2.0,year,492.5,No,9,1
+2715,3.0,half year,202.61,No,bed,No
+2716,4.0,year,272.6,Yes,6,1
+2717,13.0,month,15.1,0,4,1
+2718,1.0,month,59.04,No,2,No
+2719,13.0,year,132.09,1,6,1
+2720,10.0,half year,78.96,No,9,1
+2721,12.0,year,466.38,No,1,False
+2722,8.0,half year,318.04,Yes,0,No
+2723,10.0,year,129.27,0,9,No
+2724,15.0,half year,122.08,Yes,9,Yes
+2725,23.0,half year,169.56,Yes,3,Yes
+2726,13.0,month,471.06,No,0,No
+2727,16.0,half year,280.29,No,0,1
+2728,12.0,year,61.98,0,4,True
+2729,,month,280.13,No,good,No
+2730,16.0,month,246.89,No,9,No
+2731,16.0,year,46.47,No,0,0
+2732,1.0,year,244.25,Yes,8,No
+2733,9.0,half year,420.77,Yes,bed,Yes
+2734,20.0,month,17.65,No,9,Yes
+2735,6.0,year,256.68,0,4,True
+2736,10.0,year,152.8,No,1,No
+2737,13.0,half year,121.65,No,2,0
+2738,17.0,month,250.63,Yes,2,True
+2739,5.0,half year,151.14,Yes,4,False
+2740,3.0,half year,255.27,No,7,0
+2741,11.0,month,144.32,Yes,8,False
+2742,1.0,half year,112.81,Yes,0,1
+2743,17.0,month,306.28,1,9,Yes
+2744,21.0,half year,257.64,1,bed,False
+2745,3.0,month,282.84,1,3,0
+2746,23.0,year,396.87,No,1,No
+2747,9.0,,393.06,1,4,Yes
+2748,2.0,year,459.68,No,6,Yes
+2749,7.0,month,31.54,Yes,8,False
+2750,23.0,half year,289.1,No,bed,No
+2751,14.0,,81.84,No,3,0
+2752,12.0,half year,472.21,No,1,0
+2753,16.0,half year,125.36,Yes,3,True
+2754,20.0,month,29.81,0,good,1
+2755,15.0,year,128.15,No,2,Yes
+2756,21.0,year,309.31,No,7,True
+2757,,year,305.64,0,8,False
+2758,22.0,half year,204.19,Yes,3,Yes
+2759,20.0,half year,302.25,No,0,Yes
+2760,7.0,month,479.83,No,4,No
+2761,7.0,year,310.73,Yes,2,No
+2762,17.0,year,153.36,0,6,0
+2763,11.0,year,385.75,No,9,No
+2764,11.0,month,105.05,No,0,False
+2765,8.0,year,456.72,No,4,1
+2766,16.0,,359.45,No,8,False
+2767,9.0,year,497.96,1,good,1
+2768,19.0,year,257.58,Yes,3,No
+2769,22.0,half year,353.75,No,9,False
+2770,8.0,year,180.12,No,1,No
+2771,9.0,half year,82.16,0,2,False
+2772,5.0,year,352.19,No,bed,Yes
+2773,20.0,half year,348.9,No,2,False
+2774,23.0,month,51.88,No,7,Yes
+2775,7.0,year,100.78,1,9,1
+2776,6.0,half year,490.93,Yes,4,Yes
+2777,1.0,half year,374.43,No,8,No
+2778,7.0,half year,242.85,No,5,0
+2779,2.0,month,476.81,No,3,Yes
+2780,3.0,month,296.5,No,8,True
+2781,23.0,month,57.49,Yes,1,False
+2782,3.0,half year,304.8,No,0,Yes
+2783,23.0,month,481.75,0,0,0
+2784,,month,180.07,No,5,False
+2785,2.0,month,363.31,No,2,No
+2786,11.0,year,127.7,No,6,No
+2787,17.0,month,139.2,No,0,Yes
+2788,23.0,year,200.47,No,9,0
+2789,11.0,month,108.71,0,3,True
+2790,22.0,year,352.05,1,1,Yes
+2791,21.0,year,280.58,No,good,False
+2792,6.0,month,179.23,0,1,Yes
+2793,6.0,month,88.23,No,0,No
+2794,17.0,year,367.65,No,7,0
+2795,15.0,month,270.58,No,7,Yes
+2796,,year,251.13,0,8,No
+2797,1.0,month,369.44,0,4,No
+2798,,year,490.21,Yes,6,True
+2799,19.0,half year,391.22,Yes,0,Yes
+2800,1.0,half year,400.96,No,0,True
+2801,2.0,year,285.94,0,3,True
+2802,11.0,half year,296.94,Yes,5,Yes
+2803,6.0,half year,239.19,Yes,2,True
+2804,5.0,,224.92,No,6,Yes
+2805,,year,234.28,1,2,No
+2806,10.0,month,113.2,No,6,1
+2807,12.0,half year,423.27,No,bed,False
+2808,2.0,year,27.92,No,0,No
+2809,,year,259.53,1,7,Yes
+2810,9.0,month,52.91,No,9,Yes
+2811,16.0,half year,12.0,0,8,Yes
+2812,3.0,year,360.17,1,2,False
+2813,11.0,year,92.78,No,9,Yes
+2814,23.0,,315.46,1,5,Yes
+2815,6.0,year,188.79,No,6,False
+2816,18.0,month,125.03,Yes,1,No
+2817,7.0,month,157.41,No,3,No
+2818,17.0,month,435.4,Yes,4,Yes
+2819,15.0,half year,276.04,1,1,Yes
+2820,18.0,half year,448.09,No,9,Yes
+2821,22.0,year,223.92,No,2,Yes
+2822,,month,106.18,No,7,No
+2823,22.0,year,304.81,No,3,False
+2824,8.0,half year,141.54,0,9,Yes
+2825,4.0,half year,352.75,Yes,bed,Yes
+2826,1.0,half year,326.11,1,7,False
+2827,13.0,year,452.26,No,9,Yes
+2828,13.0,year,428.38,No,5,Yes
+2829,7.0,year,79.57,1,8,No
+2830,11.0,year,135.94,Yes,1,Yes
+2831,11.0,half year,219.42,Yes,3,True
+2832,9.0,year,373.82,No,6,1
+2833,9.0,half year,11.97,No,1,Yes
+2834,10.0,half year,256.87,No,9,No
+2835,10.0,half year,306.82,0,8,False
+2836,12.0,half year,282.41,No,good,1
+2837,23.0,half year,430.13,No,3,0
+2838,1.0,month,12.52,No,good,No
+2839,10.0,year,152.91,No,9,Yes
+2840,9.0,year,308.7,No,1,Yes
+2841,5.0,year,450.72,No,9,No
+2842,11.0,month,195.77,No,9,0
+2843,,half year,252.94,No,4,No
+2844,8.0,year,162.11,No,5,True
+2845,13.0,month,43.75,0,5,True
+2846,14.0,year,179.17,No,good,No
+2847,12.0,year,125.2,Yes,4,1
+2848,16.0,half year,134.43,Yes,4,False
+2849,7.0,month,138.4,No,3,Yes
+2850,17.0,half year,56.26,No,6,False
+2851,7.0,year,473.39,Yes,6,True
+2852,3.0,month,161.94,No,7,Yes
+2853,15.0,month,304.46,No,4,False
+2854,21.0,year,296.77,Yes,6,Yes
+2855,11.0,month,187.53,No,7,Yes
+2856,6.0,month,343.2,1,2,1
+2857,22.0,year,256.51,No,8,Yes
+2858,5.0,year,407.81,Yes,8,0
+2859,14.0,month,188.26,No,0,No
+2860,21.0,year,173.1,No,4,Yes
+2861,18.0,year,264.48,1,good,1
+2862,15.0,year,159.49,Yes,1,Yes
+2863,17.0,year,12.12,No,3,Yes
+2864,23.0,month,416.33,No,9,False
+2865,15.0,year,375.53,No,8,No
+2866,5.0,year,38.29,No,2,Yes
+2867,15.0,year,134.37,0,9,1
+2868,16.0,month,76.93,No,7,True
+2869,20.0,month,389.13,Yes,8,1
+2870,11.0,year,302.3,0,6,0
+2871,21.0,year,82.92,Yes,4,No
+2872,9.0,year,459.81,No,bed,Yes
+2873,15.0,year,139.26,Yes,8,No
+2874,12.0,month,449.45,0,good,Yes
+2875,15.0,month,259.7,No,8,No
+2876,,half year,188.81,No,4,True
+2877,1.0,year,141.41,No,8,0
+2878,20.0,half year,458.33,1,0,True
+2879,22.0,half year,116.87,Yes,4,No
+2880,10.0,half year,252.11,No,7,True
+2881,18.0,half year,320.28,No,7,0
+2882,15.0,month,43.17,0,0,Yes
+2883,4.0,half year,163.92,No,8,Yes
+2884,10.0,month,11.12,Yes,2,Yes
+2885,15.0,month,397.98,No,9,No
+2886,21.0,month,178.72,No,7,Yes
+2887,11.0,half year,109.31,Yes,good,False
+2888,7.0,month,231.93,1,4,Yes
+2889,22.0,year,100.31,No,good,0
+2890,7.0,month,473.84,No,3,True
+2891,8.0,month,497.91,No,2,1
+2892,6.0,year,311.06,Yes,8,No
+2893,13.0,year,410.25,No,0,False
+2894,1.0,year,297.98,No,9,Yes
+2895,12.0,month,329.41,Yes,4,False
+2896,22.0,month,395.7,No,good,Yes
+2897,19.0,month,224.57,1,1,Yes
+2898,10.0,year,42.15,No,8,False
+2899,5.0,year,18.74,No,3,No
+2900,3.0,month,362.25,1,6,False
+2901,1.0,half year,31.93,Yes,3,0
+2902,15.0,year,346.18,1,1,No
+2903,7.0,half year,189.8,No,0,False
+2904,18.0,half year,149.52,Yes,7,Yes
+2905,1.0,year,211.03,Yes,2,Yes
+2906,9.0,month,97.56,Yes,0,Yes
+2907,21.0,year,492.34,No,bed,Yes
+2908,11.0,month,499.81,No,1,No
+2909,11.0,month,13.09,0,4,Yes
+2910,,,356.65,1,2,No
+2911,15.0,year,117.7,No,3,No
+2912,18.0,half year,160.76,No,9,No
+2913,22.0,month,484.54,No,7,False
+2914,21.0,half year,356.28,No,0,No
+2915,16.0,year,160.14,0,9,0
+2916,9.0,half year,125.49,No,4,No
+2917,,half year,346.8,No,1,1
+2918,7.0,month,190.26,No,9,False
+2919,23.0,month,115.98,Yes,2,No
+2920,3.0,year,19.89,1,0,No
+2921,16.0,year,235.98,Yes,3,No
+2922,12.0,month,151.03,No,4,Yes
+2923,7.0,year,308.83,No,3,No
+2924,9.0,half year,98.59,1,3,No
+2925,16.0,half year,384.44,No,1,No
+2926,17.0,year,258.4,Yes,good,True
+2927,7.0,half year,171.06,Yes,2,Yes
+2928,22.0,year,230.9,No,3,Yes
+2929,14.0,year,132.34,No,6,True
+2930,2.0,half year,375.53,1,4,Yes
+2931,8.0,half year,367.24,No,2,Yes
+2932,2.0,month,116.31,No,6,Yes
+2933,20.0,year,83.88,No,1,0
+2934,2.0,half year,32.68,No,7,No
+2935,17.0,half year,183.09,No,5,No
+2936,4.0,month,246.18,No,9,No
+2937,15.0,half year,186.45,Yes,2,True
+2938,6.0,month,310.76,No,1,Yes
+2939,4.0,month,499.2,No,8,False
+2940,7.0,month,73.0,No,3,False
+2941,7.0,month,107.33,No,6,No
+2942,21.0,month,212.72,No,2,1
+2943,3.0,half year,241.99,No,1,Yes
+2944,3.0,half year,333.55,No,6,No
+2945,22.0,month,458.6,No,0,0
+2946,4.0,half year,142.64,No,9,True
+2947,13.0,month,375.94,No,1,Yes
+2948,16.0,year,274.58,No,7,Yes
+2949,22.0,year,333.8,No,8,No
+2950,17.0,month,373.47,No,5,Yes
+2951,11.0,year,15.52,No,8,0
+2952,,year,23.84,0,3,No
+2953,14.0,year,197.74,No,2,Yes
+2954,6.0,month,162.21,No,6,Yes
+2955,5.0,year,204.68,No,0,Yes
+2956,1.0,year,481.7,Yes,5,Yes
+2957,9.0,half year,61.05,No,1,No
+2958,6.0,year,196.48,No,1,No
+2959,6.0,year,429.97,No,1,0
+2960,,year,337.89,0,6,0
+2961,7.0,month,171.72,No,2,Yes
+2962,2.0,half year,411.51,Yes,5,No
+2963,17.0,month,277.24,No,5,Yes
+2964,20.0,half year,422.19,No,7,Yes
+2965,6.0,month,240.15,Yes,7,1
+2966,22.0,year,253.12,No,3,No
+2967,,year,268.41,No,3,1
+2968,18.0,year,133.83,Yes,6,False
+2969,21.0,half year,369.74,Yes,4,No
+2970,23.0,year,49.75,Yes,4,Yes
+2971,18.0,month,440.2,0,4,Yes
+2972,6.0,year,261.43,1,7,False
+2973,18.0,half year,367.98,1,0,1
+2974,4.0,half year,289.48,1,good,No
+2975,3.0,year,402.28,No,0,No
+2976,9.0,half year,334.26,1,5,No
+2977,13.0,month,229.49,0,7,No
+2978,21.0,month,200.55,1,8,Yes
+2979,4.0,month,400.04,Yes,0,Yes
+2980,17.0,month,73.81,1,bed,Yes
+2981,11.0,half year,485.64,No,1,Yes
+2982,20.0,year,436.45,No,2,Yes
+2983,20.0,year,249.58,No,7,Yes
+2984,1.0,year,324.59,No,2,1
+2985,20.0,year,413.56,1,7,No
+2986,22.0,year,428.74,0,5,True
+2987,8.0,half year,358.16,No,3,1
+2988,19.0,half year,323.37,No,5,No
+2989,,half year,491.18,No,8,No
+2990,15.0,year,175.92,0,2,No
+2991,,year,298.45,1,1,Yes
+2992,5.0,month,31.25,0,4,True
+2993,17.0,year,236.06,No,5,True
+2994,6.0,half year,237.77,1,6,No
+2995,23.0,half year,316.44,No,6,Yes
+2996,10.0,year,297.75,No,2,1
+2997,5.0,half year,45.1,No,3,Yes
+2998,23.0,year,420.62,No,5,No
+2999,20.0,month,269.02,No,1,No
+3000,19.0,month,46.98,No,7,Yes
+3001,10.0,month,414.53,No,9,0
+3002,5.0,month,304.09,No,5,No
+3003,10.0,year,423.96,No,8,0
+3004,1.0,year,449.39,No,4,No
+3005,13.0,half year,422.69,No,4,0
+3006,4.0,month,495.47,No,7,1
+3007,,month,255.6,No,6,Yes
+3008,16.0,half year,19.21,No,6,No
+3009,7.0,month,496.88,No,5,No
+3010,6.0,half year,380.5,0,6,Yes
+3011,14.0,half year,178.61,Yes,6,0
+3012,7.0,year,31.52,Yes,6,0
+3013,1.0,year,297.46,No,2,1
+3014,5.0,half year,346.78,No,0,Yes
+3015,19.0,year,329.52,No,0,False
+3016,23.0,month,88.91,No,5,False
+3017,1.0,year,13.38,No,7,Yes
+3018,9.0,year,48.56,No,7,Yes
+3019,10.0,half year,279.8,Yes,3,False
+3020,3.0,month,457.78,Yes,1,Yes
+3021,3.0,month,164.96,No,9,Yes
+3022,9.0,month,87.5,No,8,True
+3023,17.0,month,241.53,No,0,Yes
+3024,18.0,half year,78.05,No,9,No
+3025,10.0,month,188.04,No,8,Yes
+3026,11.0,half year,47.22,0,3,True
+3027,17.0,half year,315.23,No,bed,No
+3028,2.0,half year,136.38,No,4,Yes
+3029,11.0,year,28.65,Yes,9,1
+3030,18.0,month,381.34,Yes,5,No
+3031,22.0,year,64.29,No,5,Yes
+3032,3.0,year,408.98,Yes,6,Yes
+3033,2.0,year,325.17,No,9,Yes
+3034,23.0,year,412.72,No,1,No
+3035,12.0,year,382.74,No,bed,Yes
+3036,16.0,,285.18,No,bed,No
+3037,12.0,year,188.59,No,4,No
+3038,7.0,year,101.66,Yes,5,True
+3039,6.0,half year,266.82,No,4,No
+3040,16.0,month,200.98,No,7,0
+3041,20.0,year,253.67,Yes,2,Yes
+3042,13.0,year,408.43,Yes,0,Yes
+3043,14.0,half year,72.89,No,0,No
+3044,16.0,month,207.76,0,1,Yes
+3045,6.0,half year,418.17,1,1,False
+3046,18.0,half year,345.26,Yes,3,0
+3047,13.0,half year,139.99,No,6,Yes
+3048,7.0,month,80.06,1,2,0
+3049,20.0,half year,13.94,Yes,1,1
+3050,16.0,year,385.79,0,6,No
+3051,23.0,half year,474.24,0,2,True
+3052,16.0,year,477.01,No,3,True
+3053,22.0,half year,29.17,Yes,1,No
+3054,2.0,month,482.61,0,4,No
+3055,13.0,half year,370.02,No,good,No
+3056,20.0,year,157.65,No,good,True
+3057,21.0,year,413.51,No,9,Yes
+3058,13.0,half year,387.47,No,6,0
+3059,9.0,half year,275.44,No,good,No
+3060,8.0,year,94.83,No,9,True
+3061,17.0,year,446.83,No,good,True
+3062,17.0,year,270.66,No,9,No
+3063,20.0,month,93.71,No,1,Yes
+3064,12.0,year,235.35,Yes,9,0
+3065,15.0,,324.61,No,2,True
+3066,8.0,half year,198.05,No,8,False
+3067,12.0,half year,411.57,No,bed,1
+3068,12.0,month,386.53,No,7,No
+3069,20.0,year,467.42,No,2,Yes
+3070,8.0,year,29.57,No,2,No
+3071,11.0,month,414.47,No,5,No
+3072,12.0,half year,237.95,No,9,No
+3073,1.0,half year,207.99,0,5,Yes
+3074,5.0,half year,245.24,Yes,0,Yes
+3075,18.0,month,490.84,Yes,9,Yes
+3076,1.0,year,436.17,No,1,No
+3077,11.0,month,117.62,No,9,False
+3078,8.0,month,27.75,No,9,Yes
+3079,6.0,year,30.03,No,8,No
+3080,14.0,month,224.35,0,0,True
+3081,4.0,year,314.92,1,6,True
+3082,5.0,year,397.17,No,1,Yes
+3083,1.0,month,114.82,No,9,Yes
+3084,18.0,year,360.62,No,6,Yes
+3085,19.0,year,145.38,No,0,No
+3086,4.0,year,46.03,No,3,Yes
+3087,17.0,month,109.36,Yes,7,No
+3088,3.0,year,74.4,1,2,Yes
+3089,23.0,half year,318.96,No,7,Yes
+3090,19.0,year,255.28,No,4,Yes
+3091,7.0,year,114.11,No,4,True
+3092,13.0,month,108.83,No,8,Yes
+3093,21.0,year,127.76,0,0,No
+3094,10.0,half year,335.76,No,8,True
+3095,3.0,year,469.81,No,3,No
+3096,3.0,half year,148.62,Yes,7,No
+3097,3.0,half year,99.76,Yes,3,Yes
+3098,20.0,month,471.4,Yes,6,Yes
+3099,14.0,half year,165.36,No,2,Yes
+3100,15.0,year,210.13,No,5,0
+3101,22.0,year,207.81,No,4,0
+3102,9.0,half year,439.3,No,6,Yes
+3103,1.0,half year,225.74,No,3,Yes
+3104,6.0,month,346.66,No,0,1
+3105,17.0,year,89.85,1,good,False
+3106,15.0,year,82.44,Yes,4,1
+3107,22.0,half year,218.16,Yes,1,Yes
+3108,23.0,year,62.85,No,0,False
+3109,13.0,half year,386.52,Yes,5,False
+3110,15.0,month,281.24,No,8,True
+3111,7.0,half year,297.37,No,bed,Yes
+3112,2.0,year,181.12,1,4,0
+3113,7.0,month,262.57,No,good,0
+3114,,half year,113.13,No,5,Yes
+3115,2.0,month,284.29,Yes,1,0
+3116,7.0,half year,365.92,Yes,3,No
+3117,12.0,month,88.28,No,5,False
+3118,19.0,half year,257.19,1,0,1
+3119,10.0,half year,67.99,No,1,Yes
+3120,16.0,month,223.24,No,5,False
+3121,14.0,half year,168.26,No,7,Yes
+3122,23.0,month,409.31,No,4,True
+3123,15.0,year,115.64,No,2,No
+3124,9.0,month,56.95,Yes,8,Yes
+3125,23.0,year,223.51,Yes,4,0
+3126,21.0,year,319.3,0,8,No
+3127,4.0,year,270.82,No,2,1
+3128,3.0,year,59.39,1,2,False
+3129,6.0,month,73.03,Yes,good,Yes
+3130,6.0,month,370.95,No,4,No
+3131,22.0,month,373.72,No,bed,No
+3132,20.0,half year,494.73,No,6,False
+3133,20.0,year,206.11,No,good,No
+3134,,half year,38.19,0,6,Yes
+3135,20.0,half year,453.73,No,1,Yes
+3136,12.0,half year,219.83,No,7,False
+3137,9.0,month,239.41,No,9,Yes
+3138,8.0,year,312.67,No,8,0
+3139,23.0,year,182.48,0,2,Yes
+3140,20.0,month,270.31,No,1,False
+3141,19.0,year,299.65,Yes,3,No
+3142,15.0,month,22.16,No,9,Yes
+3143,23.0,half year,251.66,1,8,0
+3144,17.0,month,305.53,No,1,Yes
+3145,12.0,month,85.86,No,0,0
+3146,20.0,half year,107.59,0,4,No
+3147,7.0,half year,428.64,No,5,True
+3148,16.0,year,61.93,Yes,9,Yes
+3149,21.0,year,42.03,No,4,0
+3150,16.0,year,483.68,0,9,False
+3151,11.0,half year,180.8,Yes,7,No
+3152,10.0,year,69.95,No,6,Yes
+3153,19.0,year,324.41,No,4,No
+3154,11.0,half year,26.51,No,9,No
+3155,12.0,year,388.85,Yes,1,No
+3156,2.0,year,119.11,0,8,No
+3157,3.0,half year,204.13,No,0,No
+3158,3.0,half year,198.14,No,8,0
+3159,13.0,year,436.11,Yes,2,1
+3160,2.0,month,438.07,Yes,2,No
+3161,18.0,month,289.37,Yes,4,Yes
+3162,19.0,month,463.09,Yes,2,Yes
+3163,5.0,year,302.53,1,5,Yes
+3164,6.0,month,30.25,No,5,No
+3165,7.0,half year,225.02,Yes,2,Yes
+3166,16.0,year,83.25,1,6,True
+3167,8.0,half year,79.57,No,6,0
+3168,14.0,month,418.62,1,good,No
+3169,20.0,half year,34.26,No,0,True
+3170,10.0,year,401.43,No,0,Yes
+3171,6.0,year,398.02,Yes,1,True
+3172,2.0,year,427.09,No,good,0
+3173,19.0,half year,16.34,Yes,3,False
+3174,13.0,half year,43.76,No,good,True
+3175,23.0,half year,166.31,1,3,0
+3176,18.0,month,20.57,No,9,No
+3177,15.0,month,458.27,No,1,False
+3178,3.0,month,432.88,No,9,1
+3179,6.0,month,157.25,Yes,0,True
+3180,21.0,year,130.71,No,7,Yes
+3181,,year,40.14,Yes,6,True
+3182,12.0,half year,210.56,1,2,Yes
+3183,10.0,half year,403.21,No,3,Yes
+3184,15.0,year,451.79,No,4,No
+3185,15.0,year,256.33,No,6,No
+3186,17.0,half year,323.53,Yes,bed,1
+3187,18.0,half year,120.72,No,3,No
+3188,6.0,month,82.59,Yes,3,False
+3189,18.0,month,23.34,Yes,1,False
+3190,23.0,month,141.75,No,0,False
+3191,4.0,year,162.89,No,7,0
+3192,9.0,month,352.65,No,3,0
+3193,3.0,month,420.95,0,1,False
+3194,17.0,half year,298.05,No,good,Yes
+3195,23.0,year,247.35,Yes,3,No
+3196,10.0,month,126.78,No,2,False
+3197,18.0,month,179.65,No,0,No
+3198,16.0,month,347.92,1,7,True
+3199,18.0,half year,369.34,No,2,Yes
+3200,16.0,year,385.99,No,4,Yes
+3201,13.0,year,97.46,No,3,No
+3202,21.0,month,444.12,No,2,No
+3203,10.0,year,119.88,Yes,8,Yes
+3204,4.0,half year,98.12,No,2,Yes
+3205,15.0,year,139.62,No,5,No
+3206,17.0,half year,360.58,No,1,Yes
+3207,11.0,half year,20.7,No,1,Yes
+3208,17.0,half year,489.02,No,2,No
+3209,22.0,year,396.63,No,7,No
+3210,21.0,month,487.21,No,8,No
+3211,15.0,month,397.15,Yes,2,Yes
+3212,6.0,half year,123.5,1,9,1
+3213,15.0,half year,83.56,No,6,Yes
+3214,16.0,month,111.92,No,good,Yes
+3215,11.0,month,64.99,Yes,2,False
+3216,17.0,month,378.14,No,3,Yes
+3217,3.0,month,68.62,Yes,0,Yes
+3218,13.0,year,79.27,No,0,No
+3219,12.0,month,232.67,No,9,0
+3220,21.0,month,237.32,No,2,Yes
+3221,,month,462.94,No,good,Yes
+3222,18.0,month,252.35,No,0,No
+3223,7.0,month,219.16,Yes,5,No
+3224,3.0,half year,125.18,No,9,1
+3225,5.0,month,132.14,No,good,No
+3226,23.0,month,82.32,1,2,0
+3227,4.0,year,198.98,No,8,Yes
+3228,20.0,half year,344.0,No,7,Yes
+3229,4.0,half year,359.1,Yes,5,No
+3230,12.0,year,331.95,No,0,No
+3231,11.0,month,328.14,Yes,3,Yes
+3232,19.0,year,307.24,0,5,No
+3233,17.0,half year,353.38,1,3,0
+3234,19.0,year,172.61,No,9,1
+3235,3.0,month,323.78,No,5,Yes
+3236,11.0,month,210.44,Yes,9,True
+3237,23.0,month,232.58,Yes,3,No
+3238,6.0,month,314.06,Yes,8,True
+3239,1.0,half year,460.04,No,7,No
+3240,10.0,half year,199.55,No,5,Yes
+3241,7.0,month,405.41,No,2,False
+3242,14.0,half year,93.47,No,bed,True
+3243,9.0,half year,347.39,No,2,No
+3244,13.0,year,498.64,No,good,No
+3245,21.0,year,330.28,No,1,True
+3246,5.0,year,227.25,1,5,1
+3247,10.0,year,185.21,Yes,bed,No
+3248,11.0,year,152.6,No,4,No
+3249,6.0,half year,419.14,No,8,Yes
+3250,6.0,month,235.16,No,6,Yes
+3251,13.0,year,138.29,No,5,0
+3252,21.0,half year,400.71,1,0,False
+3253,18.0,half year,152.05,No,8,1
+3254,23.0,year,45.95,No,0,Yes
+3255,2.0,year,230.72,No,4,True
+3256,1.0,half year,439.52,1,7,Yes
+3257,1.0,year,29.14,Yes,6,1
+3258,6.0,year,92.16,0,7,1
+3259,16.0,year,256.78,No,2,Yes
+3260,14.0,year,317.96,Yes,9,1
+3261,20.0,half year,100.55,0,5,True
+3262,15.0,year,326.57,No,5,Yes
+3263,3.0,year,47.02,No,3,False
+3264,23.0,year,445.28,Yes,4,False
+3265,4.0,month,419.71,No,3,Yes
+3266,23.0,year,111.49,1,5,True
+3267,19.0,year,304.74,No,1,False
+3268,9.0,year,388.03,Yes,bed,No
+3269,16.0,year,80.48,No,good,False
+3270,19.0,year,34.96,Yes,3,True
+3271,3.0,half year,122.09,Yes,8,1
+3272,16.0,month,470.52,No,5,True
+3273,23.0,half year,256.95,No,7,Yes
+3274,,half year,282.93,0,7,No
+3275,1.0,month,365.17,No,bed,Yes
+3276,16.0,half year,105.62,1,1,True
+3277,19.0,month,254.44,1,3,No
+3278,21.0,year,229.12,No,1,Yes
+3279,7.0,half year,220.96,1,7,No
+3280,23.0,year,478.43,No,3,Yes
+3281,6.0,year,454.22,Yes,0,Yes
+3282,22.0,month,420.62,Yes,4,Yes
+3283,11.0,half year,127.58,No,7,No
+3284,21.0,month,469.33,No,1,No
+3285,11.0,half year,303.13,No,1,No
+3286,14.0,year,88.64,Yes,9,False
+3287,22.0,year,86.53,1,0,False
+3288,22.0,month,113.31,No,2,1
+3289,,half year,133.51,No,bed,No
+3290,10.0,month,468.28,No,8,Yes
+3291,20.0,month,361.87,No,good,Yes
+3292,23.0,half year,470.49,No,9,True
+3293,3.0,month,212.4,No,6,No
+3294,22.0,month,187.02,Yes,5,No
+3295,21.0,half year,421.04,No,1,True
+3296,7.0,year,236.42,No,7,1
+3297,9.0,year,40.71,Yes,0,Yes
+3298,9.0,year,68.85,No,2,No
+3299,2.0,half year,344.12,No,1,No
+3300,2.0,year,431.13,No,4,False
+3301,2.0,year,187.01,0,4,Yes
+3302,10.0,month,207.38,No,bed,False
+3303,,year,110.85,Yes,3,True
+3304,16.0,year,495.41,1,7,No
+3305,11.0,year,67.8,0,9,No
+3306,13.0,half year,315.95,0,8,True
+3307,9.0,half year,282.18,1,2,1
+3308,6.0,half year,43.1,No,4,0
+3309,14.0,year,346.7,No,8,0
+3310,14.0,year,346.45,Yes,9,False
+3311,19.0,year,445.67,No,8,Yes
+3312,23.0,month,469.67,No,3,No
+3313,22.0,half year,481.25,0,3,Yes
+3314,13.0,year,154.5,0,2,No
+3315,,month,65.37,No,2,No
+3316,23.0,month,48.21,Yes,5,0
+3317,15.0,year,150.87,No,3,No
+3318,6.0,month,252.42,1,9,1
+3319,19.0,month,288.6,No,5,No
+3320,13.0,year,134.54,1,8,Yes
+3321,18.0,half year,409.8,Yes,1,Yes
+3322,1.0,half year,139.86,Yes,bed,No
+3323,4.0,month,331.51,No,7,No
+3324,1.0,year,209.66,Yes,8,Yes
+3325,22.0,year,298.54,0,5,No
+3326,2.0,half year,15.84,No,4,Yes
+3327,1.0,year,13.06,Yes,5,Yes
+3328,3.0,month,256.73,No,2,False
+3329,7.0,year,254.11,No,8,Yes
+3330,19.0,year,100.14,No,8,0
+3331,18.0,year,442.69,No,3,0
+3332,2.0,year,204.84,No,9,No
+3333,2.0,half year,118.59,0,2,0
+3334,21.0,half year,155.0,No,7,0
+3335,17.0,year,52.55,No,9,No
+3336,7.0,month,435.04,No,9,No
+3337,10.0,year,231.24,Yes,8,No
+3338,20.0,,196.82,No,2,Yes
+3339,18.0,year,242.37,No,6,No
+3340,1.0,half year,158.9,No,0,No
+3341,7.0,year,276.92,No,4,No
+3342,5.0,year,103.32,No,2,False
+3343,9.0,month,151.71,Yes,1,No
+3344,5.0,month,22.71,No,3,No
+3345,16.0,year,70.16,Yes,4,Yes
+3346,15.0,half year,54.51,No,good,No
+3347,5.0,half year,479.0,No,good,0
+3348,19.0,half year,402.78,No,3,True
+3349,,half year,468.89,Yes,8,0
+3350,7.0,month,441.62,No,4,1
+3351,12.0,month,424.69,No,8,Yes
+3352,12.0,month,401.2,0,4,Yes
+3353,21.0,year,275.29,Yes,0,No
+3354,1.0,,377.07,No,8,No
+3355,3.0,half year,346.9,No,3,True
+3356,7.0,year,309.46,No,1,Yes
+3357,6.0,month,432.44,No,8,Yes
+3358,3.0,year,489.51,No,2,0
+3359,19.0,year,469.69,No,3,Yes
+3360,19.0,year,117.04,0,3,0
+3361,5.0,year,207.55,Yes,9,No
+3362,4.0,half year,64.36,No,2,No
+3363,5.0,year,80.94,No,9,Yes
+3364,6.0,month,249.85,Yes,9,No
+3365,8.0,month,274.36,1,0,No
+3366,18.0,year,258.68,No,3,True
+3367,9.0,month,448.31,0,4,Yes
+3368,21.0,year,418.1,No,bed,1
+3369,23.0,year,331.0,No,2,No
+3370,23.0,month,132.87,Yes,0,No
+3371,7.0,month,383.26,No,good,Yes
+3372,2.0,year,85.87,No,7,False
+3373,7.0,year,173.11,No,7,1
+3374,1.0,half year,288.47,0,2,No
+3375,14.0,half year,279.84,No,3,Yes
+3376,22.0,year,108.66,No,4,No
+3377,4.0,year,416.26,No,5,Yes
+3378,3.0,half year,29.87,Yes,5,1
+3379,18.0,half year,72.06,Yes,3,No
+3380,7.0,month,298.57,No,6,0
+3381,9.0,year,231.18,0,2,Yes
+3382,18.0,month,23.97,1,3,Yes
+3383,20.0,half year,498.7,No,good,No
+3384,7.0,year,497.84,0,7,1
+3385,22.0,month,190.08,No,0,False
+3386,22.0,year,16.33,0,1,False
+3387,3.0,half year,316.14,Yes,bed,No
+3388,5.0,half year,68.99,0,4,Yes
+3389,11.0,year,479.84,No,2,1
+3390,3.0,month,221.03,Yes,9,False
+3391,10.0,month,400.83,No,5,Yes
+3392,5.0,half year,243.0,No,1,False
+3393,13.0,year,90.63,Yes,3,1
+3394,9.0,half year,250.19,No,good,No
+3395,21.0,month,435.78,0,6,Yes
+3396,19.0,half year,292.67,0,6,No
+3397,6.0,month,403.63,Yes,1,Yes
+3398,20.0,,422.87,No,7,Yes
+3399,23.0,month,77.59,No,3,1
+3400,10.0,half year,357.6,No,7,0
+3401,12.0,year,81.69,No,4,No
+3402,3.0,half year,250.29,No,bed,No
+3403,5.0,half year,271.22,Yes,2,False
+3404,7.0,month,249.93,No,0,No
+3405,22.0,year,158.68,1,bed,False
+3406,2.0,half year,466.41,Yes,0,False
+3407,8.0,year,220.5,No,7,True
+3408,18.0,year,367.73,No,1,No
+3409,11.0,month,219.02,No,2,Yes
+3410,21.0,month,240.44,No,4,1
+3411,13.0,year,158.77,No,good,True
+3412,19.0,year,145.0,Yes,4,Yes
+3413,19.0,half year,99.27,No,0,No
+3414,12.0,half year,36.95,No,bed,No
+3415,19.0,month,371.72,Yes,8,Yes
+3416,10.0,half year,135.71,0,0,Yes
+3417,7.0,half year,496.33,Yes,2,Yes
+3418,17.0,year,451.38,No,5,No
+3419,4.0,year,357.04,No,9,False
+3420,16.0,year,402.57,Yes,8,No
+3421,11.0,half year,422.56,Yes,6,Yes
+3422,2.0,month,213.64,No,0,True
+3423,14.0,half year,252.87,No,2,False
+3424,16.0,year,69.43,No,6,Yes
+3425,18.0,year,123.1,No,4,True
+3426,5.0,half year,166.95,0,2,No
+3427,14.0,half year,33.73,No,2,1
+3428,3.0,month,317.37,No,1,True
+3429,18.0,year,338.06,No,1,True
+3430,10.0,month,78.08,No,6,No
+3431,13.0,,49.7,Yes,4,Yes
+3432,13.0,month,418.31,No,6,Yes
+3433,2.0,,426.98,0,7,No
+3434,1.0,year,249.51,Yes,2,No
+3435,2.0,year,484.08,No,3,Yes
+3436,19.0,half year,218.51,No,9,False
+3437,4.0,year,39.38,No,3,0
+3438,21.0,year,234.16,No,1,No
+3439,,year,373.82,Yes,2,No
+3440,4.0,month,412.02,No,good,False
+3441,17.0,half year,403.14,No,6,No
+3442,5.0,half year,29.77,Yes,6,False
+3443,5.0,half year,491.81,No,8,1
+3444,16.0,month,35.08,No,5,No
+3445,4.0,month,52.83,No,0,1
+3446,3.0,half year,66.97,Yes,0,False
+3447,8.0,year,470.18,0,8,False
+3448,,year,248.29,0,3,No
+3449,9.0,half year,394.77,No,3,True
+3450,1.0,half year,78.51,0,bed,0
+3451,12.0,year,185.91,No,5,No
+3452,6.0,month,300.3,Yes,3,False
+3453,1.0,year,400.39,No,6,False
+3454,2.0,month,477.57,Yes,4,Yes
+3455,5.0,half year,480.56,Yes,1,No
+3456,15.0,half year,298.08,0,bed,Yes
+3457,8.0,half year,464.26,0,4,0
+3458,11.0,year,14.47,No,2,1
+3459,5.0,half year,458.66,No,1,No
+3460,16.0,month,131.99,No,7,No
+3461,22.0,half year,122.46,No,3,True
+3462,18.0,month,480.72,No,1,1
+3463,23.0,month,463.77,No,good,Yes
+3464,7.0,half year,339.1,No,7,True
+3465,10.0,half year,343.78,1,1,Yes
+3466,7.0,half year,22.61,No,1,Yes
+3467,6.0,year,475.84,Yes,5,0
+3468,19.0,month,240.83,No,0,False
+3469,,month,22.23,Yes,2,No
+3470,1.0,half year,145.09,No,1,Yes
+3471,11.0,year,210.61,No,good,Yes
+3472,4.0,half year,36.65,No,1,No
+3473,14.0,year,129.61,No,0,Yes
+3474,5.0,year,199.54,No,4,Yes
+3475,4.0,year,178.83,No,2,True
+3476,18.0,half year,241.56,No,9,1
+3477,12.0,year,341.98,Yes,8,1
+3478,20.0,half year,399.42,No,2,No
+3479,4.0,year,279.21,Yes,bed,Yes
+3480,13.0,year,98.03,No,9,True
+3481,18.0,year,304.0,No,5,No
+3482,21.0,year,364.15,Yes,4,False
+3483,12.0,half year,250.2,1,5,Yes
+3484,6.0,half year,484.34,No,bed,1
+3485,22.0,half year,366.31,No,2,1
+3486,12.0,month,324.5,No,7,Yes
+3487,3.0,year,18.41,Yes,2,0
+3488,21.0,month,112.25,0,4,Yes
+3489,4.0,year,344.2,No,1,Yes
+3490,2.0,half year,339.27,No,5,1
+3491,1.0,year,62.74,0,2,Yes
+3492,15.0,year,467.17,0,8,Yes
+3493,,year,183.1,No,0,Yes
+3494,14.0,month,306.95,No,8,Yes
+3495,14.0,year,390.54,1,6,No
+3496,21.0,half year,421.49,No,4,False
+3497,13.0,year,71.23,No,5,No
+3498,3.0,half year,155.99,No,8,No
+3499,5.0,month,297.8,1,0,No
+3500,,half year,106.92,No,0,No
+3501,15.0,year,460.62,No,9,False
+3502,6.0,year,154.93,Yes,9,No
+3503,1.0,half year,146.15,No,8,True
+3504,20.0,month,148.64,No,2,No
+3505,16.0,year,120.6,Yes,5,True
+3506,19.0,year,410.58,Yes,bed,Yes
+3507,5.0,month,114.02,No,7,0
+3508,11.0,month,43.36,Yes,7,Yes
+3509,14.0,half year,227.05,No,bed,Yes
+3510,13.0,month,376.43,Yes,8,Yes
+3511,13.0,month,430.23,No,9,Yes
+3512,7.0,year,485.62,No,4,1
+3513,,half year,214.92,No,7,Yes
+3514,8.0,month,208.17,1,2,Yes
+3515,18.0,year,458.89,No,9,Yes
+3516,9.0,half year,443.85,1,3,0
+3517,,month,206.35,No,8,No
+3518,14.0,month,394.44,1,0,Yes
+3519,12.0,month,469.5,0,4,Yes
+3520,8.0,month,400.52,Yes,9,Yes
+3521,3.0,half year,486.33,No,8,1
+3522,16.0,year,378.14,Yes,9,1
+3523,6.0,year,237.97,Yes,8,No
+3524,4.0,half year,307.07,1,7,0
+3525,3.0,year,317.83,0,9,Yes
+3526,18.0,month,256.83,No,7,0
+3527,12.0,year,39.52,0,1,Yes
+3528,2.0,year,375.42,No,2,1
+3529,13.0,month,109.84,No,7,0
+3530,10.0,month,297.2,1,good,Yes
+3531,19.0,month,75.0,0,6,0
+3532,17.0,half year,67.11,No,4,Yes
+3533,6.0,year,433.11,No,7,0
+3534,11.0,month,159.55,Yes,bed,False
+3535,13.0,month,377.79,Yes,bed,Yes
+3536,6.0,half year,459.32,0,good,No
+3537,17.0,half year,85.61,1,8,Yes
+3538,21.0,year,12.82,Yes,good,No
+3539,4.0,month,21.14,No,1,Yes
+3540,14.0,year,218.84,Yes,good,Yes
+3541,18.0,month,452.02,0,7,True
+3542,12.0,half year,222.82,Yes,1,No
+3543,12.0,half year,235.35,0,1,No
+3544,1.0,year,340.43,No,9,True
+3545,22.0,,497.23,No,3,No
+3546,8.0,year,232.28,0,4,True
+3547,22.0,half year,17.45,No,1,1
+3548,18.0,half year,140.24,No,8,True
+3549,9.0,month,364.17,No,1,Yes
+3550,21.0,month,264.32,Yes,0,1
+3551,10.0,month,195.55,Yes,1,No
+3552,16.0,month,139.0,Yes,7,No
+3553,,,200.38,No,0,Yes
+3554,11.0,half year,92.06,No,6,False
+3555,17.0,year,106.88,1,1,Yes
+3556,20.0,year,265.41,1,bed,No
+3557,22.0,month,475.85,No,6,No
+3558,23.0,half year,366.18,Yes,3,No
+3559,21.0,half year,176.69,Yes,8,No
+3560,4.0,half year,199.98,No,3,1
+3561,23.0,year,187.37,0,9,Yes
+3562,11.0,year,329.51,No,8,Yes
+3563,,month,423.08,No,1,No
+3564,12.0,year,269.6,No,5,False
+3565,22.0,year,118.76,0,0,No
+3566,10.0,year,441.96,Yes,0,1
+3567,10.0,month,54.83,No,7,Yes
+3568,13.0,year,126.35,No,0,Yes
+3569,11.0,month,253.08,No,1,True
+3570,6.0,half year,83.76,No,8,1
+3571,20.0,year,284.6,No,3,False
+3572,17.0,month,171.12,1,5,Yes
+3573,23.0,half year,201.8,No,0,1
+3574,1.0,month,229.43,Yes,8,No
+3575,15.0,month,343.47,No,2,Yes
+3576,12.0,,86.46,Yes,6,No
+3577,12.0,year,484.33,No,6,Yes
+3578,1.0,month,96.28,Yes,0,Yes
+3579,,year,123.37,Yes,2,0
+3580,3.0,year,10.84,0,8,No
+3581,6.0,half year,482.38,No,7,No
+3582,14.0,year,227.09,No,4,Yes
+3583,2.0,half year,282.09,No,3,1
+3584,1.0,,492.52,1,2,False
+3585,9.0,half year,420.77,No,9,Yes
+3586,15.0,year,465.0,No,4,No
+3587,5.0,year,402.14,No,7,0
+3588,23.0,year,325.93,1,5,1
+3589,18.0,month,180.51,1,6,No
+3590,22.0,,116.04,1,2,1
+3591,5.0,year,217.52,No,0,False
+3592,10.0,month,425.14,No,6,False
+3593,11.0,year,487.78,No,3,Yes
+3594,,year,465.79,No,2,No
+3595,22.0,half year,222.99,0,bed,No
+3596,10.0,month,102.62,No,6,Yes
+3597,6.0,year,199.96,Yes,4,0
+3598,9.0,half year,480.97,No,7,True
+3599,5.0,month,461.32,No,4,No
+3600,16.0,month,224.13,No,5,No
+3601,9.0,month,95.79,No,5,Yes
+3602,23.0,year,422.35,0,3,No
+3603,9.0,half year,329.31,0,5,Yes
+3604,20.0,half year,139.93,Yes,4,False
+3605,9.0,year,385.54,0,2,0
+3606,17.0,month,475.75,No,2,No
+3607,12.0,half year,101.2,0,bed,Yes
+3608,2.0,month,107.19,No,5,Yes
+3609,18.0,half year,365.02,No,6,No
+3610,13.0,half year,46.74,Yes,7,No
+3611,6.0,,273.26,No,1,1
+3612,3.0,half year,179.69,Yes,7,No
+3613,20.0,month,114.64,No,5,True
+3614,18.0,half year,164.85,Yes,2,No
+3615,6.0,year,353.63,0,3,0
+3616,3.0,month,203.6,No,0,Yes
+3617,20.0,month,424.79,Yes,9,True
+3618,2.0,,422.85,No,2,Yes
+3619,15.0,year,326.57,No,8,Yes
+3620,15.0,half year,312.83,No,9,0
+3621,12.0,half year,46.96,Yes,3,No
+3622,4.0,month,400.4,1,5,1
+3623,8.0,month,458.56,No,5,Yes
+3624,16.0,year,421.99,No,good,No
+3625,16.0,year,119.84,Yes,good,Yes
+3626,3.0,month,92.93,0,9,No
+3627,5.0,half year,209.54,No,2,Yes
+3628,17.0,half year,461.27,No,2,No
+3629,20.0,year,327.1,No,1,1
+3630,21.0,half year,221.47,No,0,1
+3631,22.0,month,109.6,1,0,False
+3632,,half year,393.05,No,2,No
+3633,16.0,year,387.65,No,4,False
+3634,5.0,,140.72,Yes,7,Yes
+3635,2.0,year,336.66,No,6,0
+3636,5.0,half year,134.95,No,8,False
+3637,1.0,month,392.44,Yes,5,True
+3638,17.0,year,24.33,No,3,False
+3639,5.0,year,442.25,No,1,No
+3640,11.0,year,276.36,Yes,1,Yes
+3641,5.0,year,106.44,No,2,No
+3642,22.0,year,299.99,0,2,Yes
+3643,19.0,,365.87,No,2,Yes
+3644,3.0,half year,372.13,Yes,9,True
+3645,9.0,year,475.68,No,4,0
+3646,1.0,month,199.76,0,5,False
+3647,,month,432.83,Yes,8,True
+3648,21.0,year,31.97,No,3,Yes
+3649,14.0,month,160.28,No,7,Yes
+3650,9.0,half year,265.01,No,good,Yes
+3651,,year,432.12,0,4,True
+3652,20.0,year,248.47,Yes,good,Yes
+3653,6.0,half year,302.61,Yes,2,No
+3654,17.0,year,124.46,0,8,Yes
+3655,17.0,year,149.84,No,7,No
+3656,3.0,half year,350.73,No,1,No
+3657,15.0,month,499.88,No,3,True
+3658,3.0,year,449.65,No,7,Yes
+3659,9.0,month,388.64,No,4,No
+3660,4.0,year,87.44,No,9,No
+3661,1.0,month,404.98,No,1,No
+3662,22.0,year,383.79,Yes,6,Yes
+3663,,year,55.07,No,6,False
+3664,5.0,month,124.71,No,bed,No
+3665,16.0,month,179.4,No,2,No
+3666,5.0,half year,327.69,Yes,9,Yes
+3667,21.0,month,160.76,No,1,No
+3668,12.0,half year,67.45,No,bed,Yes
+3669,17.0,half year,31.85,Yes,5,No
+3670,7.0,year,339.17,No,3,No
+3671,14.0,month,102.79,No,3,1
+3672,14.0,half year,429.87,No,6,No
+3673,7.0,year,491.44,1,7,True
+3674,18.0,year,177.7,0,2,No
+3675,,year,458.9,No,bed,No
+3676,19.0,month,317.58,No,6,True
+3677,9.0,half year,224.61,No,7,Yes
+3678,20.0,half year,31.2,No,0,Yes
+3679,13.0,half year,202.92,Yes,6,No
+3680,11.0,half year,422.52,Yes,6,No
+3681,8.0,year,404.03,Yes,3,True
+3682,,half year,484.98,No,3,Yes
+3683,21.0,year,364.84,0,8,True
+3684,14.0,month,325.95,0,8,False
+3685,7.0,month,304.84,1,5,Yes
+3686,14.0,month,78.75,No,9,1
+3687,3.0,half year,34.96,No,9,False
+3688,22.0,year,232.29,0,8,0
+3689,23.0,month,444.72,No,0,1
+3690,21.0,half year,477.36,No,2,0
+3691,,month,460.52,No,1,No
+3692,11.0,year,112.47,No,8,No
+3693,1.0,half year,325.23,0,1,Yes
+3694,16.0,year,434.87,Yes,good,Yes
+3695,11.0,year,13.82,No,1,No
+3696,2.0,,62.7,Yes,bed,Yes
+3697,20.0,month,460.76,1,9,Yes
+3698,18.0,year,484.86,No,6,Yes
+3699,10.0,half year,11.89,1,7,False
+3700,2.0,half year,167.32,No,bed,Yes
+3701,2.0,year,408.46,1,0,False
+3702,9.0,year,48.06,No,8,Yes
+3703,19.0,year,244.8,No,4,Yes
+3704,7.0,half year,473.7,Yes,3,No
+3705,21.0,month,328.75,No,3,Yes
+3706,18.0,year,455.91,0,0,Yes
+3707,21.0,half year,345.08,No,5,No
+3708,13.0,month,497.56,No,9,False
+3709,16.0,half year,98.08,Yes,6,False
+3710,1.0,month,15.46,No,6,No
+3711,3.0,year,81.18,No,8,True
+3712,15.0,year,268.22,Yes,4,False
+3713,21.0,year,164.1,No,0,0
+3714,3.0,half year,60.08,No,3,0
+3715,20.0,month,39.25,No,5,No
+3716,16.0,year,21.72,No,1,False
+3717,23.0,month,59.28,No,7,1
+3718,10.0,,360.06,No,3,1
+3719,1.0,half year,398.73,No,1,False
+3720,10.0,year,382.73,Yes,2,False
+3721,19.0,year,293.34,Yes,2,Yes
+3722,12.0,half year,264.78,Yes,3,0
+3723,11.0,half year,499.91,Yes,0,False
+3724,1.0,half year,450.88,No,good,0
+3725,17.0,half year,163.64,No,6,True
+3726,12.0,half year,124.29,No,8,1
+3727,18.0,month,190.16,No,0,True
+3728,3.0,month,257.48,1,5,No
+3729,4.0,year,147.29,No,bed,No
+3730,21.0,year,272.55,No,7,True
+3731,18.0,year,270.86,No,8,0
+3732,16.0,month,137.04,Yes,2,False
+3733,14.0,year,47.36,Yes,5,No
+3734,17.0,year,235.09,No,2,False
+3735,6.0,month,235.97,Yes,5,No
+3736,6.0,month,18.43,No,0,No
+3737,7.0,year,368.27,No,4,No
+3738,15.0,month,188.29,No,good,0
+3739,14.0,half year,288.41,No,4,True
+3740,9.0,month,16.71,Yes,1,0
+3741,,month,57.78,No,4,Yes
+3742,16.0,half year,167.6,No,3,Yes
+3743,12.0,year,483.71,No,9,No
+3744,5.0,year,447.52,Yes,8,False
+3745,15.0,month,488.93,No,7,True
+3746,11.0,month,224.91,1,2,0
+3747,20.0,half year,21.44,No,2,Yes
+3748,14.0,year,220.86,No,2,False
+3749,4.0,year,221.88,No,4,Yes
+3750,14.0,year,489.1,No,8,1
+3751,3.0,half year,67.12,No,5,No
+3752,,year,64.97,0,6,Yes
+3753,17.0,year,212.08,0,3,1
+3754,10.0,month,336.02,No,2,No
+3755,22.0,half year,411.02,No,good,False
+3756,22.0,year,326.26,1,5,True
+3757,1.0,year,451.96,0,6,Yes
+3758,11.0,year,182.91,No,good,No
+3759,18.0,year,341.19,No,bed,True
+3760,15.0,half year,265.82,No,2,Yes
+3761,22.0,month,134.09,Yes,9,Yes
+3762,4.0,half year,301.59,Yes,2,No
+3763,10.0,half year,366.25,1,3,Yes
+3764,3.0,month,441.63,No,6,False
+3765,1.0,half year,345.53,0,2,True
+3766,10.0,half year,347.42,1,4,Yes
+3767,6.0,year,49.08,No,8,True
+3768,12.0,month,185.69,1,0,0
+3769,21.0,year,268.34,No,0,No
+3770,7.0,half year,313.25,No,1,Yes
+3771,21.0,month,215.32,No,2,True
+3772,19.0,half year,455.99,0,2,False
+3773,22.0,year,76.67,No,0,No
+3774,19.0,year,385.5,1,1,Yes
+3775,5.0,half year,249.97,1,bed,True
+3776,,half year,38.83,No,1,1
+3777,10.0,year,130.69,No,9,0
+3778,10.0,month,92.61,Yes,1,No
+3779,11.0,month,29.93,No,4,Yes
+3780,10.0,month,315.66,No,3,No
+3781,19.0,half year,257.37,0,5,Yes
+3782,22.0,year,370.82,1,9,Yes
+3783,14.0,year,92.43,Yes,1,No
+3784,9.0,year,479.72,No,good,False
+3785,2.0,month,132.27,Yes,4,0
+3786,19.0,year,390.86,0,9,No
+3787,16.0,half year,491.31,Yes,2,False
+3788,9.0,month,80.22,No,6,No
+3789,11.0,month,74.54,No,7,Yes
+3790,15.0,half year,323.3,No,3,No
+3791,14.0,month,482.78,Yes,5,True
+3792,20.0,month,93.97,No,9,No
+3793,14.0,year,157.52,1,7,Yes
+3794,11.0,month,117.36,No,7,False
+3795,5.0,year,313.64,Yes,7,Yes
+3796,12.0,half year,197.65,No,0,1
+3797,18.0,half year,391.86,Yes,8,True
+3798,13.0,year,265.11,Yes,9,No
+3799,4.0,half year,317.53,No,7,Yes
+3800,11.0,half year,77.74,No,6,No
+3801,,year,109.81,Yes,4,False
+3802,10.0,half year,490.43,No,3,0
+3803,23.0,year,305.45,No,8,No
+3804,6.0,half year,443.43,No,2,False
+3805,6.0,year,150.69,No,8,True
+3806,20.0,month,174.71,1,good,Yes
+3807,6.0,year,37.77,No,0,Yes
+3808,15.0,month,451.06,Yes,2,No
+3809,21.0,half year,81.75,No,good,True
+3810,18.0,year,166.96,No,5,No
+3811,5.0,month,210.02,No,5,Yes
+3812,23.0,,410.95,No,1,No
+3813,5.0,year,316.84,No,7,Yes
+3814,1.0,year,21.82,No,7,Yes
+3815,3.0,month,210.79,No,2,1
+3816,19.0,half year,493.25,Yes,good,Yes
+3817,22.0,year,367.62,0,1,No
+3818,16.0,year,116.96,Yes,9,True
+3819,20.0,month,488.42,Yes,4,Yes
+3820,4.0,year,332.68,No,7,Yes
+3821,6.0,half year,165.43,Yes,2,Yes
+3822,19.0,year,437.44,No,3,False
+3823,6.0,half year,62.56,0,4,1
+3824,3.0,year,97.56,Yes,7,False
+3825,16.0,year,75.2,1,4,No
+3826,1.0,month,313.37,Yes,5,True
+3827,6.0,half year,290.55,0,3,Yes
+3828,9.0,half year,323.96,No,9,Yes
+3829,9.0,,313.19,No,6,No
+3830,10.0,month,456.49,0,8,Yes
+3831,18.0,half year,64.39,0,4,No
+3832,14.0,half year,218.46,1,6,Yes
+3833,6.0,year,89.61,No,bed,Yes
+3834,6.0,half year,107.09,No,9,No
+3835,14.0,month,489.33,No,1,0
+3836,23.0,half year,158.39,No,7,0
+3837,15.0,month,397.01,No,6,No
+3838,20.0,year,117.74,Yes,6,True
+3839,4.0,half year,31.8,No,7,0
+3840,17.0,year,145.53,No,2,No
+3841,7.0,year,457.95,Yes,6,False
+3842,10.0,year,99.32,No,9,No
+3843,13.0,year,459.59,Yes,7,No
+3844,3.0,month,122.53,0,2,No
+3845,1.0,month,36.5,No,6,No
+3846,8.0,month,24.5,1,3,No
+3847,,month,122.98,Yes,0,1
+3848,17.0,half year,87.64,0,6,No
+3849,18.0,half year,15.68,No,9,No
+3850,8.0,month,273.21,1,7,Yes
+3851,18.0,year,259.14,No,9,No
+3852,23.0,month,315.74,0,8,No
+3853,21.0,half year,486.48,No,bed,1
+3854,18.0,half year,468.26,No,0,No
+3855,19.0,half year,50.42,No,4,False
+3856,19.0,year,484.33,No,bed,Yes
+3857,19.0,half year,329.22,No,3,0
+3858,15.0,half year,476.01,0,0,Yes
+3859,3.0,year,174.34,No,2,1
+3860,,year,233.67,No,8,No
+3861,5.0,year,285.6,No,4,No
+3862,23.0,year,205.11,No,6,Yes
+3863,21.0,year,100.79,No,bed,No
+3864,16.0,month,431.08,No,8,Yes
+3865,13.0,year,366.87,1,5,True
+3866,12.0,half year,480.87,Yes,1,True
+3867,12.0,half year,259.35,No,7,No
+3868,14.0,month,263.75,No,3,No
+3869,18.0,year,260.67,No,6,Yes
+3870,1.0,year,97.34,No,9,No
+3871,20.0,half year,390.29,No,5,No
+3872,15.0,year,186.47,1,1,Yes
+3873,21.0,month,385.12,No,3,1
+3874,20.0,year,422.47,No,7,0
+3875,12.0,year,125.28,No,2,No
+3876,3.0,half year,30.15,No,2,0
+3877,11.0,half year,191.93,Yes,4,True
+3878,8.0,half year,464.48,No,9,No
+3879,20.0,month,326.74,0,0,0
+3880,6.0,year,141.31,Yes,bed,Yes
+3881,4.0,year,281.72,No,3,No
+3882,22.0,year,473.43,Yes,1,No
+3883,21.0,month,243.32,0,4,Yes
+3884,17.0,half year,28.88,Yes,good,No
+3885,10.0,half year,271.18,No,1,1
+3886,19.0,month,157.88,Yes,5,Yes
+3887,8.0,half year,199.7,0,bed,No
+3888,9.0,month,455.46,No,4,No
+3889,6.0,half year,321.18,0,2,0
+3890,11.0,year,101.13,Yes,8,False
+3891,13.0,year,44.18,No,3,No
+3892,15.0,half year,180.97,No,9,No
+3893,1.0,year,458.14,No,0,True
+3894,18.0,year,389.94,No,bed,False
+3895,6.0,year,192.25,1,5,0
+3896,17.0,year,467.47,No,1,Yes
+3897,21.0,half year,429.64,No,6,Yes
+3898,6.0,,235.4,Yes,5,0
+3899,17.0,year,117.29,Yes,0,0
+3900,4.0,year,59.73,No,5,False
+3901,6.0,year,401.13,1,8,No
+3902,13.0,half year,103.19,No,7,False
+3903,14.0,month,182.2,No,7,0
+3904,15.0,year,432.5,0,0,No
+3905,4.0,year,400.62,Yes,bed,Yes
+3906,19.0,half year,57.45,Yes,7,No
+3907,21.0,year,386.76,Yes,7,Yes
+3908,20.0,half year,472.01,1,bed,True
+3909,11.0,year,444.11,No,3,0
+3910,1.0,year,168.48,No,1,Yes
+3911,17.0,year,493.72,No,0,No
+3912,12.0,year,68.68,No,5,Yes
+3913,17.0,year,430.7,Yes,0,0
+3914,18.0,year,149.7,1,5,Yes
+3915,12.0,year,102.27,No,2,True
+3916,10.0,month,478.25,Yes,3,True
+3917,14.0,month,376.67,No,0,True
+3918,13.0,year,298.48,No,3,True
+3919,22.0,year,227.22,No,7,Yes
+3920,9.0,year,300.4,1,1,No
+3921,20.0,month,228.77,1,9,Yes
+3922,13.0,year,364.7,0,4,No
+3923,13.0,half year,429.78,No,9,Yes
+3924,11.0,year,10.31,No,4,0
+3925,16.0,month,490.22,No,7,True
+3926,10.0,half year,208.91,No,4,1
+3927,16.0,year,72.01,No,4,False
+3928,9.0,half year,328.75,No,good,True
+3929,6.0,year,18.73,0,1,Yes
+3930,22.0,month,399.14,No,9,Yes
+3931,17.0,month,466.46,Yes,9,No
+3932,7.0,year,221.27,No,9,0
+3933,22.0,half year,434.31,Yes,9,True
+3934,13.0,month,22.21,No,9,False
+3935,19.0,month,250.7,No,1,Yes
+3936,11.0,half year,364.71,No,bed,True
+3937,5.0,year,19.46,Yes,0,No
+3938,13.0,year,115.29,0,7,0
+3939,22.0,half year,474.22,No,8,0
+3940,3.0,month,310.48,No,5,True
+3941,7.0,month,488.2,Yes,8,0
+3942,4.0,half year,37.39,Yes,5,No
+3943,4.0,month,342.33,Yes,6,No
+3944,7.0,year,185.8,1,5,1
+3945,8.0,month,402.61,No,6,Yes
+3946,6.0,month,234.9,No,5,Yes
+3947,2.0,month,490.13,No,good,Yes
+3948,2.0,month,412.25,No,5,No
+3949,23.0,year,67.03,No,2,0
+3950,7.0,year,50.29,Yes,3,True
+3951,18.0,half year,302.14,No,6,No
+3952,18.0,,160.25,No,6,0
+3953,2.0,half year,235.74,0,3,Yes
+3954,6.0,year,185.83,No,3,Yes
+3955,22.0,month,446.77,Yes,4,1
+3956,17.0,half year,58.94,No,6,0
+3957,5.0,year,80.32,Yes,3,No
+3958,1.0,month,137.42,Yes,7,False
+3959,10.0,year,280.85,No,2,No
+3960,19.0,year,13.72,1,good,True
+3961,21.0,year,82.07,No,0,False
+3962,5.0,year,344.33,Yes,3,1
+3963,9.0,year,252.77,No,2,0
+3964,5.0,month,471.53,No,3,No
+3965,23.0,month,416.62,No,2,True
+3966,8.0,year,329.14,No,2,No
+3967,17.0,half year,264.2,Yes,good,Yes
+3968,15.0,year,371.49,1,2,Yes
+3969,14.0,month,390.1,Yes,7,No
+3970,21.0,year,479.5,No,8,Yes
+3971,6.0,year,392.75,No,0,True
+3972,3.0,month,347.57,1,1,No
+3973,6.0,year,462.27,No,7,False
+3974,8.0,year,13.56,0,2,True
+3975,14.0,year,491.2,No,good,1
+3976,12.0,half year,253.04,No,8,Yes
+3977,22.0,month,374.3,1,7,Yes
+3978,3.0,half year,237.29,Yes,3,No
+3979,21.0,year,469.97,Yes,4,Yes
+3980,,month,396.79,Yes,5,Yes
+3981,3.0,half year,68.38,No,9,No
+3982,,year,89.44,1,0,No
+3983,,year,474.49,No,5,False
+3984,2.0,year,264.72,Yes,5,No
+3985,2.0,year,79.64,No,7,0
+3986,17.0,year,379.0,No,bed,Yes
+3987,10.0,month,244.08,Yes,2,1
+3988,9.0,,108.77,No,5,Yes
+3989,21.0,,170.17,0,bed,True
+3990,22.0,year,71.05,No,bed,Yes
+3991,16.0,month,336.28,No,bed,Yes
+3992,14.0,half year,373.43,No,9,No
+3993,23.0,half year,18.23,0,4,Yes
+3994,4.0,year,337.06,No,6,0
+3995,21.0,year,164.58,Yes,5,No
+3996,22.0,half year,471.45,No,5,0
+3997,15.0,year,118.42,No,0,0
+3998,15.0,month,200.16,No,5,0
+3999,,year,484.29,No,3,No
