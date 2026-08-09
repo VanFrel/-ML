@@ -1,0 +1,3001 @@
+customer_id,lifetime,contract_type,monthly_charges,tech_support,satisfaction,churn,churn_by_contract
+1000,21,year,178.37,False,1,False,0.5
+1001,5,year,236.41,True,9,True,0.5
+1002,4,month,214.73,False,3,True,0.51
+1003,20,half year,78.44,False,10,True,0.52
+1004,15,year,229.61,False,2,False,0.5
+1005,15,year,102.1,True,0,True,0.5
+1006,2,year,388.2,False,9,True,0.5
+1007,18,year,190.86,False,1,True,0.5
+1008,13,year,304.18,False,1,False,0.5
+1009,20,year,465.02,False,2,False,0.5
+1010,16,month,326.91,False,1,False,0.51
+1011,3,month,282.55,True,3,False,0.51
+1012,5,year,490.39,False,6,True,0.5
+1013,6,year,72.9,False,3,False,0.5
+1014,14,half year,238.58,False,3,False,0.52
+1015,11,year,179.33,True,2,False,0.5
+1016,10,month,138.39,False,5,False,0.51
+1017,3,half year,361.85,False,4,False,0.52
+1018,15,month,269.1,False,7,True,0.51
+1019,15,year,484.49,False,0,False,0.5
+1020,2,month,104.57,True,3,False,0.51
+1021,21,year,132.12,False,9,True,0.5
+1022,6,half year,347.1,False,9,True,0.52
+1023,11,year,326.21,True,0,True,0.5
+1024,7,month,379.12,True,4,False,0.51
+1025,4,year,267.53,True,9,True,0.5
+1026,23,month,477.71,True,5,False,0.51
+1027,5,month,422.49,True,9,True,0.51
+1028,4,half year,280.4,False,6,False,0.52
+1029,17,year,471.96,False,0,False,0.5
+1030,9,year,253.69,False,7,False,0.5
+1031,17,year,22.76,False,9,False,0.5
+1032,8,half year,288.61,False,3,True,0.52
+1033,20,half year,363.36,True,1,False,0.52
+1034,18,year,204.73,False,4,False,0.5
+1035,4,half year,423.4,False,4,True,0.52
+1036,20,half year,67.61,False,4,True,0.52
+1037,14,half year,267.02,False,9,False,0.52
+1038,2,half year,423.93,False,4,True,0.52
+1039,12,month,19.37,False,8,False,0.51
+1040,4,year,334.91,True,3,True,0.5
+1041,12,month,22.74,False,10,False,0.51
+1042,6,month,114.68,False,3,True,0.51
+1043,5,month,264.35,False,10,False,0.51
+1044,15,year,272.39,False,4,False,0.5
+1045,21,half year,416.66,False,6,True,0.52
+1046,2,year,226.71,False,7,False,0.5
+1047,21,year,148.86,False,2,False,0.5
+1048,17,year,291.11,True,8,True,0.5
+1049,4,year,276.65,True,8,True,0.5
+1050,23,year,51.27,False,5,False,0.5
+1051,20,half year,329.11,False,3,False,0.52
+1052,5,half year,58.99,False,6,True,0.52
+1053,7,year,395.35,False,7,True,0.5
+1054,9,month,59.99,False,5,False,0.51
+1055,13,half year,129.0,False,1,False,0.52
+1056,8,year,153.2,False,2,False,0.5
+1057,12,half year,170.37,False,0,False,0.52
+1058,5,month,183.05,False,5,False,0.51
+1059,16,month,408.44,True,8,True,0.51
+1060,2,year,219.85,False,1,True,0.5
+1061,2,year,43.94,False,0,True,0.5
+1062,17,year,242.26,False,0,True,0.5
+1063,14,month,27.19,False,0,False,0.51
+1064,13,half year,245.9,True,9,False,0.52
+1065,2,month,199.72,False,0,True,0.51
+1066,1,year,223.33,True,0,True,0.5
+1067,8,year,186.12,True,8,False,0.5
+1068,23,half year,58.45,False,1,False,0.52
+1069,21,month,471.81,False,9,False,0.51
+1070,18,month,257.48,False,5,True,0.51
+1071,12,year,296.38,True,1,False,0.5
+1072,16,year,255.3,False,3,True,0.5
+1073,10,year,141.88,False,9,False,0.5
+1074,16,year,465.41,True,5,True,0.5
+1075,22,month,430.16,False,8,False,0.51
+1076,3,half year,282.99,True,4,False,0.52
+1077,4,year,281.88,False,5,False,0.5
+1078,16,year,162.13,False,1,True,0.5
+1079,21,half year,370.57,False,7,False,0.52
+1080,22,month,417.86,False,5,True,0.51
+1081,1,month,145.13,True,5,False,0.51
+1082,18,year,358.65,False,8,False,0.5
+1083,7,year,367.47,True,8,False,0.5
+1084,12,half year,307.27,False,8,False,0.52
+1085,7,half year,311.88,False,10,False,0.52
+1086,10,half year,224.12,False,0,False,0.52
+1087,6,year,241.19,False,7,True,0.5
+1088,4,month,171.28,False,2,False,0.51
+1089,1,half year,128.27,True,10,False,0.52
+1090,11,month,350.77,False,8,True,0.51
+1091,4,half year,15.98,True,5,True,0.52
+1092,3,year,276.54,False,8,False,0.5
+1093,2,half year,400.07,False,0,False,0.52
+1094,7,month,279.01,False,7,True,0.51
+1095,17,year,244.64,False,9,True,0.5
+1096,12,year,410.86,False,0,True,0.5
+1097,5,half year,144.14,False,7,True,0.52
+1098,23,half year,239.23,False,0,False,0.52
+1099,19,month,365.15,False,0,True,0.51
+1100,20,month,408.52,False,3,False,0.51
+1101,1,half year,321.7,True,9,False,0.52
+1102,3,month,426.18,True,8,False,0.51
+1103,16,year,377.51,False,7,True,0.5
+1104,14,month,39.38,False,7,False,0.51
+1105,2,month,195.84,False,5,True,0.51
+1106,1,half year,173.53,True,2,False,0.52
+1107,7,year,423.29,False,4,True,0.5
+1108,22,half year,127.29,True,5,True,0.52
+1109,20,half year,276.0,False,1,True,0.52
+1110,11,year,182.41,False,8,True,0.5
+1111,12,half year,186.06,True,4,True,0.52
+1112,4,year,56.14,True,7,False,0.5
+1113,16,half year,179.92,False,5,False,0.52
+1114,17,half year,387.21,False,1,False,0.52
+1115,1,half year,231.83,False,0,False,0.52
+1116,12,month,182.24,False,6,True,0.51
+1117,17,month,68.47,False,7,True,0.51
+1118,16,year,472.07,True,2,True,0.5
+1119,4,month,358.61,False,7,False,0.51
+1120,18,half year,373.37,False,3,False,0.52
+1121,22,month,316.17,True,1,False,0.51
+1122,16,half year,284.19,False,10,False,0.52
+1123,22,year,43.15,True,6,False,0.5
+1124,2,half year,409.08,False,0,False,0.52
+1125,10,month,110.51,False,6,False,0.51
+1126,14,year,193.14,False,4,False,0.5
+1127,6,half year,106.86,False,1,True,0.52
+1128,16,half year,64.98,False,5,True,0.52
+1129,7,year,321.97,False,3,True,0.5
+1130,12,year,243.93,False,1,False,0.5
+1131,1,month,434.15,True,3,True,0.51
+1132,1,year,177.35,True,8,True,0.5
+1133,12,month,210.57,False,1,True,0.51
+1134,2,month,77.02,False,6,False,0.51
+1135,13,month,364.72,False,9,False,0.51
+1136,13,year,365.04,False,2,True,0.5
+1137,18,month,351.65,True,7,True,0.51
+1138,20,year,426.38,False,0,False,0.5
+1139,3,month,277.54,True,2,True,0.51
+1140,1,year,178.6,False,3,False,0.5
+1141,9,month,384.86,True,2,True,0.51
+1142,8,year,315.63,False,1,False,0.5
+1143,19,half year,245.47,False,8,False,0.52
+1144,4,half year,284.05,True,1,False,0.52
+1145,5,half year,355.3,False,0,False,0.52
+1146,17,year,238.91,False,7,True,0.5
+1147,12,half year,422.34,False,5,True,0.52
+1148,13,half year,49.92,False,2,False,0.52
+1149,14,year,17.6,False,7,True,0.5
+1150,17,half year,356.65,False,3,True,0.52
+1151,22,half year,321.19,False,7,False,0.52
+1152,20,month,336.62,False,8,False,0.51
+1153,19,year,44.03,False,0,True,0.5
+1154,7,month,73.6,False,5,False,0.51
+1155,14,half year,47.31,True,5,False,0.52
+1156,12,year,151.43,True,8,True,0.5
+1157,7,year,247.13,False,2,True,0.5
+1158,15,month,117.09,False,3,True,0.51
+1159,13,half year,356.21,False,2,True,0.52
+1160,5,year,404.62,True,0,True,0.5
+1161,14,year,174.64,False,9,True,0.5
+1162,3,year,213.94,False,6,False,0.5
+1163,15,year,76.02,False,6,True,0.5
+1164,1,half year,45.5,True,8,False,0.52
+1165,22,month,123.28,False,4,True,0.51
+1166,22,month,484.18,False,7,True,0.51
+1167,8,half year,147.14,False,1,True,0.52
+1168,20,month,91.34,True,7,True,0.51
+1169,14,year,207.85,False,10,False,0.5
+1170,2,year,304.14,True,8,True,0.5
+1171,7,year,389.63,False,3,True,0.5
+1172,15,month,346.86,False,6,False,0.51
+1173,13,half year,424.25,False,6,True,0.52
+1174,19,month,80.84,False,1,True,0.51
+1175,8,year,219.63,False,7,True,0.5
+1176,1,year,88.01,False,7,False,0.5
+1177,15,month,46.66,False,1,False,0.51
+1178,8,month,15.64,False,1,False,0.51
+1179,20,month,254.73,True,4,False,0.51
+1180,14,month,190.0,False,3,False,0.51
+1181,6,half year,123.77,True,3,True,0.52
+1182,3,half year,413.16,False,2,False,0.52
+1183,6,half year,382.51,False,2,True,0.52
+1184,1,month,436.83,True,1,True,0.51
+1185,17,half year,446.54,True,1,True,0.52
+1186,23,year,375.39,True,3,False,0.5
+1187,15,year,413.53,False,1,False,0.5
+1188,21,month,415.04,False,8,False,0.51
+1189,20,half year,464.81,False,0,False,0.52
+1190,18,month,283.92,False,1,True,0.51
+1191,2,year,359.23,True,2,True,0.5
+1192,5,year,355.86,False,3,False,0.5
+1193,10,year,36.04,False,5,True,0.5
+1194,8,year,124.05,False,4,False,0.5
+1195,19,month,97.66,False,7,True,0.51
+1196,1,half year,89.6,False,6,True,0.52
+1197,2,year,175.62,False,5,True,0.5
+1198,21,year,200.35,False,4,False,0.5
+1199,15,half year,377.85,False,10,False,0.52
+1200,23,half year,68.31,False,9,False,0.52
+1201,11,month,401.16,False,4,True,0.51
+1202,3,year,453.0,True,0,True,0.5
+1203,19,half year,146.94,False,4,True,0.52
+1204,16,half year,479.83,False,1,False,0.52
+1205,6,year,108.8,False,1,True,0.5
+1206,12,month,459.32,False,1,False,0.51
+1207,5,month,110.83,True,0,False,0.51
+1208,13,half year,258.07,False,8,False,0.52
+1209,20,month,420.48,False,2,True,0.51
+1210,17,half year,444.06,False,10,False,0.52
+1211,9,half year,199.35,True,0,True,0.52
+1212,11,half year,38.99,True,6,True,0.52
+1213,4,year,261.11,False,3,False,0.5
+1214,12,year,486.77,False,0,True,0.5
+1215,1,month,460.22,True,7,True,0.51
+1216,3,year,366.7,False,7,True,0.5
+1217,10,half year,37.09,False,10,True,0.52
+1218,16,year,39.54,False,0,True,0.5
+1219,9,half year,439.9,False,5,False,0.52
+1220,5,year,326.98,True,6,True,0.5
+1221,4,year,103.5,True,7,True,0.5
+1222,12,month,443.48,True,3,False,0.51
+1223,14,half year,135.92,False,7,False,0.52
+1224,16,month,170.34,True,0,False,0.51
+1225,9,year,485.4,False,7,True,0.5
+1226,18,month,240.13,False,5,False,0.51
+1227,19,month,84.48,False,0,True,0.51
+1228,11,year,408.75,False,7,False,0.5
+1229,10,half year,294.34,False,0,True,0.52
+1230,16,year,174.96,False,2,False,0.5
+1231,15,year,269.35,False,0,True,0.5
+1232,8,month,302.55,True,6,False,0.51
+1233,17,month,162.79,False,6,False,0.51
+1234,10,month,120.44,True,8,False,0.51
+1235,1,half year,409.6,False,9,False,0.52
+1236,12,year,211.2,False,0,True,0.5
+1237,17,month,266.7,False,9,True,0.51
+1238,7,year,29.24,False,0,True,0.5
+1239,8,half year,84.51,False,4,True,0.52
+1240,21,month,121.52,False,4,False,0.51
+1241,11,month,451.35,True,1,False,0.51
+1242,15,year,158.68,True,9,False,0.5
+1243,6,year,421.47,False,9,False,0.5
+1244,10,year,241.57,True,1,True,0.5
+1245,12,year,191.3,True,3,True,0.5
+1246,12,month,18.39,False,4,False,0.51
+1247,4,half year,56.66,True,0,True,0.52
+1248,9,year,360.2,False,0,False,0.5
+1249,18,half year,182.83,False,4,False,0.52
+1250,13,year,483.48,False,2,True,0.5
+1251,12,month,289.56,False,0,True,0.51
+1252,16,half year,359.11,True,10,False,0.52
+1253,20,month,459.95,False,4,False,0.51
+1254,19,half year,401.09,True,6,False,0.52
+1255,21,half year,165.57,True,2,False,0.52
+1256,8,half year,178.24,False,0,True,0.52
+1257,4,month,82.05,True,3,False,0.51
+1258,21,year,185.42,True,9,True,0.5
+1259,11,year,311.59,False,5,False,0.5
+1260,23,year,360.33,False,1,False,0.5
+1261,1,month,337.2,False,0,True,0.51
+1262,8,year,238.04,True,0,False,0.5
+1263,12,half year,157.65,False,4,False,0.52
+1264,12,year,196.46,False,6,False,0.5
+1265,16,month,180.92,False,7,False,0.51
+1266,20,month,94.8,False,5,True,0.51
+1267,16,month,283.65,False,5,False,0.51
+1268,9,half year,286.18,False,2,True,0.52
+1269,11,month,171.28,False,4,True,0.51
+1270,9,year,188.61,True,10,False,0.5
+1271,18,month,311.98,False,10,False,0.51
+1272,23,year,111.14,False,1,True,0.5
+1273,11,half year,317.03,False,5,False,0.52
+1274,17,month,457.08,False,8,True,0.51
+1275,7,year,82.34,True,1,True,0.5
+1276,16,half year,102.03,False,0,True,0.52
+1277,13,year,410.8,False,7,False,0.5
+1278,13,year,153.52,True,6,False,0.5
+1279,12,half year,414.88,False,6,True,0.52
+1280,5,year,50.14,False,5,False,0.5
+1281,3,half year,229.85,False,10,False,0.52
+1282,17,year,176.02,False,5,False,0.5
+1283,9,half year,281.61,False,3,False,0.52
+1284,1,year,240.25,False,3,False,0.5
+1285,18,year,128.42,True,8,False,0.5
+1286,4,month,344.31,False,3,True,0.51
+1287,21,year,437.13,False,6,True,0.5
+1288,5,month,166.47,False,2,True,0.51
+1289,9,half year,271.24,True,2,True,0.52
+1290,20,year,286.91,False,1,True,0.5
+1291,2,month,82.38,False,1,True,0.51
+1292,16,year,330.27,True,7,True,0.5
+1293,2,half year,25.51,False,6,True,0.52
+1294,20,year,188.56,False,8,False,0.5
+1295,14,month,207.19,True,1,False,0.51
+1296,13,half year,36.68,True,5,False,0.52
+1297,23,month,150.0,False,4,False,0.51
+1298,13,half year,387.68,False,0,False,0.52
+1299,12,half year,311.91,True,4,True,0.52
+1300,2,month,72.76,False,10,True,0.51
+1301,14,month,466.13,False,0,False,0.51
+1302,5,month,432.64,True,3,False,0.51
+1303,14,half year,25.77,False,1,False,0.52
+1304,7,month,150.39,False,0,False,0.51
+1305,19,year,421.87,False,0,True,0.5
+1306,17,month,42.08,False,7,True,0.51
+1307,4,year,354.44,True,7,True,0.5
+1308,16,half year,300.85,False,5,False,0.52
+1309,7,half year,338.98,True,3,True,0.52
+1310,3,year,412.44,False,2,True,0.5
+1311,11,month,434.16,True,9,False,0.51
+1312,23,year,97.08,True,3,False,0.5
+1313,17,month,97.96,False,9,True,0.51
+1314,12,year,150.27,False,5,True,0.5
+1315,22,month,38.72,False,4,False,0.51
+1316,12,half year,144.62,False,1,True,0.52
+1317,21,half year,457.68,True,1,False,0.52
+1318,13,half year,225.58,False,1,True,0.52
+1319,4,year,13.27,False,0,False,0.5
+1320,12,half year,175.35,True,8,True,0.52
+1321,3,month,133.75,True,6,False,0.51
+1322,22,half year,315.77,False,3,True,0.52
+1323,14,year,275.71,False,1,True,0.5
+1324,18,year,19.88,False,2,False,0.5
+1325,2,month,123.96,True,1,False,0.51
+1326,5,half year,105.45,False,7,False,0.52
+1327,17,year,292.97,False,8,True,0.5
+1328,13,half year,147.98,False,6,True,0.52
+1329,6,month,363.9,True,9,False,0.51
+1330,6,month,109.3,False,2,True,0.51
+1331,21,half year,282.52,False,7,False,0.52
+1332,9,year,453.97,False,9,False,0.5
+1333,13,half year,463.16,True,0,True,0.52
+1334,13,half year,297.74,False,1,False,0.52
+1335,14,year,202.13,False,7,False,0.5
+1336,17,year,400.58,False,0,False,0.5
+1337,23,year,418.84,False,9,False,0.5
+1338,4,half year,38.28,False,6,True,0.52
+1339,12,half year,172.15,False,9,True,0.52
+1340,13,half year,102.9,False,4,False,0.52
+1341,6,year,250.73,False,0,False,0.5
+1342,19,year,171.09,True,4,False,0.5
+1343,12,year,333.29,False,4,False,0.5
+1344,20,half year,443.36,False,8,True,0.52
+1345,12,year,179.71,False,9,True,0.5
+1346,4,year,442.0,True,9,True,0.5
+1347,9,half year,320.97,True,0,False,0.52
+1348,13,half year,302.83,True,6,False,0.52
+1349,20,year,372.42,False,9,False,0.5
+1350,11,year,209.02,False,5,True,0.5
+1351,11,half year,303.76,False,6,True,0.52
+1352,1,half year,96.84,False,9,True,0.52
+1353,10,month,68.52,False,7,True,0.51
+1354,17,year,465.13,False,3,True,0.5
+1355,17,year,401.37,False,1,False,0.5
+1356,6,year,98.94,False,8,True,0.5
+1357,22,year,367.57,False,1,False,0.5
+1358,5,month,355.18,False,8,True,0.51
+1359,5,year,340.45,False,7,True,0.5
+1360,18,half year,265.74,False,10,True,0.52
+1361,13,year,39.38,False,2,False,0.5
+1362,12,half year,50.46,False,5,False,0.52
+1363,16,year,66.32,False,5,True,0.5
+1364,5,year,41.27,True,2,True,0.5
+1365,18,year,163.09,False,4,False,0.5
+1366,22,month,283.91,False,9,True,0.51
+1367,7,half year,177.15,True,6,False,0.52
+1368,19,half year,444.79,False,7,False,0.52
+1369,15,year,127.35,False,6,False,0.5
+1370,6,year,34.33,False,1,False,0.5
+1371,13,year,108.46,False,0,False,0.5
+1372,5,year,300.13,False,3,True,0.5
+1373,7,half year,482.36,True,3,True,0.52
+1374,13,year,387.34,True,5,False,0.5
+1375,4,year,304.85,True,1,False,0.5
+1376,23,month,47.07,False,9,True,0.51
+1377,6,year,40.12,False,2,True,0.5
+1378,5,month,341.68,True,0,True,0.51
+1379,10,half year,276.05,False,8,True,0.52
+1380,22,half year,497.25,False,7,True,0.52
+1381,9,year,242.17,False,9,True,0.5
+1382,17,year,492.97,True,4,True,0.5
+1383,17,half year,21.65,False,7,False,0.52
+1384,21,year,421.81,True,0,True,0.5
+1385,12,half year,289.21,False,0,True,0.52
+1386,2,year,220.54,False,1,False,0.5
+1387,17,month,472.06,False,0,False,0.51
+1388,8,half year,223.96,True,4,True,0.52
+1389,6,year,199.2,False,8,True,0.5
+1390,21,month,136.34,True,6,True,0.51
+1391,5,year,414.31,False,8,True,0.5
+1392,14,month,245.99,False,6,True,0.51
+1393,11,year,442.95,False,7,True,0.5
+1394,5,month,478.55,False,1,True,0.51
+1395,7,year,132.78,False,7,True,0.5
+1396,14,month,45.0,False,5,False,0.51
+1397,7,year,246.78,True,2,True,0.5
+1398,5,year,60.02,False,0,True,0.5
+1399,22,half year,456.99,False,6,False,0.52
+1400,19,year,388.72,True,10,False,0.5
+1401,3,year,116.74,False,2,True,0.5
+1402,17,half year,390.68,False,7,False,0.52
+1403,2,year,129.21,False,9,False,0.5
+1404,16,month,403.72,True,8,False,0.51
+1405,10,year,30.18,False,5,True,0.5
+1406,1,half year,177.84,False,5,True,0.52
+1407,22,month,23.72,False,9,True,0.51
+1408,22,month,37.48,False,3,False,0.51
+1409,10,year,185.15,False,0,False,0.5
+1410,12,year,27.09,True,6,False,0.5
+1411,20,year,327.4,False,3,False,0.5
+1412,8,half year,160.49,False,7,False,0.52
+1413,19,year,386.31,False,6,False,0.5
+1414,17,year,172.71,False,3,True,0.5
+1415,2,year,470.01,True,8,True,0.5
+1416,15,year,491.41,False,1,False,0.5
+1417,10,month,163.47,False,7,True,0.51
+1418,3,year,474.19,True,10,True,0.5
+1419,23,month,272.01,False,6,True,0.51
+1420,12,month,368.16,False,0,True,0.51
+1421,13,year,203.0,False,8,False,0.5
+1422,14,month,268.85,True,8,True,0.51
+1423,19,month,56.86,False,5,False,0.51
+1424,9,half year,472.42,False,2,False,0.52
+1425,20,half year,290.58,True,0,False,0.52
+1426,13,year,414.46,True,5,False,0.5
+1427,19,year,196.16,False,3,True,0.5
+1428,15,month,393.68,False,4,False,0.51
+1429,9,month,369.28,True,7,False,0.51
+1430,9,year,79.09,False,2,False,0.5
+1431,1,year,288.78,False,0,True,0.5
+1432,16,month,400.33,False,4,True,0.51
+1433,12,half year,34.72,False,0,True,0.52
+1434,21,half year,383.57,False,5,True,0.52
+1435,6,month,467.16,False,8,True,0.51
+1436,17,half year,481.45,False,0,True,0.52
+1437,21,month,284.28,False,0,False,0.51
+1438,12,half year,476.98,True,5,False,0.52
+1439,2,half year,267.68,False,0,False,0.52
+1440,21,month,28.88,False,7,False,0.51
+1441,12,month,196.67,False,6,True,0.51
+1442,5,year,122.75,False,2,False,0.5
+1443,15,half year,180.23,True,2,True,0.52
+1444,20,half year,116.65,True,9,True,0.52
+1445,17,month,27.7,False,0,False,0.51
+1446,20,year,450.18,False,1,False,0.5
+1447,13,half year,487.04,False,6,False,0.52
+1448,7,month,113.92,False,0,True,0.51
+1449,12,half year,139.18,False,3,False,0.52
+1450,7,year,333.16,False,0,False,0.5
+1451,14,month,468.87,False,3,True,0.51
+1452,16,year,303.94,False,6,True,0.5
+1453,22,year,19.42,False,5,True,0.5
+1454,3,half year,433.94,True,2,True,0.52
+1455,5,year,112.21,True,2,True,0.5
+1456,15,year,460.77,False,9,True,0.5
+1457,15,month,442.51,False,4,True,0.51
+1458,11,half year,319.1,False,0,True,0.52
+1459,6,half year,489.06,False,9,True,0.52
+1460,1,half year,385.92,False,9,True,0.52
+1461,14,half year,487.36,False,8,True,0.52
+1462,4,year,418.03,False,4,True,0.5
+1463,11,year,116.11,False,7,False,0.5
+1464,13,month,73.58,False,2,False,0.51
+1465,3,year,319.91,False,5,False,0.5
+1466,21,half year,333.95,True,6,True,0.52
+1467,12,month,150.31,True,9,True,0.51
+1468,11,year,396.27,True,8,True,0.5
+1469,6,half year,127.04,False,8,True,0.52
+1470,11,year,286.36,False,8,True,0.5
+1471,7,year,52.45,False,2,False,0.5
+1472,4,half year,436.65,False,0,True,0.52
+1473,15,month,209.15,True,4,False,0.51
+1474,23,month,102.27,True,7,True,0.51
+1475,12,year,179.6,False,2,True,0.5
+1476,8,month,306.44,False,3,False,0.51
+1477,10,month,17.56,True,6,False,0.51
+1478,1,month,404.7,False,3,False,0.51
+1479,6,half year,265.66,False,2,False,0.52
+1480,16,year,31.09,True,6,True,0.5
+1481,12,month,469.68,True,5,True,0.51
+1482,16,year,54.01,True,4,True,0.5
+1483,7,year,275.74,True,2,True,0.5
+1484,11,year,15.97,True,0,True,0.5
+1485,21,half year,139.36,False,7,False,0.52
+1486,2,month,116.41,False,9,False,0.51
+1487,21,half year,179.31,False,5,False,0.52
+1488,12,month,183.59,False,5,True,0.51
+1489,11,year,216.72,False,4,False,0.5
+1490,6,month,281.63,False,7,True,0.51
+1491,5,month,354.79,False,0,True,0.51
+1492,12,year,475.01,True,6,False,0.5
+1493,3,year,159.96,False,9,True,0.5
+1494,5,half year,417.11,True,1,False,0.52
+1495,6,month,126.06,False,8,True,0.51
+1496,6,year,354.52,True,4,False,0.5
+1497,1,half year,37.75,False,3,True,0.52
+1498,14,year,290.28,True,5,True,0.5
+1499,12,month,282.82,False,2,False,0.51
+1500,2,half year,54.36,True,0,True,0.52
+1501,6,year,431.9,False,6,True,0.5
+1502,5,month,34.01,False,3,False,0.51
+1503,13,year,360.93,True,6,False,0.5
+1504,23,month,476.95,False,0,False,0.51
+1505,23,year,169.31,True,2,True,0.5
+1506,11,half year,321.28,True,0,True,0.52
+1507,5,half year,328.49,True,9,False,0.52
+1508,11,year,87.67,False,9,False,0.5
+1509,12,month,81.89,False,8,False,0.51
+1510,7,half year,244.02,True,0,True,0.52
+1511,15,year,31.1,False,5,True,0.5
+1512,21,year,121.22,True,0,False,0.5
+1513,11,year,169.94,True,0,False,0.5
+1514,10,year,446.91,False,6,True,0.5
+1515,6,month,35.9,False,2,True,0.51
+1516,8,half year,411.78,True,0,True,0.52
+1517,23,half year,105.62,False,6,True,0.52
+1518,23,year,170.68,True,3,False,0.5
+1519,20,half year,120.23,False,7,True,0.52
+1520,8,year,470.38,True,1,True,0.5
+1521,9,month,18.18,True,2,True,0.51
+1522,15,half year,476.75,False,1,False,0.52
+1523,12,month,137.06,False,0,True,0.51
+1524,16,half year,171.57,False,9,False,0.52
+1525,9,year,302.91,False,9,False,0.5
+1526,11,year,441.96,True,3,False,0.5
+1527,12,year,31.63,False,4,True,0.5
+1528,5,half year,217.49,False,10,False,0.52
+1529,12,month,121.86,True,7,False,0.51
+1530,10,year,488.69,True,4,True,0.5
+1531,22,half year,271.09,False,10,True,0.52
+1532,3,half year,251.16,False,8,False,0.52
+1533,20,month,157.66,False,0,True,0.51
+1534,15,month,380.3,False,1,True,0.51
+1535,13,month,220.91,True,2,False,0.51
+1536,5,month,101.68,False,2,False,0.51
+1537,17,month,192.6,True,3,False,0.51
+1538,6,month,329.69,True,0,True,0.51
+1539,4,half year,401.29,True,2,False,0.52
+1540,12,year,464.81,True,3,False,0.5
+1541,2,half year,264.34,False,0,True,0.52
+1542,3,month,281.9,False,8,False,0.51
+1543,6,month,189.86,True,3,True,0.51
+1544,15,month,34.22,False,0,False,0.51
+1545,23,half year,140.5,False,2,False,0.52
+1546,21,half year,468.1,False,3,False,0.52
+1547,18,month,489.98,False,8,True,0.51
+1548,1,year,175.98,False,8,True,0.5
+1549,10,month,79.92,True,4,False,0.51
+1550,23,month,498.67,False,4,True,0.51
+1551,16,month,429.08,False,0,True,0.51
+1552,9,year,316.4,False,3,False,0.5
+1553,17,half year,444.8,True,10,False,0.52
+1554,9,half year,188.78,False,7,False,0.52
+1555,14,half year,235.19,False,1,False,0.52
+1556,16,month,109.09,True,9,True,0.51
+1557,17,half year,432.03,False,5,False,0.52
+1558,15,half year,17.39,False,9,True,0.52
+1559,13,half year,137.94,False,6,True,0.52
+1560,8,half year,185.74,False,1,True,0.52
+1561,3,half year,413.17,False,7,False,0.52
+1562,16,half year,253.93,False,1,False,0.52
+1563,14,month,477.62,True,6,True,0.51
+1564,22,year,140.57,True,3,True,0.5
+1565,16,half year,142.75,True,2,False,0.52
+1566,18,month,56.07,True,9,True,0.51
+1567,6,year,287.83,False,8,True,0.5
+1568,5,year,440.83,False,1,False,0.5
+1569,12,year,139.03,False,9,False,0.5
+1570,20,year,122.8,False,8,False,0.5
+1571,3,month,154.25,False,9,True,0.51
+1572,23,year,229.59,False,10,True,0.5
+1573,6,half year,288.93,False,3,True,0.52
+1574,5,year,397.05,False,5,True,0.5
+1575,3,month,411.52,False,7,True,0.51
+1576,15,year,10.74,True,4,False,0.5
+1577,8,year,360.38,True,0,False,0.5
+1578,6,half year,93.25,False,9,True,0.52
+1579,12,year,457.5,False,7,True,0.5
+1580,20,month,372.34,False,5,False,0.51
+1581,12,year,335.96,False,1,True,0.5
+1582,3,year,430.81,True,10,False,0.5
+1583,16,month,188.09,True,2,True,0.51
+1584,4,half year,273.5,True,7,True,0.52
+1585,14,year,229.63,False,0,True,0.5
+1586,2,half year,259.42,False,0,False,0.52
+1587,20,year,35.5,True,2,True,0.5
+1588,19,month,111.04,True,2,False,0.51
+1589,2,month,324.61,False,2,True,0.51
+1590,13,half year,453.78,True,1,False,0.52
+1591,22,year,448.17,False,0,True,0.5
+1592,8,half year,378.71,True,5,False,0.52
+1593,5,year,398.83,False,6,True,0.5
+1594,14,year,184.8,True,0,False,0.5
+1595,6,month,39.88,True,1,True,0.51
+1596,16,year,421.8,False,1,False,0.5
+1597,12,year,435.66,False,0,False,0.5
+1598,10,year,298.09,False,8,False,0.5
+1599,21,half year,89.8,True,2,True,0.52
+1600,16,half year,428.58,False,6,False,0.52
+1601,19,year,187.09,True,4,True,0.5
+1602,18,half year,173.17,True,9,True,0.52
+1603,19,month,405.83,False,1,True,0.51
+1604,20,month,395.5,False,1,False,0.51
+1605,12,month,406.39,False,0,False,0.51
+1606,11,half year,345.12,False,6,True,0.52
+1607,16,half year,253.34,False,1,True,0.52
+1608,3,half year,485.49,False,6,True,0.52
+1609,7,year,279.14,False,2,True,0.5
+1610,18,half year,440.03,False,5,False,0.52
+1611,23,half year,377.96,False,0,True,0.52
+1612,5,year,70.06,False,0,False,0.5
+1613,7,year,495.64,True,8,True,0.5
+1614,12,month,463.95,False,10,True,0.51
+1615,22,year,285.34,True,3,True,0.5
+1616,4,half year,457.01,False,4,True,0.52
+1617,10,month,163.75,True,6,True,0.51
+1618,22,year,347.65,False,3,False,0.5
+1619,17,month,225.03,False,5,True,0.51
+1620,10,half year,376.56,False,10,True,0.52
+1621,21,year,206.91,True,4,True,0.5
+1622,17,year,40.44,True,1,False,0.5
+1623,11,year,24.46,True,4,False,0.5
+1624,12,year,448.95,False,7,False,0.5
+1625,8,year,52.65,False,3,False,0.5
+1626,6,year,129.13,False,3,False,0.5
+1627,13,year,93.0,True,0,True,0.5
+1628,8,month,224.79,False,3,True,0.51
+1629,8,month,445.96,False,9,True,0.51
+1630,18,year,143.94,False,6,False,0.5
+1631,17,month,227.82,False,2,False,0.51
+1632,20,half year,485.88,False,1,True,0.52
+1633,12,month,221.26,True,6,True,0.51
+1634,21,half year,363.84,False,1,False,0.52
+1635,20,year,130.35,True,7,False,0.5
+1636,12,half year,353.63,False,0,True,0.52
+1637,11,half year,128.13,False,5,False,0.52
+1638,7,month,490.26,False,0,True,0.51
+1639,23,year,158.66,True,5,False,0.5
+1640,15,half year,262.94,False,1,False,0.52
+1641,7,year,196.87,False,1,False,0.5
+1642,7,year,41.62,False,10,True,0.5
+1643,9,half year,457.37,True,9,True,0.52
+1644,5,half year,339.52,False,0,True,0.52
+1645,5,month,438.91,True,4,False,0.51
+1646,17,month,225.43,False,7,True,0.51
+1647,19,month,461.42,False,2,True,0.51
+1648,19,month,402.91,False,1,False,0.51
+1649,3,month,361.81,False,10,True,0.51
+1650,5,month,149.9,False,1,False,0.51
+1651,5,year,257.79,False,5,True,0.5
+1652,12,month,297.14,True,0,False,0.51
+1653,14,half year,81.66,False,1,True,0.52
+1654,18,half year,381.66,False,8,False,0.52
+1655,14,month,28.09,False,5,True,0.51
+1656,11,year,168.53,False,6,True,0.5
+1657,19,half year,345.4,False,3,True,0.52
+1658,4,year,406.68,True,3,False,0.5
+1659,12,half year,65.53,False,2,False,0.52
+1660,15,month,23.05,False,1,True,0.51
+1661,16,year,338.48,False,8,True,0.5
+1662,10,year,252.3,False,10,False,0.5
+1663,10,year,333.76,False,8,True,0.5
+1664,12,year,325.0,False,6,False,0.5
+1665,17,year,499.44,False,4,False,0.5
+1666,7,half year,329.4,False,6,False,0.52
+1667,13,month,312.11,False,2,False,0.51
+1668,18,month,320.62,True,3,False,0.51
+1669,5,year,337.3,False,6,False,0.5
+1670,15,year,213.7,False,5,True,0.5
+1671,6,month,484.79,False,7,True,0.51
+1672,12,half year,477.27,False,9,True,0.52
+1673,1,half year,66.31,True,2,False,0.52
+1674,7,month,418.31,True,2,False,0.51
+1675,6,half year,470.84,True,6,True,0.52
+1676,11,month,146.74,False,5,False,0.51
+1677,3,month,145.46,False,9,True,0.51
+1678,20,half year,12.53,False,2,False,0.52
+1679,6,year,44.33,False,0,True,0.5
+1680,1,year,111.77,False,6,False,0.5
+1681,17,month,381.39,False,7,False,0.51
+1682,9,year,311.21,False,4,True,0.5
+1683,6,month,351.69,False,9,False,0.51
+1684,3,month,195.64,False,4,True,0.51
+1685,7,year,390.03,True,9,False,0.5
+1686,23,year,88.84,False,1,False,0.5
+1687,6,year,42.96,False,7,False,0.5
+1688,15,year,447.89,True,5,False,0.5
+1689,11,half year,239.15,True,1,True,0.52
+1690,23,half year,186.95,False,0,True,0.52
+1691,1,month,297.77,True,7,True,0.51
+1692,22,month,297.47,False,5,False,0.51
+1693,10,month,208.39,False,5,False,0.51
+1694,11,year,129.68,False,9,True,0.5
+1695,9,year,133.15,True,2,True,0.5
+1696,18,half year,209.34,False,5,False,0.52
+1697,1,year,435.22,False,2,False,0.5
+1698,9,year,478.1,False,8,False,0.5
+1699,2,half year,385.3,True,0,True,0.52
+1700,12,half year,356.91,True,9,False,0.52
+1701,2,year,456.1,False,6,True,0.5
+1702,12,year,56.9,True,1,False,0.5
+1703,17,month,306.07,False,1,False,0.51
+1704,5,month,94.07,False,8,False,0.51
+1705,7,year,252.2,True,8,True,0.5
+1706,7,half year,151.59,False,6,True,0.52
+1707,14,month,78.08,False,8,True,0.51
+1708,8,month,453.92,False,2,True,0.51
+1709,20,year,113.87,False,3,True,0.5
+1710,9,month,490.22,True,0,False,0.51
+1711,13,month,18.03,False,10,False,0.51
+1712,20,year,428.19,True,6,False,0.5
+1713,3,year,474.23,True,2,True,0.5
+1714,17,year,239.9,True,2,True,0.5
+1715,2,year,393.28,False,0,True,0.5
+1716,22,year,84.78,False,7,True,0.5
+1717,8,half year,375.61,True,3,True,0.52
+1718,11,month,42.93,False,6,True,0.51
+1719,20,year,456.52,False,0,True,0.5
+1720,17,month,408.18,False,8,True,0.51
+1721,4,half year,447.14,False,4,True,0.52
+1722,12,month,254.97,True,3,False,0.51
+1723,18,month,381.56,False,9,False,0.51
+1724,12,month,485.71,False,9,False,0.51
+1725,20,year,432.94,False,6,False,0.5
+1726,14,month,161.06,False,0,True,0.51
+1727,16,year,292.89,True,0,True,0.5
+1728,17,half year,200.24,False,0,True,0.52
+1729,4,year,410.45,True,9,True,0.5
+1730,8,year,491.4,True,4,True,0.5
+1731,6,half year,486.0,False,2,True,0.52
+1732,22,month,306.04,False,0,True,0.51
+1733,14,half year,128.35,False,10,True,0.52
+1734,12,year,57.28,True,0,True,0.5
+1735,17,month,464.5,False,9,True,0.51
+1736,23,month,270.09,False,8,True,0.51
+1737,12,half year,468.92,True,3,False,0.52
+1738,23,year,467.11,True,0,True,0.5
+1739,7,year,247.82,False,0,False,0.5
+1740,5,half year,206.78,False,0,False,0.52
+1741,20,month,461.34,True,9,True,0.51
+1742,17,year,155.63,False,2,True,0.5
+1743,12,month,197.97,False,9,False,0.51
+1744,19,month,415.01,True,7,True,0.51
+1745,21,month,204.43,False,7,False,0.51
+1746,22,half year,124.75,False,5,False,0.52
+1747,23,year,72.52,True,8,False,0.5
+1748,19,month,157.21,False,8,True,0.51
+1749,7,year,188.82,True,3,False,0.5
+1750,17,half year,107.83,False,2,False,0.52
+1751,13,month,222.2,False,1,False,0.51
+1752,6,year,217.14,True,3,True,0.5
+1753,23,month,140.53,True,4,True,0.51
+1754,20,year,264.29,False,6,False,0.5
+1755,15,half year,162.75,False,9,True,0.52
+1756,3,month,470.06,False,4,True,0.51
+1757,23,year,366.6,False,6,True,0.5
+1758,12,month,23.45,False,3,False,0.51
+1759,21,half year,489.81,False,7,True,0.52
+1760,18,year,337.27,False,7,False,0.5
+1761,2,year,266.91,False,6,False,0.5
+1762,15,half year,65.69,False,5,False,0.52
+1763,14,year,289.21,False,8,False,0.5
+1764,6,year,296.61,False,0,False,0.5
+1765,8,year,64.29,True,8,True,0.5
+1766,18,year,195.3,False,5,True,0.5
+1767,7,half year,492.51,True,0,False,0.52
+1768,11,half year,209.01,False,4,False,0.52
+1769,17,month,213.81,False,2,False,0.51
+1770,12,month,402.37,True,7,True,0.51
+1771,3,month,354.5,True,7,True,0.51
+1772,18,month,284.66,False,7,False,0.51
+1773,16,month,485.92,False,1,False,0.51
+1774,6,half year,132.14,True,9,False,0.52
+1775,10,year,155.68,True,1,False,0.5
+1776,2,month,62.59,False,4,True,0.51
+1777,1,month,106.26,False,0,False,0.51
+1778,4,year,322.09,False,1,True,0.5
+1779,8,month,60.74,False,6,True,0.51
+1780,23,year,228.33,False,1,False,0.5
+1781,15,month,71.98,False,0,False,0.51
+1782,11,month,358.31,False,3,False,0.51
+1783,18,month,93.69,False,0,True,0.51
+1784,17,year,219.56,False,4,True,0.5
+1785,3,year,365.2,False,3,True,0.5
+1786,3,half year,46.9,False,1,False,0.52
+1787,6,year,393.21,False,0,False,0.5
+1788,2,half year,334.0,False,2,True,0.52
+1789,7,half year,234.79,False,6,False,0.52
+1790,8,half year,67.6,False,10,True,0.52
+1791,22,year,159.99,True,1,True,0.5
+1792,11,half year,424.37,True,2,False,0.52
+1793,10,half year,44.49,True,10,False,0.52
+1794,10,year,470.91,False,2,True,0.5
+1795,23,half year,21.73,False,2,True,0.52
+1796,4,half year,120.72,True,6,False,0.52
+1797,7,month,110.1,False,2,True,0.51
+1798,20,year,15.0,True,2,False,0.5
+1799,15,half year,461.69,False,9,False,0.52
+1800,1,month,193.11,True,6,False,0.51
+1801,16,month,418.04,False,4,False,0.51
+1802,15,month,467.27,False,9,False,0.51
+1803,18,half year,349.35,False,7,False,0.52
+1804,11,year,163.77,False,2,False,0.5
+1805,3,month,109.53,False,7,True,0.51
+1806,12,month,112.38,False,0,True,0.51
+1807,16,half year,222.77,True,0,False,0.52
+1808,17,month,430.29,False,8,True,0.51
+1809,19,month,334.99,False,10,False,0.51
+1810,23,year,374.45,True,6,True,0.5
+1811,12,half year,498.57,False,5,False,0.52
+1812,12,year,251.08,True,1,True,0.5
+1813,17,month,210.23,False,2,True,0.51
+1814,1,year,334.53,True,9,True,0.5
+1815,1,year,240.04,False,2,True,0.5
+1816,10,month,405.32,False,0,True,0.51
+1817,6,month,39.11,False,0,False,0.51
+1818,10,half year,420.78,False,3,False,0.52
+1819,23,half year,241.16,False,8,True,0.52
+1820,4,half year,354.93,True,7,False,0.52
+1821,18,half year,97.15,False,4,False,0.52
+1822,12,year,338.01,True,1,False,0.5
+1823,8,half year,44.03,False,7,False,0.52
+1824,17,year,13.49,False,3,False,0.5
+1825,13,half year,288.66,False,5,True,0.52
+1826,3,half year,331.17,False,4,True,0.52
+1827,12,half year,338.17,False,10,False,0.52
+1828,4,half year,331.16,True,0,False,0.52
+1829,19,month,103.18,True,5,True,0.51
+1830,3,half year,220.79,False,0,True,0.52
+1831,17,month,378.39,False,9,True,0.51
+1832,7,year,451.75,False,3,True,0.5
+1833,19,month,173.79,False,1,False,0.51
+1834,8,half year,221.73,False,4,True,0.52
+1835,12,half year,21.91,False,10,False,0.52
+1836,2,half year,334.39,False,0,False,0.52
+1837,1,half year,132.87,False,2,True,0.52
+1838,12,half year,359.11,False,5,False,0.52
+1839,17,year,467.83,False,0,False,0.5
+1840,9,year,57.03,True,2,True,0.5
+1841,11,month,317.84,True,6,True,0.51
+1842,10,year,262.82,True,1,False,0.5
+1843,10,year,393.05,True,8,True,0.5
+1844,23,year,51.64,False,7,False,0.5
+1845,5,month,499.34,False,9,True,0.51
+1846,6,month,231.95,False,7,False,0.51
+1847,6,month,137.41,False,5,False,0.51
+1848,15,year,229.43,True,4,False,0.5
+1849,23,half year,118.07,False,10,True,0.52
+1850,5,half year,334.91,True,5,True,0.52
+1851,22,year,405.58,False,10,False,0.5
+1852,13,year,92.51,False,4,False,0.5
+1853,14,year,114.58,False,7,False,0.5
+1854,3,half year,39.15,False,3,True,0.52
+1855,23,year,228.4,False,3,True,0.5
+1856,5,half year,58.01,False,6,True,0.52
+1857,16,month,499.23,False,0,False,0.51
+1858,23,month,454.18,False,4,True,0.51
+1859,12,half year,277.56,False,9,True,0.52
+1860,8,half year,104.54,True,0,True,0.52
+1861,6,year,76.29,True,1,False,0.5
+1862,17,year,310.96,False,7,False,0.5
+1863,23,half year,300.19,False,0,True,0.52
+1864,12,month,152.9,True,6,True,0.51
+1865,16,year,445.12,True,9,True,0.5
+1866,13,year,356.44,True,9,False,0.5
+1867,18,month,85.02,True,0,False,0.51
+1868,9,half year,57.81,True,0,False,0.52
+1869,20,year,306.83,False,9,True,0.5
+1870,8,year,436.26,False,9,False,0.5
+1871,23,year,199.33,False,8,False,0.5
+1872,6,year,488.04,False,9,True,0.5
+1873,13,month,13.8,False,7,False,0.51
+1874,13,half year,113.36,False,5,False,0.52
+1875,6,year,356.97,True,8,False,0.5
+1876,11,year,447.8,False,2,True,0.5
+1877,18,half year,333.66,False,7,False,0.52
+1878,12,year,122.3,False,6,True,0.5
+1879,23,month,73.27,False,1,False,0.51
+1880,14,month,442.67,False,2,False,0.51
+1881,18,year,133.24,False,4,False,0.5
+1882,4,half year,449.78,False,6,True,0.52
+1883,6,month,396.13,False,6,False,0.51
+1884,3,month,453.99,False,9,False,0.51
+1885,2,year,157.0,True,1,False,0.5
+1886,22,half year,168.12,False,7,True,0.52
+1887,19,year,138.09,True,0,False,0.5
+1888,8,year,100.2,False,5,False,0.5
+1889,8,year,119.16,False,8,True,0.5
+1890,7,half year,362.28,False,10,False,0.52
+1891,3,half year,318.84,False,6,False,0.52
+1892,23,year,285.27,False,7,True,0.5
+1893,10,year,355.62,True,8,False,0.5
+1894,3,month,360.84,False,10,False,0.51
+1895,20,half year,286.04,True,6,False,0.52
+1896,16,month,292.78,False,5,True,0.51
+1897,9,year,400.59,False,5,False,0.5
+1898,13,year,258.39,True,4,False,0.5
+1899,22,month,123.67,True,8,True,0.51
+1900,7,half year,455.55,False,1,True,0.52
+1901,12,year,234.89,False,8,True,0.5
+1902,23,month,385.45,False,10,False,0.51
+1903,8,half year,17.64,True,0,False,0.52
+1904,16,year,206.16,False,5,True,0.5
+1905,9,half year,184.95,False,0,True,0.52
+1906,3,year,91.32,False,5,False,0.5
+1907,23,year,181.66,False,6,True,0.5
+1908,17,half year,475.06,False,0,True,0.52
+1909,21,year,483.46,False,3,True,0.5
+1910,12,year,473.02,False,7,True,0.5
+1911,3,half year,480.13,True,3,True,0.52
+1912,12,half year,409.83,False,5,False,0.52
+1913,14,year,188.13,True,0,True,0.5
+1914,17,half year,255.57,False,4,False,0.52
+1915,4,year,322.59,False,1,True,0.5
+1916,14,half year,244.48,False,5,False,0.52
+1917,1,half year,218.15,True,3,True,0.52
+1918,6,half year,407.83,False,8,False,0.52
+1919,12,half year,95.68,True,10,False,0.52
+1920,11,month,202.65,False,4,False,0.51
+1921,5,year,307.68,False,6,False,0.5
+1922,18,month,358.09,False,3,True,0.51
+1923,13,half year,35.77,True,0,False,0.52
+1924,17,half year,84.27,True,9,False,0.52
+1925,23,year,137.64,False,3,False,0.5
+1926,13,year,184.23,False,8,True,0.5
+1927,20,half year,205.13,False,2,False,0.52
+1928,23,year,79.32,False,5,False,0.5
+1929,14,year,375.93,False,6,True,0.5
+1930,12,year,76.3,False,6,False,0.5
+1931,19,year,172.59,False,7,True,0.5
+1932,23,year,179.31,False,0,True,0.5
+1933,10,year,191.77,False,7,False,0.5
+1934,23,half year,157.9,False,9,False,0.52
+1935,16,half year,52.74,True,9,False,0.52
+1936,21,month,180.88,False,2,True,0.51
+1937,8,year,377.37,False,2,True,0.5
+1938,4,year,406.78,True,8,False,0.5
+1939,22,year,335.27,False,2,False,0.5
+1940,21,half year,477.46,False,3,False,0.52
+1941,6,half year,306.3,False,0,True,0.52
+1942,12,year,100.09,True,6,False,0.5
+1943,3,half year,382.94,False,7,True,0.52
+1944,4,month,13.25,True,8,True,0.51
+1945,12,half year,263.76,True,1,True,0.52
+1946,7,half year,422.95,False,10,False,0.52
+1947,14,year,72.28,True,7,True,0.5
+1948,12,month,313.47,False,3,False,0.51
+1949,20,month,267.36,False,0,False,0.51
+1950,22,month,252.22,True,6,False,0.51
+1951,12,month,322.2,False,7,False,0.51
+1952,2,month,220.11,False,6,True,0.51
+1953,22,half year,157.04,True,1,False,0.52
+1954,22,year,389.49,False,6,False,0.5
+1955,8,half year,220.6,False,1,False,0.52
+1956,14,half year,252.5,False,3,False,0.52
+1957,11,year,137.91,False,2,False,0.5
+1958,21,half year,142.54,False,2,True,0.52
+1959,6,half year,357.32,True,9,False,0.52
+1960,14,month,157.36,False,9,True,0.51
+1961,21,year,484.49,True,9,False,0.5
+1962,21,month,79.91,False,3,True,0.51
+1963,7,month,294.42,False,0,False,0.51
+1964,16,month,398.03,False,10,True,0.51
+1965,20,year,293.53,False,0,False,0.5
+1966,9,half year,47.52,True,4,True,0.52
+1967,5,month,300.35,False,4,False,0.51
+1968,8,month,58.4,False,6,False,0.51
+1969,10,half year,235.37,False,0,True,0.52
+1970,23,month,379.76,False,8,True,0.51
+1971,16,month,239.76,False,0,False,0.51
+1972,13,month,433.19,False,6,False,0.51
+1973,2,year,166.15,False,1,False,0.5
+1974,3,year,357.71,True,7,False,0.5
+1975,9,half year,80.66,False,6,False,0.52
+1976,5,month,437.15,False,5,True,0.51
+1977,13,half year,438.75,True,3,False,0.52
+1978,8,month,25.77,True,0,True,0.51
+1979,8,month,315.38,False,5,False,0.51
+1980,7,year,186.56,False,9,False,0.5
+1981,1,half year,134.47,False,10,False,0.52
+1982,13,year,25.49,False,10,True,0.5
+1983,17,year,55.16,False,0,False,0.5
+1984,10,year,212.68,False,1,False,0.5
+1985,14,year,237.35,True,3,True,0.5
+1986,10,year,388.49,True,0,True,0.5
+1987,7,half year,228.46,False,4,True,0.52
+1988,8,year,289.43,False,0,False,0.5
+1989,12,month,50.0,False,0,False,0.51
+1990,23,month,201.84,False,8,False,0.51
+1991,19,half year,281.72,False,5,True,0.52
+1992,14,year,395.77,False,6,True,0.5
+1993,19,year,88.84,False,6,False,0.5
+1994,23,month,335.49,False,2,False,0.51
+1995,18,month,201.37,False,0,True,0.51
+1996,12,month,472.68,True,0,False,0.51
+1997,10,year,291.01,False,1,True,0.5
+1998,12,year,18.99,False,0,False,0.5
+1999,2,year,236.38,False,1,False,0.5
+2000,19,year,223.76,True,8,False,0.5
+2001,2,half year,41.01,True,3,True,0.52
+2002,17,month,106.66,False,5,False,0.51
+2003,10,half year,481.73,False,3,True,0.52
+2004,23,half year,200.38,False,4,False,0.52
+2005,12,year,265.23,False,6,True,0.5
+2006,12,month,232.22,False,9,False,0.51
+2007,14,half year,156.5,False,2,False,0.52
+2008,10,year,245.65,False,10,True,0.5
+2009,2,year,496.08,False,2,True,0.5
+2010,4,half year,490.31,False,1,False,0.52
+2011,10,year,446.08,True,9,True,0.5
+2012,21,year,48.74,False,9,True,0.5
+2013,4,half year,15.28,False,4,True,0.52
+2014,22,month,78.44,True,7,True,0.51
+2015,19,year,337.67,False,3,False,0.5
+2016,2,year,369.98,False,8,True,0.5
+2017,19,half year,49.15,True,6,True,0.52
+2018,22,year,304.25,True,0,True,0.5
+2019,10,year,248.25,False,1,True,0.5
+2020,23,half year,317.65,False,7,True,0.52
+2021,10,year,54.84,False,7,False,0.5
+2022,23,year,342.16,False,8,False,0.5
+2023,10,half year,367.43,False,4,False,0.52
+2024,13,year,93.8,False,1,False,0.5
+2025,8,year,421.98,True,2,True,0.5
+2026,14,year,41.24,False,3,False,0.5
+2027,5,month,12.57,False,1,True,0.51
+2028,19,half year,399.72,False,4,False,0.52
+2029,4,half year,265.7,True,10,True,0.52
+2030,23,year,161.57,False,1,True,0.5
+2031,5,half year,86.45,False,9,True,0.52
+2032,11,year,462.16,False,9,True,0.5
+2033,20,year,224.99,False,7,True,0.5
+2034,22,year,182.49,False,0,True,0.5
+2035,21,year,23.17,False,3,False,0.5
+2036,1,month,258.47,True,7,False,0.51
+2037,5,year,33.78,False,0,True,0.5
+2038,13,half year,296.93,False,4,False,0.52
+2039,23,month,282.32,False,1,False,0.51
+2040,2,month,167.06,False,4,False,0.51
+2041,14,year,205.96,False,0,False,0.5
+2042,9,year,270.37,False,6,False,0.5
+2043,18,half year,224.88,True,6,True,0.52
+2044,5,half year,235.12,False,9,False,0.52
+2045,13,year,277.77,True,3,True,0.5
+2046,9,month,448.46,False,0,True,0.51
+2047,21,half year,118.14,False,1,False,0.52
+2048,5,half year,490.0,False,8,False,0.52
+2049,18,half year,44.28,False,2,False,0.52
+2050,22,half year,437.38,False,2,True,0.52
+2051,21,year,224.59,True,8,False,0.5
+2052,20,month,143.52,False,0,True,0.51
+2053,3,half year,318.86,False,7,False,0.52
+2054,12,year,307.13,False,4,True,0.5
+2055,14,year,435.34,False,0,False,0.5
+2056,2,month,19.1,False,5,False,0.51
+2057,22,month,305.16,True,2,True,0.51
+2058,17,year,388.8,True,3,True,0.5
+2059,18,year,426.84,False,10,True,0.5
+2060,6,month,360.27,False,10,True,0.51
+2061,1,year,129.96,False,2,False,0.5
+2062,9,month,315.54,False,9,True,0.51
+2063,17,year,236.58,True,2,False,0.5
+2064,18,half year,290.22,False,9,False,0.52
+2065,1,half year,121.36,False,9,True,0.52
+2066,20,month,53.83,False,7,False,0.51
+2067,15,month,219.17,False,7,False,0.51
+2068,12,month,245.0,True,2,False,0.51
+2069,22,year,15.36,False,6,False,0.5
+2070,9,month,60.82,False,4,True,0.51
+2071,4,year,487.43,True,0,False,0.5
+2072,8,year,288.94,False,8,False,0.5
+2073,8,month,454.21,True,2,False,0.51
+2074,19,month,249.2,False,4,True,0.51
+2075,8,half year,377.21,False,7,True,0.52
+2076,19,half year,102.44,False,8,True,0.52
+2077,22,month,306.98,False,8,True,0.51
+2078,17,half year,353.41,False,4,False,0.52
+2079,20,year,171.95,False,8,True,0.5
+2080,23,month,288.48,True,0,False,0.51
+2081,12,year,311.53,True,4,False,0.5
+2082,21,month,261.1,False,5,False,0.51
+2083,1,year,478.54,False,2,True,0.5
+2084,22,half year,324.82,False,0,True,0.52
+2085,16,month,53.11,False,10,False,0.51
+2086,3,year,432.71,True,8,True,0.5
+2087,2,year,138.92,False,8,True,0.5
+2088,8,year,191.65,False,4,False,0.5
+2089,3,month,376.13,True,4,False,0.51
+2090,7,month,370.4,False,3,True,0.51
+2091,13,month,281.83,True,0,False,0.51
+2092,14,year,18.65,True,9,False,0.5
+2093,22,half year,111.86,False,5,True,0.52
+2094,1,month,385.37,False,6,False,0.51
+2095,4,year,150.18,False,2,False,0.5
+2096,5,month,364.67,False,8,True,0.51
+2097,12,half year,45.6,False,2,False,0.52
+2098,19,year,485.85,False,0,False,0.5
+2099,16,half year,257.05,False,0,False,0.52
+2100,23,month,347.73,False,10,False,0.51
+2101,20,year,342.78,False,7,True,0.5
+2102,5,half year,476.56,True,6,True,0.52
+2103,1,year,220.31,False,8,True,0.5
+2104,1,half year,61.24,False,8,True,0.52
+2105,1,month,34.93,False,2,False,0.51
+2106,5,month,351.3,False,1,False,0.51
+2107,23,year,353.84,True,6,False,0.5
+2108,21,half year,71.26,False,0,True,0.52
+2109,8,year,231.23,False,8,True,0.5
+2110,7,half year,76.58,True,8,False,0.52
+2111,12,year,394.53,True,8,True,0.5
+2112,4,month,170.88,True,8,False,0.51
+2113,13,year,406.8,False,6,False,0.5
+2114,17,half year,382.9,False,3,True,0.52
+2115,5,month,436.87,False,2,False,0.51
+2116,18,month,172.11,False,6,True,0.51
+2117,13,month,492.61,False,2,True,0.51
+2118,1,year,247.8,True,8,False,0.5
+2119,11,month,103.47,True,0,False,0.51
+2120,5,month,21.87,False,0,False,0.51
+2121,3,year,83.25,True,1,True,0.5
+2122,15,half year,266.15,False,7,False,0.52
+2123,21,month,64.57,False,10,False,0.51
+2124,9,month,266.05,False,3,False,0.51
+2125,18,year,199.35,False,3,True,0.5
+2126,10,half year,287.4,False,5,True,0.52
+2127,20,half year,392.61,False,8,True,0.52
+2128,22,month,301.53,False,6,False,0.51
+2129,11,year,372.59,False,8,False,0.5
+2130,20,half year,276.9,True,2,True,0.52
+2131,17,half year,487.04,False,3,False,0.52
+2132,10,month,174.64,False,1,True,0.51
+2133,7,year,237.22,False,6,True,0.5
+2134,3,half year,213.49,False,6,False,0.52
+2135,12,half year,492.05,False,0,False,0.52
+2136,17,year,394.31,True,8,False,0.5
+2137,2,half year,134.32,True,3,True,0.52
+2138,11,year,114.55,False,0,True,0.5
+2139,14,year,436.98,True,2,False,0.5
+2140,15,year,248.44,False,0,True,0.5
+2141,1,half year,65.73,False,9,True,0.52
+2142,8,half year,70.27,False,8,True,0.52
+2143,15,half year,238.57,False,2,False,0.52
+2144,4,month,283.18,True,0,True,0.51
+2145,18,half year,177.18,True,9,True,0.52
+2146,2,year,377.05,False,7,True,0.5
+2147,12,month,168.46,False,9,False,0.51
+2148,12,half year,198.21,False,10,False,0.52
+2149,19,month,17.48,False,2,False,0.51
+2150,22,year,222.36,False,8,True,0.5
+2151,19,half year,28.28,True,8,False,0.52
+2152,20,month,376.08,True,0,True,0.51
+2153,18,year,199.1,False,0,False,0.5
+2154,3,year,155.09,False,2,False,0.5
+2155,12,half year,61.15,False,8,True,0.52
+2156,20,half year,94.33,False,7,False,0.52
+2157,20,year,408.64,False,2,True,0.5
+2158,2,month,350.49,True,8,True,0.51
+2159,18,month,156.46,True,9,True,0.51
+2160,5,year,202.71,True,4,True,0.5
+2161,20,month,172.7,True,7,False,0.51
+2162,16,month,28.45,False,8,False,0.51
+2163,20,year,32.91,False,7,False,0.5
+2164,12,year,336.15,False,4,True,0.5
+2165,12,year,426.14,False,3,True,0.5
+2166,5,month,415.18,False,10,True,0.51
+2167,19,half year,17.55,False,8,True,0.52
+2168,18,month,226.19,False,5,True,0.51
+2169,16,year,354.02,True,6,True,0.5
+2170,4,half year,111.93,False,10,False,0.52
+2171,18,month,172.21,False,9,False,0.51
+2172,9,year,434.15,False,8,True,0.5
+2173,12,year,420.68,False,5,False,0.5
+2174,8,half year,468.8,True,0,False,0.52
+2175,9,month,94.86,False,2,True,0.51
+2176,3,half year,236.67,False,10,True,0.52
+2177,15,half year,493.82,False,10,True,0.52
+2178,2,month,324.17,True,8,True,0.51
+2179,12,year,366.39,False,0,False,0.5
+2180,17,half year,258.88,False,5,True,0.52
+2181,13,year,376.53,False,4,True,0.5
+2182,21,month,13.09,False,4,False,0.51
+2183,4,year,447.93,True,6,True,0.5
+2184,12,half year,317.91,True,1,True,0.52
+2185,17,year,364.09,True,1,True,0.5
+2186,12,year,454.73,False,3,False,0.5
+2187,8,month,291.37,False,0,False,0.51
+2188,18,year,71.33,False,1,True,0.5
+2189,5,year,240.84,False,0,True,0.5
+2190,4,half year,403.69,False,2,False,0.52
+2191,11,month,414.08,True,0,False,0.51
+2192,12,half year,332.24,True,3,True,0.52
+2193,13,year,118.85,True,4,True,0.5
+2194,8,year,370.8,True,5,True,0.5
+2195,19,year,322.51,False,3,False,0.5
+2196,12,month,25.07,True,0,False,0.51
+2197,11,year,229.26,True,0,True,0.5
+2198,18,month,296.04,True,8,True,0.51
+2199,19,year,335.54,True,0,True,0.5
+2200,15,year,285.55,True,4,True,0.5
+2201,14,year,98.59,True,10,True,0.5
+2202,2,half year,21.91,False,5,False,0.52
+2203,9,month,213.52,True,2,False,0.51
+2204,20,year,433.27,True,2,True,0.5
+2205,9,year,254.73,False,8,False,0.5
+2206,6,year,456.49,False,9,True,0.5
+2207,8,year,414.6,False,7,False,0.5
+2208,12,month,322.65,False,3,True,0.51
+2209,8,year,215.75,False,1,True,0.5
+2210,5,year,429.77,False,9,False,0.5
+2211,12,month,215.74,False,2,False,0.51
+2212,14,year,436.87,False,7,False,0.5
+2213,8,year,498.75,False,7,True,0.5
+2214,21,month,363.63,False,5,True,0.51
+2215,10,month,96.65,True,1,False,0.51
+2216,19,year,251.32,False,9,False,0.5
+2217,23,month,89.54,True,0,True,0.51
+2218,7,month,387.42,True,0,False,0.51
+2219,2,half year,274.66,False,2,True,0.52
+2220,22,half year,160.96,False,1,True,0.52
+2221,12,month,23.63,True,3,False,0.51
+2222,1,month,101.88,False,7,False,0.51
+2223,1,half year,149.3,False,3,True,0.52
+2224,23,month,305.96,True,4,False,0.51
+2225,23,half year,388.18,False,8,True,0.52
+2226,17,month,107.18,True,10,False,0.51
+2227,21,year,24.56,False,9,True,0.5
+2228,20,half year,13.74,False,4,False,0.52
+2229,21,year,120.34,False,4,False,0.5
+2230,3,year,129.11,True,3,True,0.5
+2231,20,month,491.6,False,7,True,0.51
+2232,15,year,255.67,True,3,True,0.5
+2233,23,year,498.56,False,4,False,0.5
+2234,12,half year,228.57,True,10,False,0.52
+2235,12,half year,471.09,False,9,True,0.52
+2236,9,year,119.16,False,10,False,0.5
+2237,12,month,119.94,False,2,True,0.51
+2238,19,half year,445.59,False,7,False,0.52
+2239,2,half year,472.82,False,8,False,0.52
+2240,16,half year,430.75,True,0,True,0.52
+2241,8,year,323.62,True,0,False,0.5
+2242,6,year,457.69,False,5,True,0.5
+2243,21,year,87.39,False,5,False,0.5
+2244,7,half year,227.05,True,7,False,0.52
+2245,2,year,483.56,True,5,True,0.5
+2246,12,half year,163.44,False,0,False,0.52
+2247,23,year,337.02,True,1,False,0.5
+2248,19,month,113.96,True,10,False,0.51
+2249,2,half year,110.49,False,3,False,0.52
+2250,8,month,17.09,True,2,True,0.51
+2251,8,half year,458.78,True,3,True,0.52
+2252,10,year,293.83,False,8,True,0.5
+2253,8,month,29.89,True,8,False,0.51
+2254,21,year,250.83,True,8,True,0.5
+2255,11,month,158.59,False,5,False,0.51
+2256,3,month,459.26,False,5,False,0.51
+2257,3,year,250.33,True,4,False,0.5
+2258,12,year,419.41,False,0,True,0.5
+2259,9,half year,10.64,False,10,True,0.52
+2260,17,month,227.76,False,7,False,0.51
+2261,5,month,301.69,False,6,True,0.51
+2262,1,month,219.74,True,4,False,0.51
+2263,8,half year,303.1,True,0,True,0.52
+2264,16,month,315.23,False,1,True,0.51
+2265,15,year,53.59,False,0,True,0.5
+2266,12,month,472.57,False,0,True,0.51
+2267,20,half year,177.37,True,1,False,0.52
+2268,3,half year,386.34,False,9,True,0.52
+2269,7,half year,313.28,True,5,True,0.52
+2270,23,year,208.95,False,0,False,0.5
+2271,1,year,273.21,True,3,True,0.5
+2272,15,year,124.57,False,5,True,0.5
+2273,14,half year,437.67,False,1,False,0.52
+2274,17,half year,444.58,False,0,False,0.52
+2275,9,half year,483.94,True,6,True,0.52
+2276,13,year,23.78,False,3,True,0.5
+2277,20,year,414.06,False,3,False,0.5
+2278,5,year,484.1,False,1,False,0.5
+2279,12,half year,190.57,True,8,True,0.52
+2280,16,year,103.38,False,1,True,0.5
+2281,16,month,367.16,False,9,False,0.51
+2282,10,half year,287.4,True,9,True,0.52
+2283,8,year,306.87,False,6,False,0.5
+2284,7,half year,472.13,False,5,True,0.52
+2285,17,month,386.33,True,5,True,0.51
+2286,21,year,464.57,True,6,False,0.5
+2287,22,half year,242.79,False,2,True,0.52
+2288,6,year,91.27,False,0,False,0.5
+2289,20,half year,318.21,False,4,True,0.52
+2290,1,half year,253.77,True,9,True,0.52
+2291,17,year,62.19,False,9,False,0.5
+2292,16,year,206.28,False,6,False,0.5
+2293,19,month,118.4,True,5,False,0.51
+2294,12,month,305.39,False,0,True,0.51
+2295,18,year,242.05,False,3,False,0.5
+2296,1,year,52.62,False,8,False,0.5
+2297,1,year,159.08,False,5,True,0.5
+2298,15,year,346.98,False,7,True,0.5
+2299,11,year,212.91,False,8,True,0.5
+2300,16,half year,362.05,False,0,True,0.52
+2301,19,year,205.48,False,3,False,0.5
+2302,18,month,414.21,False,2,False,0.51
+2303,8,month,164.96,False,5,True,0.51
+2304,14,year,472.4,True,5,True,0.5
+2305,2,half year,211.18,True,7,True,0.52
+2306,12,year,183.93,True,5,False,0.5
+2307,9,year,477.78,True,2,True,0.5
+2308,7,half year,268.53,False,6,False,0.52
+2309,19,month,481.28,False,2,False,0.51
+2310,11,year,191.99,False,7,True,0.5
+2311,19,month,113.21,False,3,False,0.51
+2312,23,half year,148.55,False,2,True,0.52
+2313,21,year,176.77,False,2,False,0.5
+2314,23,month,293.74,False,4,False,0.51
+2315,12,year,344.04,False,7,False,0.5
+2316,14,year,357.7,False,0,True,0.5
+2317,8,month,182.45,True,1,True,0.51
+2318,15,month,476.23,False,5,True,0.51
+2319,4,year,198.51,True,4,True,0.5
+2320,19,year,303.58,True,0,True,0.5
+2321,3,year,335.11,False,7,True,0.5
+2322,5,half year,379.24,True,5,True,0.52
+2323,22,half year,332.75,False,0,True,0.52
+2324,10,half year,343.23,True,4,False,0.52
+2325,17,month,477.06,False,5,True,0.51
+2326,13,half year,358.97,False,4,False,0.52
+2327,8,half year,436.02,False,4,False,0.52
+2328,15,half year,221.85,False,3,True,0.52
+2329,19,month,42.89,False,2,True,0.51
+2330,2,half year,98.25,False,2,False,0.52
+2331,10,half year,109.57,False,7,False,0.52
+2332,15,month,133.98,False,1,True,0.51
+2333,11,year,55.89,True,0,True,0.5
+2334,15,half year,417.7,False,4,False,0.52
+2335,8,half year,24.41,False,1,False,0.52
+2336,9,year,429.35,False,8,False,0.5
+2337,16,year,178.72,True,8,True,0.5
+2338,4,year,63.18,True,9,False,0.5
+2339,7,half year,275.21,True,1,False,0.52
+2340,9,month,46.47,False,10,False,0.51
+2341,16,year,228.57,False,2,False,0.5
+2342,5,year,41.88,False,2,False,0.5
+2343,8,year,498.16,False,10,False,0.5
+2344,23,year,302.81,False,0,False,0.5
+2345,3,year,331.22,True,7,False,0.5
+2346,21,year,131.07,True,8,True,0.5
+2347,15,year,459.54,False,3,True,0.5
+2348,8,year,405.73,False,0,False,0.5
+2349,13,half year,304.55,False,3,False,0.52
+2350,11,year,481.76,False,3,False,0.5
+2351,23,half year,120.58,False,2,True,0.52
+2352,10,year,469.43,False,2,False,0.5
+2353,22,year,410.25,True,2,False,0.5
+2354,18,month,323.58,False,4,False,0.51
+2355,19,year,279.5,False,4,False,0.5
+2356,5,month,68.54,True,1,False,0.51
+2357,19,month,138.58,False,8,True,0.51
+2358,15,year,229.56,False,9,True,0.5
+2359,12,year,102.68,False,6,True,0.5
+2360,4,half year,94.37,False,3,True,0.52
+2361,4,year,207.44,False,5,False,0.5
+2362,14,year,170.96,False,4,False,0.5
+2363,19,half year,137.38,False,5,True,0.52
+2364,7,month,250.83,True,0,True,0.51
+2365,16,year,106.18,False,1,False,0.5
+2366,14,year,255.4,False,7,False,0.5
+2367,5,year,157.14,False,7,False,0.5
+2368,18,month,124.44,True,4,True,0.51
+2369,21,year,358.75,False,8,False,0.5
+2370,1,half year,28.3,False,5,True,0.52
+2371,9,year,427.93,True,1,False,0.5
+2372,11,month,160.35,False,2,False,0.51
+2373,12,half year,311.83,False,9,True,0.52
+2374,17,half year,22.37,False,1,True,0.52
+2375,16,half year,365.04,True,4,True,0.52
+2376,8,year,350.53,False,7,True,0.5
+2377,16,year,233.32,False,6,False,0.5
+2378,11,year,238.66,False,0,False,0.5
+2379,9,month,157.36,False,9,False,0.51
+2380,12,month,304.57,True,9,True,0.51
+2381,7,month,365.13,False,2,False,0.51
+2382,6,year,10.41,True,8,False,0.5
+2383,17,half year,499.98,False,0,False,0.52
+2384,12,month,258.41,False,8,True,0.51
+2385,12,year,347.44,True,5,True,0.5
+2386,23,month,119.82,True,7,False,0.51
+2387,12,month,389.08,False,3,False,0.51
+2388,6,half year,383.57,True,5,False,0.52
+2389,15,month,389.53,True,0,False,0.51
+2390,10,half year,412.38,False,2,True,0.52
+2391,16,year,328.32,False,5,True,0.5
+2392,23,half year,378.23,False,0,True,0.52
+2393,12,year,128.65,False,9,False,0.5
+2394,17,half year,339.18,False,7,False,0.52
+2395,5,half year,279.92,False,1,True,0.52
+2396,3,year,221.23,False,2,False,0.5
+2397,10,month,62.19,False,4,False,0.51
+2398,10,year,215.06,False,5,False,0.5
+2399,9,year,245.14,False,0,False,0.5
+2400,3,half year,143.41,True,5,False,0.52
+2401,3,half year,371.3,False,4,True,0.52
+2402,5,month,10.05,False,0,False,0.51
+2403,3,year,349.27,False,6,False,0.5
+2404,5,month,326.58,False,7,False,0.51
+2405,2,month,388.42,False,3,True,0.51
+2406,5,half year,404.81,False,9,True,0.52
+2407,8,half year,494.56,True,7,False,0.52
+2408,1,year,433.34,False,0,True,0.5
+2409,12,half year,460.4,False,5,False,0.52
+2410,6,year,301.88,False,0,False,0.5
+2411,10,half year,395.91,False,0,False,0.52
+2412,2,year,440.4,False,5,False,0.5
+2413,16,year,54.62,False,5,False,0.5
+2414,9,year,125.5,False,4,False,0.5
+2415,2,month,82.32,False,1,False,0.51
+2416,17,half year,122.16,False,8,False,0.52
+2417,10,year,302.85,False,8,False,0.5
+2418,9,year,360.72,False,2,True,0.5
+2419,7,half year,350.82,False,3,True,0.52
+2420,15,year,362.78,False,6,True,0.5
+2421,10,half year,400.02,False,0,False,0.52
+2422,14,half year,289.67,True,6,False,0.52
+2423,12,year,493.4,True,5,True,0.5
+2424,2,year,297.67,True,8,True,0.5
+2425,4,month,166.83,False,10,False,0.51
+2426,12,month,170.53,False,2,False,0.51
+2427,3,half year,146.42,False,7,True,0.52
+2428,21,half year,479.93,False,3,True,0.52
+2429,18,year,42.61,True,0,True,0.5
+2430,2,month,217.79,False,3,True,0.51
+2431,11,half year,424.47,False,4,False,0.52
+2432,2,half year,314.45,False,4,True,0.52
+2433,9,year,398.54,False,0,False,0.5
+2434,23,year,103.31,False,7,True,0.5
+2435,2,half year,162.61,False,1,True,0.52
+2436,11,month,96.93,False,5,False,0.51
+2437,22,month,303.76,False,1,True,0.51
+2438,3,year,70.41,False,4,True,0.5
+2439,1,month,364.21,True,0,True,0.51
+2440,1,year,421.8,True,4,False,0.5
+2441,13,half year,114.75,False,8,False,0.52
+2442,23,year,399.68,True,3,False,0.5
+2443,9,month,152.84,True,1,False,0.51
+2444,17,half year,95.39,False,4,False,0.52
+2445,20,half year,481.75,False,7,True,0.52
+2446,23,month,67.66,False,8,False,0.51
+2447,16,year,205.8,False,3,True,0.5
+2448,13,half year,216.8,False,9,False,0.52
+2449,7,month,239.72,False,2,True,0.51
+2450,8,month,390.21,False,5,True,0.51
+2451,12,year,211.23,False,3,True,0.5
+2452,20,half year,272.35,False,8,False,0.52
+2453,9,year,19.56,True,6,False,0.5
+2454,8,half year,230.81,False,10,False,0.52
+2455,21,half year,389.1,False,1,False,0.52
+2456,13,month,375.12,False,3,True,0.51
+2457,3,year,386.72,True,0,False,0.5
+2458,2,half year,153.21,False,7,True,0.52
+2459,16,year,420.44,False,9,False,0.5
+2460,9,half year,383.32,False,1,True,0.52
+2461,6,year,377.51,False,5,True,0.5
+2462,17,month,202.3,False,0,True,0.51
+2463,8,year,173.58,False,9,False,0.5
+2464,8,month,223.96,True,0,True,0.51
+2465,18,half year,132.32,False,3,True,0.52
+2466,4,month,186.99,False,4,True,0.51
+2467,9,year,353.1,True,10,False,0.5
+2468,11,month,403.96,False,4,False,0.51
+2469,17,year,60.89,False,1,False,0.5
+2470,20,half year,17.1,False,7,False,0.52
+2471,13,half year,121.26,False,8,False,0.52
+2472,7,half year,177.37,False,2,False,0.52
+2473,1,year,259.48,False,4,False,0.5
+2474,5,half year,358.42,False,7,True,0.52
+2475,9,year,348.24,True,5,False,0.5
+2476,12,half year,444.0,True,3,True,0.52
+2477,2,year,335.17,False,2,True,0.5
+2478,23,year,255.15,False,0,True,0.5
+2479,20,half year,81.87,True,4,False,0.52
+2480,16,month,148.48,False,8,True,0.51
+2481,17,month,329.33,False,0,True,0.51
+2482,19,month,136.8,False,7,False,0.51
+2483,8,month,397.88,False,9,True,0.51
+2484,11,year,115.54,False,3,False,0.5
+2485,7,month,373.64,False,2,False,0.51
+2486,21,year,21.18,False,9,True,0.5
+2487,21,year,142.57,False,0,True,0.5
+2488,21,half year,114.17,False,1,False,0.52
+2489,6,month,472.94,False,2,True,0.51
+2490,5,year,297.38,False,4,True,0.5
+2491,1,month,184.4,False,9,True,0.51
+2492,12,half year,271.48,False,4,True,0.52
+2493,12,year,499.66,False,3,True,0.5
+2494,12,half year,186.3,False,8,False,0.52
+2495,4,month,113.45,False,7,True,0.51
+2496,4,year,66.66,True,4,True,0.5
+2497,16,month,192.68,False,0,False,0.51
+2498,3,month,475.18,True,9,True,0.51
+2499,10,month,86.27,False,9,False,0.51
+2500,9,month,308.83,False,0,False,0.51
+2501,14,month,268.56,False,2,False,0.51
+2502,12,year,492.08,False,9,True,0.5
+2503,6,half year,24.2,False,5,True,0.52
+2504,4,month,315.38,False,2,False,0.51
+2505,22,month,95.38,True,9,False,0.51
+2506,21,half year,123.62,False,3,False,0.52
+2507,9,year,450.85,False,4,True,0.5
+2508,5,year,257.96,False,5,True,0.5
+2509,3,year,466.95,False,7,True,0.5
+2510,10,month,82.76,True,3,True,0.51
+2511,5,year,55.27,False,8,True,0.5
+2512,23,year,166.74,False,9,True,0.5
+2513,16,year,355.21,True,8,True,0.5
+2514,11,year,272.47,False,7,False,0.5
+2515,10,year,258.87,True,2,True,0.5
+2516,1,year,236.72,True,1,False,0.5
+2517,1,month,367.57,True,6,True,0.51
+2518,23,month,101.0,False,8,True,0.51
+2519,12,half year,195.24,False,2,True,0.52
+2520,17,month,219.66,True,7,False,0.51
+2521,21,year,201.96,True,4,True,0.5
+2522,3,year,119.58,True,10,True,0.5
+2523,15,half year,56.71,False,1,False,0.52
+2524,22,year,29.08,False,7,True,0.5
+2525,14,month,456.41,False,4,True,0.51
+2526,4,year,388.94,False,0,False,0.5
+2527,13,month,375.21,False,2,False,0.51
+2528,21,half year,353.61,False,0,True,0.52
+2529,7,month,138.41,True,1,True,0.51
+2530,13,year,13.11,False,6,True,0.5
+2531,13,month,125.73,False,2,True,0.51
+2532,9,year,287.27,False,0,False,0.5
+2533,6,month,32.75,False,6,True,0.51
+2534,6,half year,416.66,False,2,True,0.52
+2535,6,half year,370.81,False,9,True,0.52
+2536,13,half year,416.87,False,4,False,0.52
+2537,1,year,22.56,True,7,True,0.5
+2538,2,month,225.26,False,5,False,0.51
+2539,13,year,239.22,True,9,False,0.5
+2540,20,year,353.31,False,0,False,0.5
+2541,16,half year,452.56,True,2,True,0.52
+2542,21,year,298.15,True,6,True,0.5
+2543,12,year,266.94,False,9,True,0.5
+2544,23,year,82.12,False,5,True,0.5
+2545,2,half year,144.94,False,7,True,0.52
+2546,21,year,141.01,False,0,True,0.5
+2547,17,month,347.41,True,5,False,0.51
+2548,20,year,234.78,False,1,False,0.5
+2549,12,year,441.22,True,6,False,0.5
+2550,5,half year,271.52,False,0,True,0.52
+2551,12,half year,89.98,True,8,False,0.52
+2552,16,half year,422.22,True,5,False,0.52
+2553,13,half year,87.45,False,4,False,0.52
+2554,15,half year,119.23,False,6,False,0.52
+2555,15,month,93.05,False,1,False,0.51
+2556,9,month,144.79,False,4,False,0.51
+2557,8,year,235.01,False,4,True,0.5
+2558,3,year,485.35,False,7,True,0.5
+2559,18,year,11.01,False,2,False,0.5
+2560,16,year,300.29,True,10,True,0.5
+2561,7,month,45.24,True,8,True,0.51
+2562,9,year,445.87,False,7,False,0.5
+2563,4,year,205.16,True,0,True,0.5
+2564,1,year,367.03,True,3,False,0.5
+2565,17,month,487.21,False,4,False,0.51
+2566,12,half year,201.07,False,1,False,0.52
+2567,4,month,230.48,False,2,False,0.51
+2568,9,half year,135.34,False,2,False,0.52
+2569,22,half year,169.4,True,6,True,0.52
+2570,3,half year,264.89,False,9,True,0.52
+2571,12,month,344.16,True,0,False,0.51
+2572,6,year,386.95,False,4,True,0.5
+2573,18,month,127.18,True,5,True,0.51
+2574,19,year,220.81,False,0,True,0.5
+2575,12,year,158.18,True,1,True,0.5
+2576,10,year,373.48,False,6,False,0.5
+2577,14,month,483.92,False,2,True,0.51
+2578,22,month,381.58,False,0,False,0.51
+2579,4,month,189.08,False,5,False,0.51
+2580,7,half year,45.13,False,7,False,0.52
+2581,3,half year,97.4,True,4,True,0.52
+2582,18,month,249.64,False,2,False,0.51
+2583,12,half year,123.58,False,1,False,0.52
+2584,22,month,25.31,True,2,True,0.51
+2585,6,month,264.2,False,9,False,0.51
+2586,6,year,196.68,False,9,True,0.5
+2587,14,half year,354.62,False,0,True,0.52
+2588,13,month,309.43,False,9,True,0.51
+2589,13,month,415.03,False,0,True,0.51
+2590,15,half year,231.88,False,8,False,0.52
+2591,6,month,330.91,False,2,False,0.51
+2592,11,month,250.21,True,9,True,0.51
+2593,20,year,23.85,True,1,True,0.5
+2594,15,year,217.04,True,7,False,0.5
+2595,20,year,66.76,False,0,True,0.5
+2596,14,year,82.4,False,0,True,0.5
+2597,10,month,320.64,False,0,False,0.51
+2598,5,half year,58.63,False,6,False,0.52
+2599,6,month,203.95,False,1,True,0.51
+2600,21,month,49.25,True,0,True,0.51
+2601,22,half year,422.92,True,4,False,0.52
+2602,15,half year,103.09,False,7,True,0.52
+2603,9,year,211.35,False,6,True,0.5
+2604,14,month,314.31,False,7,True,0.51
+2605,5,month,86.53,False,4,False,0.51
+2606,14,half year,342.53,False,9,True,0.52
+2607,20,year,343.26,True,0,True,0.5
+2608,15,month,209.98,False,4,True,0.51
+2609,12,month,427.62,True,3,False,0.51
+2610,8,month,98.08,False,1,True,0.51
+2611,23,year,197.64,False,8,True,0.5
+2612,21,half year,177.03,True,5,False,0.52
+2613,22,year,315.28,True,5,True,0.5
+2614,20,half year,329.23,True,4,False,0.52
+2615,15,year,389.49,False,9,False,0.5
+2616,2,month,431.18,False,6,False,0.51
+2617,2,month,38.2,False,2,False,0.51
+2618,4,month,272.82,False,10,False,0.51
+2619,4,month,389.2,True,0,False,0.51
+2620,5,year,180.79,False,2,False,0.5
+2621,10,year,81.33,False,7,False,0.5
+2622,20,half year,459.53,False,0,False,0.52
+2623,14,year,50.11,False,3,True,0.5
+2624,16,month,492.18,False,0,False,0.51
+2625,5,half year,98.67,False,9,True,0.52
+2626,10,half year,133.88,True,7,False,0.52
+2627,18,month,189.6,False,2,False,0.51
+2628,7,month,11.43,True,8,True,0.51
+2629,20,half year,331.54,True,2,True,0.52
+2630,12,month,75.94,False,9,True,0.51
+2631,7,year,282.55,False,5,True,0.5
+2632,21,half year,80.58,True,0,False,0.52
+2633,16,year,140.96,False,6,True,0.5
+2634,12,half year,75.33,False,0,False,0.52
+2635,3,half year,321.66,True,8,False,0.52
+2636,9,half year,444.65,False,3,False,0.52
+2637,7,month,43.17,False,2,False,0.51
+2638,19,year,230.26,False,0,False,0.5
+2639,13,year,331.79,True,1,True,0.5
+2640,9,year,157.13,False,2,True,0.5
+2641,21,year,231.17,False,2,False,0.5
+2642,6,half year,466.03,True,7,True,0.52
+2643,17,half year,309.41,False,2,False,0.52
+2644,17,month,380.48,False,5,True,0.51
+2645,13,half year,360.79,True,1,False,0.52
+2646,17,year,206.06,True,3,True,0.5
+2647,7,half year,269.85,True,5,True,0.52
+2648,18,year,425.69,True,0,True,0.5
+2649,6,year,166.68,False,0,False,0.5
+2650,13,year,118.41,True,5,False,0.5
+2651,10,month,33.36,False,5,False,0.51
+2652,19,month,29.8,False,7,True,0.51
+2653,21,month,206.34,False,3,False,0.51
+2654,12,year,218.75,False,4,True,0.5
+2655,12,year,317.91,True,9,True,0.5
+2656,22,year,235.54,True,2,True,0.5
+2657,9,year,136.47,False,1,True,0.5
+2658,19,month,157.67,False,1,True,0.51
+2659,4,year,387.3,True,0,False,0.5
+2660,3,month,286.83,False,6,False,0.51
+2661,1,half year,227.65,True,0,False,0.52
+2662,7,month,302.28,False,10,False,0.51
+2663,12,half year,371.59,False,6,False,0.52
+2664,11,half year,248.17,False,8,False,0.52
+2665,21,year,70.88,True,8,True,0.5
+2666,10,half year,228.05,False,1,False,0.52
+2667,12,year,336.15,False,9,True,0.5
+2668,9,month,421.43,False,2,True,0.51
+2669,21,year,432.54,False,0,False,0.5
+2670,5,half year,250.93,False,1,True,0.52
+2671,23,half year,386.04,False,1,True,0.52
+2672,3,month,260.19,False,1,False,0.51
+2673,14,year,138.15,False,8,False,0.5
+2674,22,year,397.69,True,1,False,0.5
+2675,12,year,124.14,True,3,False,0.5
+2676,10,half year,272.85,True,2,False,0.52
+2677,2,month,147.63,False,3,True,0.51
+2678,21,month,111.43,False,4,False,0.51
+2679,6,month,107.38,False,2,True,0.51
+2680,6,year,311.97,False,10,True,0.5
+2681,19,month,168.06,True,9,False,0.51
+2682,19,year,461.23,False,3,False,0.5
+2683,18,year,315.72,False,0,True,0.5
+2684,13,half year,379.48,False,6,True,0.52
+2685,6,month,196.19,False,7,False,0.51
+2686,21,year,302.62,False,6,False,0.5
+2687,21,month,128.63,False,9,True,0.51
+2688,6,month,360.0,False,4,False,0.51
+2689,6,year,330.78,False,5,True,0.5
+2690,5,year,51.45,True,5,False,0.5
+2691,23,month,268.27,True,8,True,0.51
+2692,20,month,352.6,False,8,False,0.51
+2693,15,year,457.39,False,5,True,0.5
+2694,6,month,397.42,False,5,False,0.51
+2695,5,year,132.47,False,9,False,0.5
+2696,19,month,302.94,True,1,False,0.51
+2697,17,year,65.47,False,5,True,0.5
+2698,23,year,416.51,False,10,True,0.5
+2699,11,month,186.78,False,1,False,0.51
+2700,1,half year,313.24,False,4,False,0.52
+2701,16,month,105.38,False,5,False,0.51
+2702,16,month,440.62,False,6,False,0.51
+2703,18,year,306.05,True,10,False,0.5
+2704,22,half year,155.24,False,4,False,0.52
+2705,6,half year,327.15,False,4,True,0.52
+2706,3,month,339.99,False,1,True,0.51
+2707,10,year,77.37,False,9,False,0.5
+2708,19,month,78.79,False,3,False,0.51
+2709,20,year,386.48,False,5,False,0.5
+2710,14,year,113.35,True,8,True,0.5
+2711,14,year,437.47,False,7,True,0.5
+2712,14,month,372.73,False,4,False,0.51
+2713,23,month,203.14,True,2,True,0.51
+2714,2,year,492.5,False,9,True,0.5
+2715,3,half year,202.61,False,0,False,0.52
+2716,4,year,272.6,True,6,True,0.5
+2717,13,month,15.1,False,4,True,0.51
+2718,1,month,59.04,False,2,False,0.51
+2719,13,year,132.09,True,6,True,0.5
+2720,10,half year,78.96,False,9,True,0.52
+2721,12,year,466.38,False,1,False,0.5
+2722,8,half year,318.04,True,0,False,0.52
+2723,10,year,129.27,False,9,False,0.5
+2724,15,half year,122.08,True,9,True,0.52
+2725,23,half year,169.56,True,3,True,0.52
+2726,13,month,471.06,False,0,False,0.51
+2727,16,half year,280.29,False,0,True,0.52
+2728,12,year,61.98,False,4,True,0.5
+2729,12,month,280.13,False,10,False,0.51
+2730,16,month,246.89,False,9,False,0.51
+2731,16,year,46.47,False,0,False,0.5
+2732,1,year,244.25,True,8,False,0.5
+2733,9,half year,420.77,True,0,True,0.52
+2734,20,month,17.65,False,9,True,0.51
+2735,6,year,256.68,False,4,True,0.5
+2736,10,year,152.8,False,1,False,0.5
+2737,13,half year,121.65,False,2,False,0.52
+2738,17,month,250.63,True,2,True,0.51
+2739,5,half year,151.14,True,4,False,0.52
+2740,3,half year,255.27,False,7,False,0.52
+2741,11,month,144.32,True,8,False,0.51
+2742,1,half year,112.81,True,0,True,0.52
+2743,17,month,306.28,True,9,True,0.51
+2744,21,half year,257.64,True,0,False,0.52
+2745,3,month,282.84,True,3,False,0.51
+2746,23,year,396.87,False,1,False,0.5
+2747,9,year,393.06,True,4,True,0.5
+2748,2,year,459.68,False,6,True,0.5
+2749,7,month,31.54,True,8,False,0.51
+2750,23,half year,289.1,False,0,False,0.52
+2751,14,year,81.84,False,3,False,0.5
+2752,12,half year,472.21,False,1,False,0.52
+2753,16,half year,125.36,True,3,True,0.52
+2754,20,month,29.81,False,10,True,0.51
+2755,15,year,128.15,False,2,True,0.5
+2756,21,year,309.31,False,7,True,0.5
+2757,12,year,305.64,False,8,False,0.5
+2758,22,half year,204.19,True,3,True,0.52
+2759,20,half year,302.25,False,0,True,0.52
+2760,7,month,479.83,False,4,False,0.51
+2761,7,year,310.73,True,2,False,0.5
+2762,17,year,153.36,False,6,False,0.5
+2763,11,year,385.75,False,9,False,0.5
+2764,11,month,105.05,False,0,False,0.51
+2765,8,year,456.72,False,4,True,0.5
+2766,16,year,359.45,False,8,False,0.5
+2767,9,year,497.96,True,10,True,0.5
+2768,19,year,257.58,True,3,False,0.5
+2769,22,half year,353.75,False,9,False,0.52
+2770,8,year,180.12,False,1,False,0.5
+2771,9,half year,82.16,False,2,False,0.52
+2772,5,year,352.19,False,0,True,0.5
+2773,20,half year,348.9,False,2,False,0.52
+2774,23,month,51.88,False,7,True,0.51
+2775,7,year,100.78,True,9,True,0.5
+2776,6,half year,490.93,True,4,True,0.52
+2777,1,half year,374.43,False,8,False,0.52
+2778,7,half year,242.85,False,5,False,0.52
+2779,2,month,476.81,False,3,True,0.51
+2780,3,month,296.5,False,8,True,0.51
+2781,23,month,57.49,True,1,False,0.51
+2782,3,half year,304.8,False,0,True,0.52
+2783,23,month,481.75,False,0,False,0.51
+2784,12,month,180.07,False,5,False,0.51
+2785,2,month,363.31,False,2,False,0.51
+2786,11,year,127.7,False,6,False,0.5
+2787,17,month,139.2,False,0,True,0.51
+2788,23,year,200.47,False,9,False,0.5
+2789,11,month,108.71,False,3,True,0.51
+2790,22,year,352.05,True,1,True,0.5
+2791,21,year,280.58,False,10,False,0.5
+2792,6,month,179.23,False,1,True,0.51
+2793,6,month,88.23,False,0,False,0.51
+2794,17,year,367.65,False,7,False,0.5
+2795,15,month,270.58,False,7,True,0.51
+2796,12,year,251.13,False,8,False,0.5
+2797,1,month,369.44,False,4,False,0.51
+2798,12,year,490.21,True,6,True,0.5
+2799,19,half year,391.22,True,0,True,0.52
+2800,1,half year,400.96,False,0,True,0.52
+2801,2,year,285.94,False,3,True,0.5
+2802,11,half year,296.94,True,5,True,0.52
+2803,6,half year,239.19,True,2,True,0.52
+2804,5,year,224.92,False,6,True,0.5
+2805,12,year,234.28,True,2,False,0.5
+2806,10,month,113.2,False,6,True,0.51
+2807,12,half year,423.27,False,0,False,0.52
+2808,2,year,27.92,False,0,False,0.5
+2809,12,year,259.53,True,7,True,0.5
+2810,9,month,52.91,False,9,True,0.51
+2811,16,half year,12.0,False,8,True,0.52
+2812,3,year,360.17,True,2,False,0.5
+2813,11,year,92.78,False,9,True,0.5
+2814,23,year,315.46,True,5,True,0.5
+2815,6,year,188.79,False,6,False,0.5
+2816,18,month,125.03,True,1,False,0.51
+2817,7,month,157.41,False,3,False,0.51
+2818,17,month,435.4,True,4,True,0.51
+2819,15,half year,276.04,True,1,True,0.52
+2820,18,half year,448.09,False,9,True,0.52
+2821,22,year,223.92,False,2,True,0.5
+2822,12,month,106.18,False,7,False,0.51
+2823,22,year,304.81,False,3,False,0.5
+2824,8,half year,141.54,False,9,True,0.52
+2825,4,half year,352.75,True,0,True,0.52
+2826,1,half year,326.11,True,7,False,0.52
+2827,13,year,452.26,False,9,True,0.5
+2828,13,year,428.38,False,5,True,0.5
+2829,7,year,79.57,True,8,False,0.5
+2830,11,year,135.94,True,1,True,0.5
+2831,11,half year,219.42,True,3,True,0.52
+2832,9,year,373.82,False,6,True,0.5
+2833,9,half year,11.97,False,1,True,0.52
+2834,10,half year,256.87,False,9,False,0.52
+2835,10,half year,306.82,False,8,False,0.52
+2836,12,half year,282.41,False,10,True,0.52
+2837,23,half year,430.13,False,3,False,0.52
+2838,1,month,12.52,False,10,False,0.51
+2839,10,year,152.91,False,9,True,0.5
+2840,9,year,308.7,False,1,True,0.5
+2841,5,year,450.72,False,9,False,0.5
+2842,11,month,195.77,False,9,False,0.51
+2843,12,half year,252.94,False,4,False,0.52
+2844,8,year,162.11,False,5,True,0.5
+2845,13,month,43.75,False,5,True,0.51
+2846,14,year,179.17,False,10,False,0.5
+2847,12,year,125.2,True,4,True,0.5
+2848,16,half year,134.43,True,4,False,0.52
+2849,7,month,138.4,False,3,True,0.51
+2850,17,half year,56.26,False,6,False,0.52
+2851,7,year,473.39,True,6,True,0.5
+2852,3,month,161.94,False,7,True,0.51
+2853,15,month,304.46,False,4,False,0.51
+2854,21,year,296.77,True,6,True,0.5
+2855,11,month,187.53,False,7,True,0.51
+2856,6,month,343.2,True,2,True,0.51
+2857,22,year,256.51,False,8,True,0.5
+2858,5,year,407.81,True,8,False,0.5
+2859,14,month,188.26,False,0,False,0.51
+2860,21,year,173.1,False,4,True,0.5
+2861,18,year,264.48,True,10,True,0.5
+2862,15,year,159.49,True,1,True,0.5
+2863,17,year,12.12,False,3,True,0.5
+2864,23,month,416.33,False,9,False,0.51
+2865,15,year,375.53,False,8,False,0.5
+2866,5,year,38.29,False,2,True,0.5
+2867,15,year,134.37,False,9,True,0.5
+2868,16,month,76.93,False,7,True,0.51
+2869,20,month,389.13,True,8,True,0.51
+2870,11,year,302.3,False,6,False,0.5
+2871,21,year,82.92,True,4,False,0.5
+2872,9,year,459.81,False,0,True,0.5
+2873,15,year,139.26,True,8,False,0.5
+2874,12,month,449.45,False,10,True,0.51
+2875,15,month,259.7,False,8,False,0.51
+2876,12,half year,188.81,False,4,True,0.52
+2877,1,year,141.41,False,8,False,0.5
+2878,20,half year,458.33,True,0,True,0.52
+2879,22,half year,116.87,True,4,False,0.52
+2880,10,half year,252.11,False,7,True,0.52
+2881,18,half year,320.28,False,7,False,0.52
+2882,15,month,43.17,False,0,True,0.51
+2883,4,half year,163.92,False,8,True,0.52
+2884,10,month,11.12,True,2,True,0.51
+2885,15,month,397.98,False,9,False,0.51
+2886,21,month,178.72,False,7,True,0.51
+2887,11,half year,109.31,True,10,False,0.52
+2888,7,month,231.93,True,4,True,0.51
+2889,22,year,100.31,False,10,False,0.5
+2890,7,month,473.84,False,3,True,0.51
+2891,8,month,497.91,False,2,True,0.51
+2892,6,year,311.06,True,8,False,0.5
+2893,13,year,410.25,False,0,False,0.5
+2894,1,year,297.98,False,9,True,0.5
+2895,12,month,329.41,True,4,False,0.51
+2896,22,month,395.7,False,10,True,0.51
+2897,19,month,224.57,True,1,True,0.51
+2898,10,year,42.15,False,8,False,0.5
+2899,5,year,18.74,False,3,False,0.5
+2900,3,month,362.25,True,6,False,0.51
+2901,1,half year,31.93,True,3,False,0.52
+2902,15,year,346.18,True,1,False,0.5
+2903,7,half year,189.8,False,0,False,0.52
+2904,18,half year,149.52,True,7,True,0.52
+2905,1,year,211.03,True,2,True,0.5
+2906,9,month,97.56,True,0,True,0.51
+2907,21,year,492.34,False,0,True,0.5
+2908,11,month,499.81,False,1,False,0.51
+2909,11,month,13.09,False,4,True,0.51
+2910,12,year,356.65,True,2,False,0.5
+2911,15,year,117.7,False,3,False,0.5
+2912,18,half year,160.76,False,9,False,0.52
+2913,22,month,484.54,False,7,False,0.51
+2914,21,half year,356.28,False,0,False,0.52
+2915,16,year,160.14,False,9,False,0.5
+2916,9,half year,125.49,False,4,False,0.52
+2917,12,half year,346.8,False,1,True,0.52
+2918,7,month,190.26,False,9,False,0.51
+2919,23,month,115.98,True,2,False,0.51
+2920,3,year,19.89,True,0,False,0.5
+2921,16,year,235.98,True,3,False,0.5
+2922,12,month,151.03,False,4,True,0.51
+2923,7,year,308.83,False,3,False,0.5
+2924,9,half year,98.59,True,3,False,0.52
+2925,16,half year,384.44,False,1,False,0.52
+2926,17,year,258.4,True,10,True,0.5
+2927,7,half year,171.06,True,2,True,0.52
+2928,22,year,230.9,False,3,True,0.5
+2929,14,year,132.34,False,6,True,0.5
+2930,2,half year,375.53,True,4,True,0.52
+2931,8,half year,367.24,False,2,True,0.52
+2932,2,month,116.31,False,6,True,0.51
+2933,20,year,83.88,False,1,False,0.5
+2934,2,half year,32.68,False,7,False,0.52
+2935,17,half year,183.09,False,5,False,0.52
+2936,4,month,246.18,False,9,False,0.51
+2937,15,half year,186.45,True,2,True,0.52
+2938,6,month,310.76,False,1,True,0.51
+2939,4,month,499.2,False,8,False,0.51
+2940,7,month,73.0,False,3,False,0.51
+2941,7,month,107.33,False,6,False,0.51
+2942,21,month,212.72,False,2,True,0.51
+2943,3,half year,241.99,False,1,True,0.52
+2944,3,half year,333.55,False,6,False,0.52
+2945,22,month,458.6,False,0,False,0.51
+2946,4,half year,142.64,False,9,True,0.52
+2947,13,month,375.94,False,1,True,0.51
+2948,16,year,274.58,False,7,True,0.5
+2949,22,year,333.8,False,8,False,0.5
+2950,17,month,373.47,False,5,True,0.51
+2951,11,year,15.52,False,8,False,0.5
+2952,12,year,23.84,False,3,False,0.5
+2953,14,year,197.74,False,2,True,0.5
+2954,6,month,162.21,False,6,True,0.51
+2955,5,year,204.68,False,0,True,0.5
+2956,1,year,481.7,True,5,True,0.5
+2957,9,half year,61.05,False,1,False,0.52
+2958,6,year,196.48,False,1,False,0.5
+2959,6,year,429.97,False,1,False,0.5
+2960,12,year,337.89,False,6,False,0.5
+2961,7,month,171.72,False,2,True,0.51
+2962,2,half year,411.51,True,5,False,0.52
+2963,17,month,277.24,False,5,True,0.51
+2964,20,half year,422.19,False,7,True,0.52
+2965,6,month,240.15,True,7,True,0.51
+2966,22,year,253.12,False,3,False,0.5
+2967,12,year,268.41,False,3,True,0.5
+2968,18,year,133.83,True,6,False,0.5
+2969,21,half year,369.74,True,4,False,0.52
+2970,23,year,49.75,True,4,True,0.5
+2971,18,month,440.2,False,4,True,0.51
+2972,6,year,261.43,True,7,False,0.5
+2973,18,half year,367.98,True,0,True,0.52
+2974,4,half year,289.48,True,10,False,0.52
+2975,3,year,402.28,False,0,False,0.5
+2976,9,half year,334.26,True,5,False,0.52
+2977,13,month,229.49,False,7,False,0.51
+2978,21,month,200.55,True,8,True,0.51
+2979,4,month,400.04,True,0,True,0.51
+2980,17,month,73.81,True,0,True,0.51
+2981,11,half year,485.64,False,1,True,0.52
+2982,20,year,436.45,False,2,True,0.5
+2983,20,year,249.58,False,7,True,0.5
+2984,1,year,324.59,False,2,True,0.5
+2985,20,year,413.56,True,7,False,0.5
+2986,22,year,428.74,False,5,True,0.5
+2987,8,half year,358.16,False,3,True,0.52
+2988,19,half year,323.37,False,5,False,0.52
+2989,12,half year,491.18,False,8,False,0.52
+2990,15,year,175.92,False,2,False,0.5
+2991,12,year,298.45,True,1,True,0.5
+2992,5,month,31.25,False,4,True,0.51
+2993,17,year,236.06,False,5,True,0.5
+2994,6,half year,237.77,True,6,False,0.52
+2995,23,half year,316.44,False,6,True,0.52
+2996,10,year,297.75,False,2,True,0.5
+2997,5,half year,45.1,False,3,True,0.52
+2998,23,year,420.62,False,5,False,0.5
+2999,20,month,269.02,False,1,False,0.51
+3000,19,month,46.98,False,7,True,0.51
+3001,10,month,414.53,False,9,False,0.51
+3002,5,month,304.09,False,5,False,0.51
+3003,10,year,423.96,False,8,False,0.5
+3004,1,year,449.39,False,4,False,0.5
+3005,13,half year,422.69,False,4,False,0.52
+3006,4,month,495.47,False,7,True,0.51
+3007,12,month,255.6,False,6,True,0.51
+3008,16,half year,19.21,False,6,False,0.52
+3009,7,month,496.88,False,5,False,0.51
+3010,6,half year,380.5,False,6,True,0.52
+3011,14,half year,178.61,True,6,False,0.52
+3012,7,year,31.52,True,6,False,0.5
+3013,1,year,297.46,False,2,True,0.5
+3014,5,half year,346.78,False,0,True,0.52
+3015,19,year,329.52,False,0,False,0.5
+3016,23,month,88.91,False,5,False,0.51
+3017,1,year,13.38,False,7,True,0.5
+3018,9,year,48.56,False,7,True,0.5
+3019,10,half year,279.8,True,3,False,0.52
+3020,3,month,457.78,True,1,True,0.51
+3021,3,month,164.96,False,9,True,0.51
+3022,9,month,87.5,False,8,True,0.51
+3023,17,month,241.53,False,0,True,0.51
+3024,18,half year,78.05,False,9,False,0.52
+3025,10,month,188.04,False,8,True,0.51
+3026,11,half year,47.22,False,3,True,0.52
+3027,17,half year,315.23,False,0,False,0.52
+3028,2,half year,136.38,False,4,True,0.52
+3029,11,year,28.65,True,9,True,0.5
+3030,18,month,381.34,True,5,False,0.51
+3031,22,year,64.29,False,5,True,0.5
+3032,3,year,408.98,True,6,True,0.5
+3033,2,year,325.17,False,9,True,0.5
+3034,23,year,412.72,False,1,False,0.5
+3035,12,year,382.74,False,0,True,0.5
+3036,16,year,285.18,False,0,False,0.5
+3037,12,year,188.59,False,4,False,0.5
+3038,7,year,101.66,True,5,True,0.5
+3039,6,half year,266.82,False,4,False,0.52
+3040,16,month,200.98,False,7,False,0.51
+3041,20,year,253.67,True,2,True,0.5
+3042,13,year,408.43,True,0,True,0.5
+3043,14,half year,72.89,False,0,False,0.52
+3044,16,month,207.76,False,1,True,0.51
+3045,6,half year,418.17,True,1,False,0.52
+3046,18,half year,345.26,True,3,False,0.52
+3047,13,half year,139.99,False,6,True,0.52
+3048,7,month,80.06,True,2,False,0.51
+3049,20,half year,13.94,True,1,True,0.52
+3050,16,year,385.79,False,6,False,0.5
+3051,23,half year,474.24,False,2,True,0.52
+3052,16,year,477.01,False,3,True,0.5
+3053,22,half year,29.17,True,1,False,0.52
+3054,2,month,482.61,False,4,False,0.51
+3055,13,half year,370.02,False,10,False,0.52
+3056,20,year,157.65,False,10,True,0.5
+3057,21,year,413.51,False,9,True,0.5
+3058,13,half year,387.47,False,6,False,0.52
+3059,9,half year,275.44,False,10,False,0.52
+3060,8,year,94.83,False,9,True,0.5
+3061,17,year,446.83,False,10,True,0.5
+3062,17,year,270.66,False,9,False,0.5
+3063,20,month,93.71,False,1,True,0.51
+3064,12,year,235.35,True,9,False,0.5
+3065,15,year,324.61,False,2,True,0.5
+3066,8,half year,198.05,False,8,False,0.52
+3067,12,half year,411.57,False,0,True,0.52
+3068,12,month,386.53,False,7,False,0.51
+3069,20,year,467.42,False,2,True,0.5
+3070,8,year,29.57,False,2,False,0.5
+3071,11,month,414.47,False,5,False,0.51
+3072,12,half year,237.95,False,9,False,0.52
+3073,1,half year,207.99,False,5,True,0.52
+3074,5,half year,245.24,True,0,True,0.52
+3075,18,month,490.84,True,9,True,0.51
+3076,1,year,436.17,False,1,False,0.5
+3077,11,month,117.62,False,9,False,0.51
+3078,8,month,27.75,False,9,True,0.51
+3079,6,year,30.03,False,8,False,0.5
+3080,14,month,224.35,False,0,True,0.51
+3081,4,year,314.92,True,6,True,0.5
+3082,5,year,397.17,False,1,True,0.5
+3083,1,month,114.82,False,9,True,0.51
+3084,18,year,360.62,False,6,True,0.5
+3085,19,year,145.38,False,0,False,0.5
+3086,4,year,46.03,False,3,True,0.5
+3087,17,month,109.36,True,7,False,0.51
+3088,3,year,74.4,True,2,True,0.5
+3089,23,half year,318.96,False,7,True,0.52
+3090,19,year,255.28,False,4,True,0.5
+3091,7,year,114.11,False,4,True,0.5
+3092,13,month,108.83,False,8,True,0.51
+3093,21,year,127.76,False,0,False,0.5
+3094,10,half year,335.76,False,8,True,0.52
+3095,3,year,469.81,False,3,False,0.5
+3096,3,half year,148.62,True,7,False,0.52
+3097,3,half year,99.76,True,3,True,0.52
+3098,20,month,471.4,True,6,True,0.51
+3099,14,half year,165.36,False,2,True,0.52
+3100,15,year,210.13,False,5,False,0.5
+3101,22,year,207.81,False,4,False,0.5
+3102,9,half year,439.3,False,6,True,0.52
+3103,1,half year,225.74,False,3,True,0.52
+3104,6,month,346.66,False,0,True,0.51
+3105,17,year,89.85,True,10,False,0.5
+3106,15,year,82.44,True,4,True,0.5
+3107,22,half year,218.16,True,1,True,0.52
+3108,23,year,62.85,False,0,False,0.5
+3109,13,half year,386.52,True,5,False,0.52
+3110,15,month,281.24,False,8,True,0.51
+3111,7,half year,297.37,False,0,True,0.52
+3112,2,year,181.12,True,4,False,0.5
+3113,7,month,262.57,False,10,False,0.51
+3114,12,half year,113.13,False,5,True,0.52
+3115,2,month,284.29,True,1,False,0.51
+3116,7,half year,365.92,True,3,False,0.52
+3117,12,month,88.28,False,5,False,0.51
+3118,19,half year,257.19,True,0,True,0.52
+3119,10,half year,67.99,False,1,True,0.52
+3120,16,month,223.24,False,5,False,0.51
+3121,14,half year,168.26,False,7,True,0.52
+3122,23,month,409.31,False,4,True,0.51
+3123,15,year,115.64,False,2,False,0.5
+3124,9,month,56.95,True,8,True,0.51
+3125,23,year,223.51,True,4,False,0.5
+3126,21,year,319.3,False,8,False,0.5
+3127,4,year,270.82,False,2,True,0.5
+3128,3,year,59.39,True,2,False,0.5
+3129,6,month,73.03,True,10,True,0.51
+3130,6,month,370.95,False,4,False,0.51
+3131,22,month,373.72,False,0,False,0.51
+3132,20,half year,494.73,False,6,False,0.52
+3133,20,year,206.11,False,10,False,0.5
+3134,12,half year,38.19,False,6,True,0.52
+3135,20,half year,453.73,False,1,True,0.52
+3136,12,half year,219.83,False,7,False,0.52
+3137,9,month,239.41,False,9,True,0.51
+3138,8,year,312.67,False,8,False,0.5
+3139,23,year,182.48,False,2,True,0.5
+3140,20,month,270.31,False,1,False,0.51
+3141,19,year,299.65,True,3,False,0.5
+3142,15,month,22.16,False,9,True,0.51
+3143,23,half year,251.66,True,8,False,0.52
+3144,17,month,305.53,False,1,True,0.51
+3145,12,month,85.86,False,0,False,0.51
+3146,20,half year,107.59,False,4,False,0.52
+3147,7,half year,428.64,False,5,True,0.52
+3148,16,year,61.93,True,9,True,0.5
+3149,21,year,42.03,False,4,False,0.5
+3150,16,year,483.68,False,9,False,0.5
+3151,11,half year,180.8,True,7,False,0.52
+3152,10,year,69.95,False,6,True,0.5
+3153,19,year,324.41,False,4,False,0.5
+3154,11,half year,26.51,False,9,False,0.52
+3155,12,year,388.85,True,1,False,0.5
+3156,2,year,119.11,False,8,False,0.5
+3157,3,half year,204.13,False,0,False,0.52
+3158,3,half year,198.14,False,8,False,0.52
+3159,13,year,436.11,True,2,True,0.5
+3160,2,month,438.07,True,2,False,0.51
+3161,18,month,289.37,True,4,True,0.51
+3162,19,month,463.09,True,2,True,0.51
+3163,5,year,302.53,True,5,True,0.5
+3164,6,month,30.25,False,5,False,0.51
+3165,7,half year,225.02,True,2,True,0.52
+3166,16,year,83.25,True,6,True,0.5
+3167,8,half year,79.57,False,6,False,0.52
+3168,14,month,418.62,True,10,False,0.51
+3169,20,half year,34.26,False,0,True,0.52
+3170,10,year,401.43,False,0,True,0.5
+3171,6,year,398.02,True,1,True,0.5
+3172,2,year,427.09,False,10,False,0.5
+3173,19,half year,16.34,True,3,False,0.52
+3174,13,half year,43.76,False,10,True,0.52
+3175,23,half year,166.31,True,3,False,0.52
+3176,18,month,20.57,False,9,False,0.51
+3177,15,month,458.27,False,1,False,0.51
+3178,3,month,432.88,False,9,True,0.51
+3179,6,month,157.25,True,0,True,0.51
+3180,21,year,130.71,False,7,True,0.5
+3181,12,year,40.14,True,6,True,0.5
+3182,12,half year,210.56,True,2,True,0.52
+3183,10,half year,403.21,False,3,True,0.52
+3184,15,year,451.79,False,4,False,0.5
+3185,15,year,256.33,False,6,False,0.5
+3186,17,half year,323.53,True,0,True,0.52
+3187,18,half year,120.72,False,3,False,0.52
+3188,6,month,82.59,True,3,False,0.51
+3189,18,month,23.34,True,1,False,0.51
+3190,23,month,141.75,False,0,False,0.51
+3191,4,year,162.89,False,7,False,0.5
+3192,9,month,352.65,False,3,False,0.51
+3193,3,month,420.95,False,1,False,0.51
+3194,17,half year,298.05,False,10,True,0.52
+3195,23,year,247.35,True,3,False,0.5
+3196,10,month,126.78,False,2,False,0.51
+3197,18,month,179.65,False,0,False,0.51
+3198,16,month,347.92,True,7,True,0.51
+3199,18,half year,369.34,False,2,True,0.52
+3200,16,year,385.99,False,4,True,0.5
+3201,13,year,97.46,False,3,False,0.5
+3202,21,month,444.12,False,2,False,0.51
+3203,10,year,119.88,True,8,True,0.5
+3204,4,half year,98.12,False,2,True,0.52
+3205,15,year,139.62,False,5,False,0.5
+3206,17,half year,360.58,False,1,True,0.52
+3207,11,half year,20.7,False,1,True,0.52
+3208,17,half year,489.02,False,2,False,0.52
+3209,22,year,396.63,False,7,False,0.5
+3210,21,month,487.21,False,8,False,0.51
+3211,15,month,397.15,True,2,True,0.51
+3212,6,half year,123.5,True,9,True,0.52
+3213,15,half year,83.56,False,6,True,0.52
+3214,16,month,111.92,False,10,True,0.51
+3215,11,month,64.99,True,2,False,0.51
+3216,17,month,378.14,False,3,True,0.51
+3217,3,month,68.62,True,0,True,0.51
+3218,13,year,79.27,False,0,False,0.5
+3219,12,month,232.67,False,9,False,0.51
+3220,21,month,237.32,False,2,True,0.51
+3221,12,month,462.94,False,10,True,0.51
+3222,18,month,252.35,False,0,False,0.51
+3223,7,month,219.16,True,5,False,0.51
+3224,3,half year,125.18,False,9,True,0.52
+3225,5,month,132.14,False,10,False,0.51
+3226,23,month,82.32,True,2,False,0.51
+3227,4,year,198.98,False,8,True,0.5
+3228,20,half year,344.0,False,7,True,0.52
+3229,4,half year,359.1,True,5,False,0.52
+3230,12,year,331.95,False,0,False,0.5
+3231,11,month,328.14,True,3,True,0.51
+3232,19,year,307.24,False,5,False,0.5
+3233,17,half year,353.38,True,3,False,0.52
+3234,19,year,172.61,False,9,True,0.5
+3235,3,month,323.78,False,5,True,0.51
+3236,11,month,210.44,True,9,True,0.51
+3237,23,month,232.58,True,3,False,0.51
+3238,6,month,314.06,True,8,True,0.51
+3239,1,half year,460.04,False,7,False,0.52
+3240,10,half year,199.55,False,5,True,0.52
+3241,7,month,405.41,False,2,False,0.51
+3242,14,half year,93.47,False,0,True,0.52
+3243,9,half year,347.39,False,2,False,0.52
+3244,13,year,498.64,False,10,False,0.5
+3245,21,year,330.28,False,1,True,0.5
+3246,5,year,227.25,True,5,True,0.5
+3247,10,year,185.21,True,0,False,0.5
+3248,11,year,152.6,False,4,False,0.5
+3249,6,half year,419.14,False,8,True,0.52
+3250,6,month,235.16,False,6,True,0.51
+3251,13,year,138.29,False,5,False,0.5
+3252,21,half year,400.71,True,0,False,0.52
+3253,18,half year,152.05,False,8,True,0.52
+3254,23,year,45.95,False,0,True,0.5
+3255,2,year,230.72,False,4,True,0.5
+3256,1,half year,439.52,True,7,True,0.52
+3257,1,year,29.14,True,6,True,0.5
+3258,6,year,92.16,False,7,True,0.5
+3259,16,year,256.78,False,2,True,0.5
+3260,14,year,317.96,True,9,True,0.5
+3261,20,half year,100.55,False,5,True,0.52
+3262,15,year,326.57,False,5,True,0.5
+3263,3,year,47.02,False,3,False,0.5
+3264,23,year,445.28,True,4,False,0.5
+3265,4,month,419.71,False,3,True,0.51
+3266,23,year,111.49,True,5,True,0.5
+3267,19,year,304.74,False,1,False,0.5
+3268,9,year,388.03,True,0,False,0.5
+3269,16,year,80.48,False,10,False,0.5
+3270,19,year,34.96,True,3,True,0.5
+3271,3,half year,122.09,True,8,True,0.52
+3272,16,month,470.52,False,5,True,0.51
+3273,23,half year,256.95,False,7,True,0.52
+3274,12,half year,282.93,False,7,False,0.52
+3275,1,month,365.17,False,0,True,0.51
+3276,16,half year,105.62,True,1,True,0.52
+3277,19,month,254.44,True,3,False,0.51
+3278,21,year,229.12,False,1,True,0.5
+3279,7,half year,220.96,True,7,False,0.52
+3280,23,year,478.43,False,3,True,0.5
+3281,6,year,454.22,True,0,True,0.5
+3282,22,month,420.62,True,4,True,0.51
+3283,11,half year,127.58,False,7,False,0.52
+3284,21,month,469.33,False,1,False,0.51
+3285,11,half year,303.13,False,1,False,0.52
+3286,14,year,88.64,True,9,False,0.5
+3287,22,year,86.53,True,0,False,0.5
+3288,22,month,113.31,False,2,True,0.51
+3289,12,half year,133.51,False,0,False,0.52
+3290,10,month,468.28,False,8,True,0.51
+3291,20,month,361.87,False,10,True,0.51
+3292,23,half year,470.49,False,9,True,0.52
+3293,3,month,212.4,False,6,False,0.51
+3294,22,month,187.02,True,5,False,0.51
+3295,21,half year,421.04,False,1,True,0.52
+3296,7,year,236.42,False,7,True,0.5
+3297,9,year,40.71,True,0,True,0.5
+3298,9,year,68.85,False,2,False,0.5
+3299,2,half year,344.12,False,1,False,0.52
+3300,2,year,431.13,False,4,False,0.5
+3301,2,year,187.01,False,4,True,0.5
+3302,10,month,207.38,False,0,False,0.51
+3303,12,year,110.85,True,3,True,0.5
+3304,16,year,495.41,True,7,False,0.5
+3305,11,year,67.8,False,9,False,0.5
+3306,13,half year,315.95,False,8,True,0.52
+3307,9,half year,282.18,True,2,True,0.52
+3308,6,half year,43.1,False,4,False,0.52
+3309,14,year,346.7,False,8,False,0.5
+3310,14,year,346.45,True,9,False,0.5
+3311,19,year,445.67,False,8,True,0.5
+3312,23,month,469.67,False,3,False,0.51
+3313,22,half year,481.25,False,3,True,0.52
+3314,13,year,154.5,False,2,False,0.5
+3315,12,month,65.37,False,2,False,0.51
+3316,23,month,48.21,True,5,False,0.51
+3317,15,year,150.87,False,3,False,0.5
+3318,6,month,252.42,True,9,True,0.51
+3319,19,month,288.6,False,5,False,0.51
+3320,13,year,134.54,True,8,True,0.5
+3321,18,half year,409.8,True,1,True,0.52
+3322,1,half year,139.86,True,0,False,0.52
+3323,4,month,331.51,False,7,False,0.51
+3324,1,year,209.66,True,8,True,0.5
+3325,22,year,298.54,False,5,False,0.5
+3326,2,half year,15.84,False,4,True,0.52
+3327,1,year,13.06,True,5,True,0.5
+3328,3,month,256.73,False,2,False,0.51
+3329,7,year,254.11,False,8,True,0.5
+3330,19,year,100.14,False,8,False,0.5
+3331,18,year,442.69,False,3,False,0.5
+3332,2,year,204.84,False,9,False,0.5
+3333,2,half year,118.59,False,2,False,0.52
+3334,21,half year,155.0,False,7,False,0.52
+3335,17,year,52.55,False,9,False,0.5
+3336,7,month,435.04,False,9,False,0.51
+3337,10,year,231.24,True,8,False,0.5
+3338,20,year,196.82,False,2,True,0.5
+3339,18,year,242.37,False,6,False,0.5
+3340,1,half year,158.9,False,0,False,0.52
+3341,7,year,276.92,False,4,False,0.5
+3342,5,year,103.32,False,2,False,0.5
+3343,9,month,151.71,True,1,False,0.51
+3344,5,month,22.71,False,3,False,0.51
+3345,16,year,70.16,True,4,True,0.5
+3346,15,half year,54.51,False,10,False,0.52
+3347,5,half year,479.0,False,10,False,0.52
+3348,19,half year,402.78,False,3,True,0.52
+3349,12,half year,468.89,True,8,False,0.52
+3350,7,month,441.62,False,4,True,0.51
+3351,12,month,424.69,False,8,True,0.51
+3352,12,month,401.2,False,4,True,0.51
+3353,21,year,275.29,True,0,False,0.5
+3354,1,year,377.07,False,8,False,0.5
+3355,3,half year,346.9,False,3,True,0.52
+3356,7,year,309.46,False,1,True,0.5
+3357,6,month,432.44,False,8,True,0.51
+3358,3,year,489.51,False,2,False,0.5
+3359,19,year,469.69,False,3,True,0.5
+3360,19,year,117.04,False,3,False,0.5
+3361,5,year,207.55,True,9,False,0.5
+3362,4,half year,64.36,False,2,False,0.52
+3363,5,year,80.94,False,9,True,0.5
+3364,6,month,249.85,True,9,False,0.51
+3365,8,month,274.36,True,0,False,0.51
+3366,18,year,258.68,False,3,True,0.5
+3367,9,month,448.31,False,4,True,0.51
+3368,21,year,418.1,False,0,True,0.5
+3369,23,year,331.0,False,2,False,0.5
+3370,23,month,132.87,True,0,False,0.51
+3371,7,month,383.26,False,10,True,0.51
+3372,2,year,85.87,False,7,False,0.5
+3373,7,year,173.11,False,7,True,0.5
+3374,1,half year,288.47,False,2,False,0.52
+3375,14,half year,279.84,False,3,True,0.52
+3376,22,year,108.66,False,4,False,0.5
+3377,4,year,416.26,False,5,True,0.5
+3378,3,half year,29.87,True,5,True,0.52
+3379,18,half year,72.06,True,3,False,0.52
+3380,7,month,298.57,False,6,False,0.51
+3381,9,year,231.18,False,2,True,0.5
+3382,18,month,23.97,True,3,True,0.51
+3383,20,half year,498.7,False,10,False,0.52
+3384,7,year,497.84,False,7,True,0.5
+3385,22,month,190.08,False,0,False,0.51
+3386,22,year,16.33,False,1,False,0.5
+3387,3,half year,316.14,True,0,False,0.52
+3388,5,half year,68.99,False,4,True,0.52
+3389,11,year,479.84,False,2,True,0.5
+3390,3,month,221.03,True,9,False,0.51
+3391,10,month,400.83,False,5,True,0.51
+3392,5,half year,243.0,False,1,False,0.52
+3393,13,year,90.63,True,3,True,0.5
+3394,9,half year,250.19,False,10,False,0.52
+3395,21,month,435.78,False,6,True,0.51
+3396,19,half year,292.67,False,6,False,0.52
+3397,6,month,403.63,True,1,True,0.51
+3398,20,year,422.87,False,7,True,0.5
+3399,23,month,77.59,False,3,True,0.51
+3400,10,half year,357.6,False,7,False,0.52
+3401,12,year,81.69,False,4,False,0.5
+3402,3,half year,250.29,False,0,False,0.52
+3403,5,half year,271.22,True,2,False,0.52
+3404,7,month,249.93,False,0,False,0.51
+3405,22,year,158.68,True,0,False,0.5
+3406,2,half year,466.41,True,0,False,0.52
+3407,8,year,220.5,False,7,True,0.5
+3408,18,year,367.73,False,1,False,0.5
+3409,11,month,219.02,False,2,True,0.51
+3410,21,month,240.44,False,4,True,0.51
+3411,13,year,158.77,False,10,True,0.5
+3412,19,year,145.0,True,4,True,0.5
+3413,19,half year,99.27,False,0,False,0.52
+3414,12,half year,36.95,False,0,False,0.52
+3415,19,month,371.72,True,8,True,0.51
+3416,10,half year,135.71,False,0,True,0.52
+3417,7,half year,496.33,True,2,True,0.52
+3418,17,year,451.38,False,5,False,0.5
+3419,4,year,357.04,False,9,False,0.5
+3420,16,year,402.57,True,8,False,0.5
+3421,11,half year,422.56,True,6,True,0.52
+3422,2,month,213.64,False,0,True,0.51
+3423,14,half year,252.87,False,2,False,0.52
+3424,16,year,69.43,False,6,True,0.5
+3425,18,year,123.1,False,4,True,0.5
+3426,5,half year,166.95,False,2,False,0.52
+3427,14,half year,33.73,False,2,True,0.52
+3428,3,month,317.37,False,1,True,0.51
+3429,18,year,338.06,False,1,True,0.5
+3430,10,month,78.08,False,6,False,0.51
+3431,13,year,49.7,True,4,True,0.5
+3432,13,month,418.31,False,6,True,0.51
+3433,2,year,426.98,False,7,False,0.5
+3434,1,year,249.51,True,2,False,0.5
+3435,2,year,484.08,False,3,True,0.5
+3436,19,half year,218.51,False,9,False,0.52
+3437,4,year,39.38,False,3,False,0.5
+3438,21,year,234.16,False,1,False,0.5
+3439,12,year,373.82,True,2,False,0.5
+3440,4,month,412.02,False,10,False,0.51
+3441,17,half year,403.14,False,6,False,0.52
+3442,5,half year,29.77,True,6,False,0.52
+3443,5,half year,491.81,False,8,True,0.52
+3444,16,month,35.08,False,5,False,0.51
+3445,4,month,52.83,False,0,True,0.51
+3446,3,half year,66.97,True,0,False,0.52
+3447,8,year,470.18,False,8,False,0.5
+3448,12,year,248.29,False,3,False,0.5
+3449,9,half year,394.77,False,3,True,0.52
+3450,1,half year,78.51,False,0,False,0.52
+3451,12,year,185.91,False,5,False,0.5
+3452,6,month,300.3,True,3,False,0.51
+3453,1,year,400.39,False,6,False,0.5
+3454,2,month,477.57,True,4,True,0.51
+3455,5,half year,480.56,True,1,False,0.52
+3456,15,half year,298.08,False,0,True,0.52
+3457,8,half year,464.26,False,4,False,0.52
+3458,11,year,14.47,False,2,True,0.5
+3459,5,half year,458.66,False,1,False,0.52
+3460,16,month,131.99,False,7,False,0.51
+3461,22,half year,122.46,False,3,True,0.52
+3462,18,month,480.72,False,1,True,0.51
+3463,23,month,463.77,False,10,True,0.51
+3464,7,half year,339.1,False,7,True,0.52
+3465,10,half year,343.78,True,1,True,0.52
+3466,7,half year,22.61,False,1,True,0.52
+3467,6,year,475.84,True,5,False,0.5
+3468,19,month,240.83,False,0,False,0.51
+3469,12,month,22.23,True,2,False,0.51
+3470,1,half year,145.09,False,1,True,0.52
+3471,11,year,210.61,False,10,True,0.5
+3472,4,half year,36.65,False,1,False,0.52
+3473,14,year,129.61,False,0,True,0.5
+3474,5,year,199.54,False,4,True,0.5
+3475,4,year,178.83,False,2,True,0.5
+3476,18,half year,241.56,False,9,True,0.52
+3477,12,year,341.98,True,8,True,0.5
+3478,20,half year,399.42,False,2,False,0.52
+3479,4,year,279.21,True,0,True,0.5
+3480,13,year,98.03,False,9,True,0.5
+3481,18,year,304.0,False,5,False,0.5
+3482,21,year,364.15,True,4,False,0.5
+3483,12,half year,250.2,True,5,True,0.52
+3484,6,half year,484.34,False,0,True,0.52
+3485,22,half year,366.31,False,2,True,0.52
+3486,12,month,324.5,False,7,True,0.51
+3487,3,year,18.41,True,2,False,0.5
+3488,21,month,112.25,False,4,True,0.51
+3489,4,year,344.2,False,1,True,0.5
+3490,2,half year,339.27,False,5,True,0.52
+3491,1,year,62.74,False,2,True,0.5
+3492,15,year,467.17,False,8,True,0.5
+3493,12,year,183.1,False,0,True,0.5
+3494,14,month,306.95,False,8,True,0.51
+3495,14,year,390.54,True,6,False,0.5
+3496,21,half year,421.49,False,4,False,0.52
+3497,13,year,71.23,False,5,False,0.5
+3498,3,half year,155.99,False,8,False,0.52
+3499,5,month,297.8,True,0,False,0.51
+3500,12,half year,106.92,False,0,False,0.52
+3501,15,year,460.62,False,9,False,0.5
+3502,6,year,154.93,True,9,False,0.5
+3503,1,half year,146.15,False,8,True,0.52
+3504,20,month,148.64,False,2,False,0.51
+3505,16,year,120.6,True,5,True,0.5
+3506,19,year,410.58,True,0,True,0.5
+3507,5,month,114.02,False,7,False,0.51
+3508,11,month,43.36,True,7,True,0.51
+3509,14,half year,227.05,False,0,True,0.52
+3510,13,month,376.43,True,8,True,0.51
+3511,13,month,430.23,False,9,True,0.51
+3512,7,year,485.62,False,4,True,0.5
+3513,12,half year,214.92,False,7,True,0.52
+3514,8,month,208.17,True,2,True,0.51
+3515,18,year,458.89,False,9,True,0.5
+3516,9,half year,443.85,True,3,False,0.52
+3517,12,month,206.35,False,8,False,0.51
+3518,14,month,394.44,True,0,True,0.51
+3519,12,month,469.5,False,4,True,0.51
+3520,8,month,400.52,True,9,True,0.51
+3521,3,half year,486.33,False,8,True,0.52
+3522,16,year,378.14,True,9,True,0.5
+3523,6,year,237.97,True,8,False,0.5
+3524,4,half year,307.07,True,7,False,0.52
+3525,3,year,317.83,False,9,True,0.5
+3526,18,month,256.83,False,7,False,0.51
+3527,12,year,39.52,False,1,True,0.5
+3528,2,year,375.42,False,2,True,0.5
+3529,13,month,109.84,False,7,False,0.51
+3530,10,month,297.2,True,10,True,0.51
+3531,19,month,75.0,False,6,False,0.51
+3532,17,half year,67.11,False,4,True,0.52
+3533,6,year,433.11,False,7,False,0.5
+3534,11,month,159.55,True,0,False,0.51
+3535,13,month,377.79,True,0,True,0.51
+3536,6,half year,459.32,False,10,False,0.52
+3537,17,half year,85.61,True,8,True,0.52
+3538,21,year,12.82,True,10,False,0.5
+3539,4,month,21.14,False,1,True,0.51
+3540,14,year,218.84,True,10,True,0.5
+3541,18,month,452.02,False,7,True,0.51
+3542,12,half year,222.82,True,1,False,0.52
+3543,12,half year,235.35,False,1,False,0.52
+3544,1,year,340.43,False,9,True,0.5
+3545,22,year,497.23,False,3,False,0.5
+3546,8,year,232.28,False,4,True,0.5
+3547,22,half year,17.45,False,1,True,0.52
+3548,18,half year,140.24,False,8,True,0.52
+3549,9,month,364.17,False,1,True,0.51
+3550,21,month,264.32,True,0,True,0.51
+3551,10,month,195.55,True,1,False,0.51
+3552,16,month,139.0,True,7,False,0.51
+3553,12,year,200.38,False,0,True,0.5
+3554,11,half year,92.06,False,6,False,0.52
+3555,17,year,106.88,True,1,True,0.5
+3556,20,year,265.41,True,0,False,0.5
+3557,22,month,475.85,False,6,False,0.51
+3558,23,half year,366.18,True,3,False,0.52
+3559,21,half year,176.69,True,8,False,0.52
+3560,4,half year,199.98,False,3,True,0.52
+3561,23,year,187.37,False,9,True,0.5
+3562,11,year,329.51,False,8,True,0.5
+3563,12,month,423.08,False,1,False,0.51
+3564,12,year,269.6,False,5,False,0.5
+3565,22,year,118.76,False,0,False,0.5
+3566,10,year,441.96,True,0,True,0.5
+3567,10,month,54.83,False,7,True,0.51
+3568,13,year,126.35,False,0,True,0.5
+3569,11,month,253.08,False,1,True,0.51
+3570,6,half year,83.76,False,8,True,0.52
+3571,20,year,284.6,False,3,False,0.5
+3572,17,month,171.12,True,5,True,0.51
+3573,23,half year,201.8,False,0,True,0.52
+3574,1,month,229.43,True,8,False,0.51
+3575,15,month,343.47,False,2,True,0.51
+3576,12,year,86.46,True,6,False,0.5
+3577,12,year,484.33,False,6,True,0.5
+3578,1,month,96.28,True,0,True,0.51
+3579,12,year,123.37,True,2,False,0.5
+3580,3,year,10.84,False,8,False,0.5
+3581,6,half year,482.38,False,7,False,0.52
+3582,14,year,227.09,False,4,True,0.5
+3583,2,half year,282.09,False,3,True,0.52
+3584,1,year,492.52,True,2,False,0.5
+3585,9,half year,420.77,False,9,True,0.52
+3586,15,year,465.0,False,4,False,0.5
+3587,5,year,402.14,False,7,False,0.5
+3588,23,year,325.93,True,5,True,0.5
+3589,18,month,180.51,True,6,False,0.51
+3590,22,year,116.04,True,2,True,0.5
+3591,5,year,217.52,False,0,False,0.5
+3592,10,month,425.14,False,6,False,0.51
+3593,11,year,487.78,False,3,True,0.5
+3594,12,year,465.79,False,2,False,0.5
+3595,22,half year,222.99,False,0,False,0.52
+3596,10,month,102.62,False,6,True,0.51
+3597,6,year,199.96,True,4,False,0.5
+3598,9,half year,480.97,False,7,True,0.52
+3599,5,month,461.32,False,4,False,0.51
+3600,16,month,224.13,False,5,False,0.51
+3601,9,month,95.79,False,5,True,0.51
+3602,23,year,422.35,False,3,False,0.5
+3603,9,half year,329.31,False,5,True,0.52
+3604,20,half year,139.93,True,4,False,0.52
+3605,9,year,385.54,False,2,False,0.5
+3606,17,month,475.75,False,2,False,0.51
+3607,12,half year,101.2,False,0,True,0.52
+3608,2,month,107.19,False,5,True,0.51
+3609,18,half year,365.02,False,6,False,0.52
+3610,13,half year,46.74,True,7,False,0.52
+3611,6,year,273.26,False,1,True,0.5
+3612,3,half year,179.69,True,7,False,0.52
+3613,20,month,114.64,False,5,True,0.51
+3614,18,half year,164.85,True,2,False,0.52
+3615,6,year,353.63,False,3,False,0.5
+3616,3,month,203.6,False,0,True,0.51
+3617,20,month,424.79,True,9,True,0.51
+3618,2,year,422.85,False,2,True,0.5
+3619,15,year,326.57,False,8,True,0.5
+3620,15,half year,312.83,False,9,False,0.52
+3621,12,half year,46.96,True,3,False,0.52
+3622,4,month,400.4,True,5,True,0.51
+3623,8,month,458.56,False,5,True,0.51
+3624,16,year,421.99,False,10,False,0.5
+3625,16,year,119.84,True,10,True,0.5
+3626,3,month,92.93,False,9,False,0.51
+3627,5,half year,209.54,False,2,True,0.52
+3628,17,half year,461.27,False,2,False,0.52
+3629,20,year,327.1,False,1,True,0.5
+3630,21,half year,221.47,False,0,True,0.52
+3631,22,month,109.6,True,0,False,0.51
+3632,12,half year,393.05,False,2,False,0.52
+3633,16,year,387.65,False,4,False,0.5
+3634,5,year,140.72,True,7,True,0.5
+3635,2,year,336.66,False,6,False,0.5
+3636,5,half year,134.95,False,8,False,0.52
+3637,1,month,392.44,True,5,True,0.51
+3638,17,year,24.33,False,3,False,0.5
+3639,5,year,442.25,False,1,False,0.5
+3640,11,year,276.36,True,1,True,0.5
+3641,5,year,106.44,False,2,False,0.5
+3642,22,year,299.99,False,2,True,0.5
+3643,19,year,365.87,False,2,True,0.5
+3644,3,half year,372.13,True,9,True,0.52
+3645,9,year,475.68,False,4,False,0.5
+3646,1,month,199.76,False,5,False,0.51
+3647,12,month,432.83,True,8,True,0.51
+3648,21,year,31.97,False,3,True,0.5
+3649,14,month,160.28,False,7,True,0.51
+3650,9,half year,265.01,False,10,True,0.52
+3651,12,year,432.12,False,4,True,0.5
+3652,20,year,248.47,True,10,True,0.5
+3653,6,half year,302.61,True,2,False,0.52
+3654,17,year,124.46,False,8,True,0.5
+3655,17,year,149.84,False,7,False,0.5
+3656,3,half year,350.73,False,1,False,0.52
+3657,15,month,499.88,False,3,True,0.51
+3658,3,year,449.65,False,7,True,0.5
+3659,9,month,388.64,False,4,False,0.51
+3660,4,year,87.44,False,9,False,0.5
+3661,1,month,404.98,False,1,False,0.51
+3662,22,year,383.79,True,6,True,0.5
+3663,12,year,55.07,False,6,False,0.5
+3664,5,month,124.71,False,0,False,0.51
+3665,16,month,179.4,False,2,False,0.51
+3666,5,half year,327.69,True,9,True,0.52
+3667,21,month,160.76,False,1,False,0.51
+3668,12,half year,67.45,False,0,True,0.52
+3669,17,half year,31.85,True,5,False,0.52
+3670,7,year,339.17,False,3,False,0.5
+3671,14,month,102.79,False,3,True,0.51
+3672,14,half year,429.87,False,6,False,0.52
+3673,7,year,491.44,True,7,True,0.5
+3674,18,year,177.7,False,2,False,0.5
+3675,12,year,458.9,False,0,False,0.5
+3676,19,month,317.58,False,6,True,0.51
+3677,9,half year,224.61,False,7,True,0.52
+3678,20,half year,31.2,False,0,True,0.52
+3679,13,half year,202.92,True,6,False,0.52
+3680,11,half year,422.52,True,6,False,0.52
+3681,8,year,404.03,True,3,True,0.5
+3682,12,half year,484.98,False,3,True,0.52
+3683,21,year,364.84,False,8,True,0.5
+3684,14,month,325.95,False,8,False,0.51
+3685,7,month,304.84,True,5,True,0.51
+3686,14,month,78.75,False,9,True,0.51
+3687,3,half year,34.96,False,9,False,0.52
+3688,22,year,232.29,False,8,False,0.5
+3689,23,month,444.72,False,0,True,0.51
+3690,21,half year,477.36,False,2,False,0.52
+3691,12,month,460.52,False,1,False,0.51
+3692,11,year,112.47,False,8,False,0.5
+3693,1,half year,325.23,False,1,True,0.52
+3694,16,year,434.87,True,10,True,0.5
+3695,11,year,13.82,False,1,False,0.5
+3696,2,year,62.7,True,0,True,0.5
+3697,20,month,460.76,True,9,True,0.51
+3698,18,year,484.86,False,6,True,0.5
+3699,10,half year,11.89,True,7,False,0.52
+3700,2,half year,167.32,False,0,True,0.52
+3701,2,year,408.46,True,0,False,0.5
+3702,9,year,48.06,False,8,True,0.5
+3703,19,year,244.8,False,4,True,0.5
+3704,7,half year,473.7,True,3,False,0.52
+3705,21,month,328.75,False,3,True,0.51
+3706,18,year,455.91,False,0,True,0.5
+3707,21,half year,345.08,False,5,False,0.52
+3708,13,month,497.56,False,9,False,0.51
+3709,16,half year,98.08,True,6,False,0.52
+3710,1,month,15.46,False,6,False,0.51
+3711,3,year,81.18,False,8,True,0.5
+3712,15,year,268.22,True,4,False,0.5
+3713,21,year,164.1,False,0,False,0.5
+3714,3,half year,60.08,False,3,False,0.52
+3715,20,month,39.25,False,5,False,0.51
+3716,16,year,21.72,False,1,False,0.5
+3717,23,month,59.28,False,7,True,0.51
+3718,10,year,360.06,False,3,True,0.5
+3719,1,half year,398.73,False,1,False,0.52
+3720,10,year,382.73,True,2,False,0.5
+3721,19,year,293.34,True,2,True,0.5
+3722,12,half year,264.78,True,3,False,0.52
+3723,11,half year,499.91,True,0,False,0.52
+3724,1,half year,450.88,False,10,False,0.52
+3725,17,half year,163.64,False,6,True,0.52
+3726,12,half year,124.29,False,8,True,0.52
+3727,18,month,190.16,False,0,True,0.51
+3728,3,month,257.48,True,5,False,0.51
+3729,4,year,147.29,False,0,False,0.5
+3730,21,year,272.55,False,7,True,0.5
+3731,18,year,270.86,False,8,False,0.5
+3732,16,month,137.04,True,2,False,0.51
+3733,14,year,47.36,True,5,False,0.5
+3734,17,year,235.09,False,2,False,0.5
+3735,6,month,235.97,True,5,False,0.51
+3736,6,month,18.43,False,0,False,0.51
+3737,7,year,368.27,False,4,False,0.5
+3738,15,month,188.29,False,10,False,0.51
+3739,14,half year,288.41,False,4,True,0.52
+3740,9,month,16.71,True,1,False,0.51
+3741,12,month,57.78,False,4,True,0.51
+3742,16,half year,167.6,False,3,True,0.52
+3743,12,year,483.71,False,9,False,0.5
+3744,5,year,447.52,True,8,False,0.5
+3745,15,month,488.93,False,7,True,0.51
+3746,11,month,224.91,True,2,False,0.51
+3747,20,half year,21.44,False,2,True,0.52
+3748,14,year,220.86,False,2,False,0.5
+3749,4,year,221.88,False,4,True,0.5
+3750,14,year,489.1,False,8,True,0.5
+3751,3,half year,67.12,False,5,False,0.52
+3752,12,year,64.97,False,6,True,0.5
+3753,17,year,212.08,False,3,True,0.5
+3754,10,month,336.02,False,2,False,0.51
+3755,22,half year,411.02,False,10,False,0.52
+3756,22,year,326.26,True,5,True,0.5
+3757,1,year,451.96,False,6,True,0.5
+3758,11,year,182.91,False,10,False,0.5
+3759,18,year,341.19,False,0,True,0.5
+3760,15,half year,265.82,False,2,True,0.52
+3761,22,month,134.09,True,9,True,0.51
+3762,4,half year,301.59,True,2,False,0.52
+3763,10,half year,366.25,True,3,True,0.52
+3764,3,month,441.63,False,6,False,0.51
+3765,1,half year,345.53,False,2,True,0.52
+3766,10,half year,347.42,True,4,True,0.52
+3767,6,year,49.08,False,8,True,0.5
+3768,12,month,185.69,True,0,False,0.51
+3769,21,year,268.34,False,0,False,0.5
+3770,7,half year,313.25,False,1,True,0.52
+3771,21,month,215.32,False,2,True,0.51
+3772,19,half year,455.99,False,2,False,0.52
+3773,22,year,76.67,False,0,False,0.5
+3774,19,year,385.5,True,1,True,0.5
+3775,5,half year,249.97,True,0,True,0.52
+3776,12,half year,38.83,False,1,True,0.52
+3777,10,year,130.69,False,9,False,0.5
+3778,10,month,92.61,True,1,False,0.51
+3779,11,month,29.93,False,4,True,0.51
+3780,10,month,315.66,False,3,False,0.51
+3781,19,half year,257.37,False,5,True,0.52
+3782,22,year,370.82,True,9,True,0.5
+3783,14,year,92.43,True,1,False,0.5
+3784,9,year,479.72,False,10,False,0.5
+3785,2,month,132.27,True,4,False,0.51
+3786,19,year,390.86,False,9,False,0.5
+3787,16,half year,491.31,True,2,False,0.52
+3788,9,month,80.22,False,6,False,0.51
+3789,11,month,74.54,False,7,True,0.51
+3790,15,half year,323.3,False,3,False,0.52
+3791,14,month,482.78,True,5,True,0.51
+3792,20,month,93.97,False,9,False,0.51
+3793,14,year,157.52,True,7,True,0.5
+3794,11,month,117.36,False,7,False,0.51
+3795,5,year,313.64,True,7,True,0.5
+3796,12,half year,197.65,False,0,True,0.52
+3797,18,half year,391.86,True,8,True,0.52
+3798,13,year,265.11,True,9,False,0.5
+3799,4,half year,317.53,False,7,True,0.52
+3800,11,half year,77.74,False,6,False,0.52
+3801,12,year,109.81,True,4,False,0.5
+3802,10,half year,490.43,False,3,False,0.52
+3803,23,year,305.45,False,8,False,0.5
+3804,6,half year,443.43,False,2,False,0.52
+3805,6,year,150.69,False,8,True,0.5
+3806,20,month,174.71,True,10,True,0.51
+3807,6,year,37.77,False,0,True,0.5
+3808,15,month,451.06,True,2,False,0.51
+3809,21,half year,81.75,False,10,True,0.52
+3810,18,year,166.96,False,5,False,0.5
+3811,5,month,210.02,False,5,True,0.51
+3812,23,year,410.95,False,1,False,0.5
+3813,5,year,316.84,False,7,True,0.5
+3814,1,year,21.82,False,7,True,0.5
+3815,3,month,210.79,False,2,True,0.51
+3816,19,half year,493.25,True,10,True,0.52
+3817,22,year,367.62,False,1,False,0.5
+3818,16,year,116.96,True,9,True,0.5
+3819,20,month,488.42,True,4,True,0.51
+3820,4,year,332.68,False,7,True,0.5
+3821,6,half year,165.43,True,2,True,0.52
+3822,19,year,437.44,False,3,False,0.5
+3823,6,half year,62.56,False,4,True,0.52
+3824,3,year,97.56,True,7,False,0.5
+3825,16,year,75.2,True,4,False,0.5
+3826,1,month,313.37,True,5,True,0.51
+3827,6,half year,290.55,False,3,True,0.52
+3828,9,half year,323.96,False,9,True,0.52
+3829,9,year,313.19,False,6,False,0.5
+3830,10,month,456.49,False,8,True,0.51
+3831,18,half year,64.39,False,4,False,0.52
+3832,14,half year,218.46,True,6,True,0.52
+3833,6,year,89.61,False,0,True,0.5
+3834,6,half year,107.09,False,9,False,0.52
+3835,14,month,489.33,False,1,False,0.51
+3836,23,half year,158.39,False,7,False,0.52
+3837,15,month,397.01,False,6,False,0.51
+3838,20,year,117.74,True,6,True,0.5
+3839,4,half year,31.8,False,7,False,0.52
+3840,17,year,145.53,False,2,False,0.5
+3841,7,year,457.95,True,6,False,0.5
+3842,10,year,99.32,False,9,False,0.5
+3843,13,year,459.59,True,7,False,0.5
+3844,3,month,122.53,False,2,False,0.51
+3845,1,month,36.5,False,6,False,0.51
+3846,8,month,24.5,True,3,False,0.51
+3847,12,month,122.98,True,0,True,0.51
+3848,17,half year,87.64,False,6,False,0.52
+3849,18,half year,15.68,False,9,False,0.52
+3850,8,month,273.21,True,7,True,0.51
+3851,18,year,259.14,False,9,False,0.5
+3852,23,month,315.74,False,8,False,0.51
+3853,21,half year,486.48,False,0,True,0.52
+3854,18,half year,468.26,False,0,False,0.52
+3855,19,half year,50.42,False,4,False,0.52
+3856,19,year,484.33,False,0,True,0.5
+3857,19,half year,329.22,False,3,False,0.52
+3858,15,half year,476.01,False,0,True,0.52
+3859,3,year,174.34,False,2,True,0.5
+3860,12,year,233.67,False,8,False,0.5
+3861,5,year,285.6,False,4,False,0.5
+3862,23,year,205.11,False,6,True,0.5
+3863,21,year,100.79,False,0,False,0.5
+3864,16,month,431.08,False,8,True,0.51
+3865,13,year,366.87,True,5,True,0.5
+3866,12,half year,480.87,True,1,True,0.52
+3867,12,half year,259.35,False,7,False,0.52
+3868,14,month,263.75,False,3,False,0.51
+3869,18,year,260.67,False,6,True,0.5
+3870,1,year,97.34,False,9,False,0.5
+3871,20,half year,390.29,False,5,False,0.52
+3872,15,year,186.47,True,1,True,0.5
+3873,21,month,385.12,False,3,True,0.51
+3874,20,year,422.47,False,7,False,0.5
+3875,12,year,125.28,False,2,False,0.5
+3876,3,half year,30.15,False,2,False,0.52
+3877,11,half year,191.93,True,4,True,0.52
+3878,8,half year,464.48,False,9,False,0.52
+3879,20,month,326.74,False,0,False,0.51
+3880,6,year,141.31,True,0,True,0.5
+3881,4,year,281.72,False,3,False,0.5
+3882,22,year,473.43,True,1,False,0.5
+3883,21,month,243.32,False,4,True,0.51
+3884,17,half year,28.88,True,10,False,0.52
+3885,10,half year,271.18,False,1,True,0.52
+3886,19,month,157.88,True,5,True,0.51
+3887,8,half year,199.7,False,0,False,0.52
+3888,9,month,455.46,False,4,False,0.51
+3889,6,half year,321.18,False,2,False,0.52
+3890,11,year,101.13,True,8,False,0.5
+3891,13,year,44.18,False,3,False,0.5
+3892,15,half year,180.97,False,9,False,0.52
+3893,1,year,458.14,False,0,True,0.5
+3894,18,year,389.94,False,0,False,0.5
+3895,6,year,192.25,True,5,False,0.5
+3896,17,year,467.47,False,1,True,0.5
+3897,21,half year,429.64,False,6,True,0.52
+3898,6,year,235.4,True,5,False,0.5
+3899,17,year,117.29,True,0,False,0.5
+3900,4,year,59.73,False,5,False,0.5
+3901,6,year,401.13,True,8,False,0.5
+3902,13,half year,103.19,False,7,False,0.52
+3903,14,month,182.2,False,7,False,0.51
+3904,15,year,432.5,False,0,False,0.5
+3905,4,year,400.62,True,0,True,0.5
+3906,19,half year,57.45,True,7,False,0.52
+3907,21,year,386.76,True,7,True,0.5
+3908,20,half year,472.01,True,0,True,0.52
+3909,11,year,444.11,False,3,False,0.5
+3910,1,year,168.48,False,1,True,0.5
+3911,17,year,493.72,False,0,False,0.5
+3912,12,year,68.68,False,5,True,0.5
+3913,17,year,430.7,True,0,False,0.5
+3914,18,year,149.7,True,5,True,0.5
+3915,12,year,102.27,False,2,True,0.5
+3916,10,month,478.25,True,3,True,0.51
+3917,14,month,376.67,False,0,True,0.51
+3918,13,year,298.48,False,3,True,0.5
+3919,22,year,227.22,False,7,True,0.5
+3920,9,year,300.4,True,1,False,0.5
+3921,20,month,228.77,True,9,True,0.51
+3922,13,year,364.7,False,4,False,0.5
+3923,13,half year,429.78,False,9,True,0.52
+3924,11,year,10.31,False,4,False,0.5
+3925,16,month,490.22,False,7,True,0.51
+3926,10,half year,208.91,False,4,True,0.52
+3927,16,year,72.01,False,4,False,0.5
+3928,9,half year,328.75,False,10,True,0.52
+3929,6,year,18.73,False,1,True,0.5
+3930,22,month,399.14,False,9,True,0.51
+3931,17,month,466.46,True,9,False,0.51
+3932,7,year,221.27,False,9,False,0.5
+3933,22,half year,434.31,True,9,True,0.52
+3934,13,month,22.21,False,9,False,0.51
+3935,19,month,250.7,False,1,True,0.51
+3936,11,half year,364.71,False,0,True,0.52
+3937,5,year,19.46,True,0,False,0.5
+3938,13,year,115.29,False,7,False,0.5
+3939,22,half year,474.22,False,8,False,0.52
+3940,3,month,310.48,False,5,True,0.51
+3941,7,month,488.2,True,8,False,0.51
+3942,4,half year,37.39,True,5,False,0.52
+3943,4,month,342.33,True,6,False,0.51
+3944,7,year,185.8,True,5,True,0.5
+3945,8,month,402.61,False,6,True,0.51
+3946,6,month,234.9,False,5,True,0.51
+3947,2,month,490.13,False,10,True,0.51
+3948,2,month,412.25,False,5,False,0.51
+3949,23,year,67.03,False,2,False,0.5
+3950,7,year,50.29,True,3,True,0.5
+3951,18,half year,302.14,False,6,False,0.52
+3952,18,year,160.25,False,6,False,0.5
+3953,2,half year,235.74,False,3,True,0.52
+3954,6,year,185.83,False,3,True,0.5
+3955,22,month,446.77,True,4,True,0.51
+3956,17,half year,58.94,False,6,False,0.52
+3957,5,year,80.32,True,3,False,0.5
+3958,1,month,137.42,True,7,False,0.51
+3959,10,year,280.85,False,2,False,0.5
+3960,19,year,13.72,True,10,True,0.5
+3961,21,year,82.07,False,0,False,0.5
+3962,5,year,344.33,True,3,True,0.5
+3963,9,year,252.77,False,2,False,0.5
+3964,5,month,471.53,False,3,False,0.51
+3965,23,month,416.62,False,2,True,0.51
+3966,8,year,329.14,False,2,False,0.5
+3967,17,half year,264.2,True,10,True,0.52
+3968,15,year,371.49,True,2,True,0.5
+3969,14,month,390.1,True,7,False,0.51
+3970,21,year,479.5,False,8,True,0.5
+3971,6,year,392.75,False,0,True,0.5
+3972,3,month,347.57,True,1,False,0.51
+3973,6,year,462.27,False,7,False,0.5
+3974,8,year,13.56,False,2,True,0.5
+3975,14,year,491.2,False,10,True,0.5
+3976,12,half year,253.04,False,8,True,0.52
+3977,22,month,374.3,True,7,True,0.51
+3978,3,half year,237.29,True,3,False,0.52
+3979,21,year,469.97,True,4,True,0.5
+3980,12,month,396.79,True,5,True,0.51
+3981,3,half year,68.38,False,9,False,0.52
+3982,12,year,89.44,True,0,False,0.5
+3983,12,year,474.49,False,5,False,0.5
+3984,2,year,264.72,True,5,False,0.5
+3985,2,year,79.64,False,7,False,0.5
+3986,17,year,379.0,False,0,True,0.5
+3987,10,month,244.08,True,2,True,0.51
+3988,9,year,108.77,False,5,True,0.5
+3989,21,year,170.17,False,0,True,0.5
+3990,22,year,71.05,False,0,True,0.5
+3991,16,month,336.28,False,0,True,0.51
+3992,14,half year,373.43,False,9,False,0.52
+3993,23,half year,18.23,False,4,True,0.52
+3994,4,year,337.06,False,6,False,0.5
+3995,21,year,164.58,True,5,False,0.5
+3996,22,half year,471.45,False,5,False,0.52
+3997,15,year,118.42,False,0,False,0.5
+3998,15,month,200.16,False,5,False,0.51
+3999,12,year,484.29,False,3,False,0.5
